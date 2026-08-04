@@ -46,4 +46,4 @@ Industrial Operations • Equipment Failure
 
 SQL + BigQuery
 
-[View Project](./Industrial-Predictive-Maintenance/)
+[View Project](./Industrial-Predictive-Maintenance\)
