@@ -1,0 +1,1001 @@
+company_name,establishment_name,state,naics_code,industry_description,size,employees,total_injuries,total_deaths,total_dafw_cases,total_djtr_cases,risk_score,normalized_risk,injury_rate,fatality_rate,severity_load,lost_time_index,industry_avg_risk,risk_z_score,risk_category
+Domino's Pizza LLC,South Texas - SCC,TX,493120,Refrigerated warehousing,22,186.0,2,0,1,1,555561.17,2986888.01,10.75,0.0,2,55555567,536.88,32.53,CRITICAL OUTLIER
+"Hodo, Inc.","Hodo, Inc.",CA,311991,,22,1.0,10,0,9,1,31.26,31260.0,10000.0,0.0,10,176,24.39,0.17,NORMAL RISK
+NYC Health Hospitals,NYC Health Hospitals Gouverneur Skilled Nursing,NY,623110,Nursing Facility,1,2.0,14,0,14,0,56.87,28435.0,7000.0,0.0,14,1487,13.46,2.49,HIGH RISK OUTLIER
+Department of Homeless Services,Franklin Women Shelter,NY,923130,Community social service program administration,1,1.0,6,0,6,0,25.27,25270.0,6000.0,0.0,6,727,4.07,1.74,ABOVE AVERAGE RISK
+Zuma and Sons Distributors,ZUMA AND SONS DISTRIBUTORS CORPORATION,FL,424450,Confectionery merchant wholesalers,22,133.0,7,0,3,3,3038.08,22842.71,52.63,0.0,6,302058,5.29,33.61,CRITICAL OUTLIER
+City of Woodbury,City of Woodbury - Public Safety - Police,MN,922120,Police departments (except American Indian or Alaska Native),21,93.0,7,0,6,1,1727.44,18574.62,75.27,0.0,7,170694,30.26,18.83,CRITICAL OUTLIER
+CenCal Delivery LLC,CenCal Delivery LLC,CA,492110,Couriers and Express Delivery Services,1,1.0,12,0,1,2,17.51,17510.0,12000.0,0.0,3,51,32.44,-0.21,NORMAL RISK
+HDG Hotels LLC,Holiday Inn Brandon,FL,721110,Hotels (except casino hotels),21,26.0,3,0,2,0,444.07,17079.62,115.38,0.0,2,43707,8.52,19.51,CRITICAL OUTLIER
+Goodwill Industries of Central Michigans Heartland,Mason Store,MI,459510,Thrift Shop,1,16.0,106,0,0,106,265.07,16566.88,6625.0,0.0,106,7,4.12,15.69,CRITICAL OUTLIER
+DHS,Ana's Place,NY,923130,Community social service program administration,1,1.0,3,0,5,0,14.94,14940.0,3000.0,0.0,5,194,4.07,0.89,NORMAL RISK
+AAA Concrete,AAA Concrete,WA,327320,Central-mixed concrete manufacturing,21,76.0,4,0,2,0,1107.06,14566.58,52.63,0.0,2,109906,4.37,33.19,CRITICAL OUTLIER
+US Postal Service,GRAVOIS_1365462,MO,491110,Mail and Parcel Delivery,1,2.0,11,0,1,9,29.1,14550.0,5500.0,0.0,10,260,9.91,1.25,ABOVE AVERAGE RISK
+Acadia Healthcare Management Company Inc,Geisinger Behavioral Health CenterNortheast,PA,622210,Outpatient mental health and substance abuse centers,1,3.0,21,0,3,7,41.48,13826.67,7000.0,0.0,10,398,26.75,0.18,NORMAL RISK
+US Postal Service,HAMTRAMCK_1437858,MI,491110,Mail and Parcel Delivery,1,2.0,9,0,4,5,26.66,13330.0,4500.0,0.0,9,216,9.91,1.09,ABOVE AVERAGE RISK
+US Postal Service,DOWNTOWN NORTHBROOK_1375495,IL,491110,Mail and Parcel Delivery,1,1.0,5,0,3,1,13.24,13240.0,5000.0,0.0,4,74,9.91,0.22,NORMAL RISK
+"Fuse Fabrication, LLC","Fuse Fabrication, LLC",FL,238190,"Welding, on site, contractors",21,1.0,7,0,3,0,13.06,13060.0,7000.0,0.0,3,6,4.08,0.84,NORMAL RISK
+Department of Homeless Services,Jerome Avenue Shelter,NY,923130,Community social service program administration,1,1.0,3,0,3,0,12.63,12630.0,3000.0,0.0,3,363,4.07,0.7,NORMAL RISK
+First Student,20185 Naperville,IL,485410,"Bus operation, school and employee",3,381.0,6,0,5,1,4754.48,12478.95,15.75,0.0,6,473698,10.44,34.49,CRITICAL OUTLIER
+US Postal Service,BERLIN_1354745,MD,491110,Mail and Parcel Delivery,1,1.0,5,0,3,0,11.87,11870.0,5000.0,0.0,3,87,9.91,0.13,NORMAL RISK
+Alliance Interiors,Alliance Interiors,MI,336360,"Seats for public conveyances, manufacturing",22,4.0,19,0,3,12,47.47,11867.5,4750.0,0.0,15,447,21.24,0.71,NORMAL RISK
+CrossCountry Freight Solutions,LAS,NV,484110,General Freight Trucking,1,1.0,4,0,2,2,11.3,11300.0,4000.0,0.0,4,30,7.49,0.32,NORMAL RISK
+Marriott Internation,Torrance Marriott Redondo Beach,CA,721110,"Hotels, resort, without casinos",22,4.0,16,0,10,1,43.07,10767.5,4000.0,0.0,11,557,8.52,1.55,ABOVE AVERAGE RISK
+US Postal Service,MARCUS HOOK_1371809,PA,491110,Mail and Parcel Delivery,1,1.0,3,0,3,0,10.42,10420.0,3000.0,0.0,3,142,9.91,0.03,NORMAL RISK
+CrossCountry Freight Solutions,PUB,CO,484110,General Freight Trucking,1,1.0,4,0,2,1,10.32,10320.0,4000.0,0.0,3,82,7.49,0.24,NORMAL RISK
+US Postal Service,VAIL_1385618,AZ,491110,Mail and Parcel Delivery,1,1.0,3,0,2,1,10.13,10130.0,3000.0,0.0,3,163,9.91,0.01,NORMAL RISK
+Haisch Construction Company Inc.,Systems Plus Lumber Co. Inc.,CA,321214,"Floor trusses, wood, manufacturing",21,1.0,8,0,1,0,10.05,10050.0,8000.0,0.0,1,5,9.99,0.0,NORMAL RISK
+US Postal Service,HOMEWOOD_1367313,IL,491110,Mail and Parcel Delivery,1,1.0,3,0,2,1,9.91,9910.0,3000.0,0.0,3,141,9.91,0.0,NORMAL RISK
+Juzt Construction Inc.,Juzt Construction Inc.,AZ,238130,"Carpentry, framing",21,1.0,6,0,1,1,9.78,9780.0,6000.0,0.0,2,28,9.87,-0.0,NORMAL RISK
+US Postal Service,FORT LEAVENWORTH_1435559,KS,491110,Mail and Parcel Delivery,1,1.0,4,0,1,2,9.54,9540.0,4000.0,0.0,3,54,9.91,-0.02,NORMAL RISK
+US Postal Service,CONSHOHOCKEN_1358961,PA,491110,Mail and Parcel Delivery,1,2.0,6,0,5,1,18.86,9430.0,3000.0,0.0,6,136,9.91,0.58,NORMAL RISK
+"SBE Electrical Contracting, Inc.","SBE Electrical Contracting, Inc.",CA,238210,Electric contracting,22,4.0,13,0,5,7,37.18,9295.0,3250.0,0.0,12,368,4.16,3.43,CRITICAL OUTLIER
+US Postal Service,FLANAGAN_1363475,IL,491110,Mail and Parcel Delivery,1,1.0,3,0,3,0,9.21,9210.0,3000.0,0.0,3,21,9.91,-0.05,NORMAL RISK
+Unifi Aviation LLC,Unifi Aviation Services New York,NY,488119,Support Activities for Air Transportation,21,20.0,52,0,51,1,183.51,9175.5,2600.0,0.0,52,2801,12.82,5.31,CRITICAL OUTLIER
+US Postal Service,HOLCOMB_1367164,MS,491110,Mail and Parcel Delivery,1,1.0,2,1,1,0,9.16,9160.0,2000.0,1000.0,6,16,9.91,-0.05,NORMAL RISK
+S2C Management LLC,Republic,TX,531110,Residential Property Management,21,1.0,3,0,3,0,9.09,9090.0,3000.0,0.0,3,9,2.34,0.83,NORMAL RISK
+Coos Bay School District,Madison,OR,611110,Elementary and secondary schools,21,3.0,9,0,6,3,27.06,9020.0,3000.0,0.0,9,156,8.46,0.52,NORMAL RISK
+US Postal Service,NEW BRUNSWICK_1433617,NJ,491110,Mail and Parcel Delivery,1,2.0,4,0,6,0,17.76,8880.0,2000.0,0.0,6,176,9.91,0.51,NORMAL RISK
+US Postal Service,NORTH ATLANTA_1452964,GA,491110,Mail and Parcel Delivery,1,1.0,3,0,1,2,8.76,8760.0,3000.0,0.0,3,76,9.91,-0.08,NORMAL RISK
+Encore Countryside Manor West,Encore Countryside Manor West,WI,623311,Assisted-living facilities with on-site nursing facilities,21,2.0,5,0,1,4,17.41,8705.0,2500.0,0.0,5,441,11.23,0.31,NORMAL RISK
+Prolink Staffing Services LLC,Cleveland Operations,OH,561311,,1,1.0,4,0,2,0,8.65,8650.0,4000.0,0.0,2,65,10.1,-0.04,NORMAL RISK
+US Postal Service,CROWN POINT_1359934,IN,491110,Mail and Parcel Delivery,1,3.0,8,0,6,1,25.06,8353.33,2666.67,0.0,7,356,9.91,0.99,NORMAL RISK
+US Postal Service,LUCERNEMINES_1371127,PA,491110,Mail and Parcel Delivery,1,1.0,2,0,2,0,8.33,8330.0,2000.0,0.0,2,233,9.91,-0.1,NORMAL RISK
+VISION SCENERY,VISION SCENERY,CA,236220,Theater construction,2,130.0,21,0,2,12,1061.84,8168.0,161.54,0.0,14,101884,3.15,62.56,CRITICAL OUTLIER
+Ilum Solar,Ilum Solar -Bakersfield,CA,238210,Electrical contractors,21,1.0,6,0,1,0,8.14,8140.0,6000.0,0.0,1,14,4.16,0.41,NORMAL RISK
+Action Property Management,Pacific Gate,CA,531311,Residential property managing,1,1.0,1,0,1,0,8.13,8130.0,1000.0,0.0,1,513,1.79,0.78,NORMAL RISK
+"Bone Dry Roofing Florida, Inc.",BDRFL-SarasotaSouth,FL,238160,Asphalt roof shingle installation,1,1.0,4,0,2,0,8.11,8110.0,4000.0,0.0,2,11,4.51,0.45,NORMAL RISK
+ROLLING FRITO LAY SALES,FARGO   EmpWorkCtrCd 30001156,ND,424450,Confectionery Merchant Wholesalers,1,1.0,2,0,2,0,7.84,7840.0,2000.0,0.0,2,184,5.29,0.03,NORMAL RISK
+Municipality of Anchorage,MOA Fire Department Fire Training Center,AK,922160,"Firefighting (except forest), government and volunteer (except private)",1,4.0,9,0,7,2,31.27,7817.5,2250.0,0.0,9,527,19.65,0.18,NORMAL RISK
+CrossCountry Freight Solutions,GFK,ND,484110,General Freight Trucking,1,1.0,3,0,1,1,7.7,7700.0,3000.0,0.0,2,120,7.49,0.02,NORMAL RISK
+Resorts at Beaufort,Resorts at Beaufort,SC,623110,Nursing homes,22,9.0,4,0,31,0,68.83,7647.78,444.44,0.0,31,283,13.46,3.17,CRITICAL OUTLIER
+S2C Management LLC,The Branch,TX,531110,Residential Property Management,21,1.0,3,0,1,1,7.58,7580.0,3000.0,0.0,2,108,2.34,0.65,NORMAL RISK
+Shawano Place,Shawano Place,WI,623311,"Retirement communities, continuing care",21,1.0,2,0,1,1,7.47,7470.0,2000.0,0.0,2,197,11.23,-0.19,NORMAL RISK
+US Postal Service,TUCKERTON_1385110,NJ,491110,Mail and Parcel Delivery,1,1.0,2,0,2,0,7.35,7350.0,2000.0,0.0,2,135,9.91,-0.17,NORMAL RISK
+CrossCountry Freight Solutions,MSO,MT,484110,General Freight Trucking,1,1.0,2,0,1,1,7.26,7260.0,2000.0,0.0,2,176,7.49,-0.02,NORMAL RISK
+CrossCountry Freight Solutions,MOT,ND,484110,General Freight Trucking,1,1.0,2,0,1,1,7.24,7240.0,2000.0,0.0,2,174,7.49,-0.02,NORMAL RISK
+Department of Homeless Services,C.Gay ( Help SEC/Keener/Clark Thomas/Meyer),NY,923130,Community social service program administration,1,2.0,4,0,4,0,14.15,7075.0,2000.0,0.0,4,215,4.07,0.83,NORMAL RISK
+US Postal Service,FINLAYSON_1363396,MN,491110,Mail and Parcel Delivery,1,1.0,2,0,2,0,6.99,6990.0,2000.0,0.0,2,99,9.91,-0.19,NORMAL RISK
+City of Corona,Fire Station 2,CA,922160,"Fire departments (e.g., government, volunteer (except private))",1,4.0,8,0,8,0,27.31,6827.5,2000.0,0.0,8,331,19.65,0.12,NORMAL RISK
+University Hospitals,Bedford Medical Center,OH,622110,General medical and surgical hospitals,1,1.0,3,0,1,0,6.8,6800.0,3000.0,0.0,1,180,80.37,-0.48,NORMAL RISK
+CrossCountry Freight Solutions,SLC,UT,484110,General Freight Trucking,21,3.0,7,0,4,2,19.51,6503.33,2333.33,0.0,6,151,7.49,1.02,ABOVE AVERAGE RISK
+Alta Drywall,Innovative Wall Systems Inc.,CA,238310,Drywall,3,9.0,23,0,0,23,58.41,6490.0,2555.56,0.0,23,91,5.51,3.94,CRITICAL OUTLIER
+CrossCountry Freight Solutions,ABQ,NM,484110,General Freight Trucking,21,1.0,3,0,0,2,6.37,6370.0,3000.0,0.0,2,37,7.49,-0.1,NORMAL RISK
+LANG BUILDING SUPPLY,Main location,GA,444190,Building materials supply dealers,21,1.0,2,0,2,0,6.28,6280.0,2000.0,0.0,2,28,3.94,0.36,NORMAL RISK
+DESC,Crisis Solutions Center,WA,624221,Homeless shelters,2,17.0,13,0,36,8,105.68,6216.47,764.71,0.0,44,868,12.5,3.37,CRITICAL OUTLIER
+"Sodexo, Inc.",SODEXO AT MOUNTAIN AMERICA EXPO CENTER,UT,722310,Food Service Contractors,1,1.0,2,0,1,0,6.1,6100.0,2000.0,0.0,1,210,1.39,0.8,NORMAL RISK
+US Postal Service,FRANKFORD_1363976,DE,491110,Mail and Parcel Delivery,1,1.0,2,0,2,0,6.07,6070.0,2000.0,0.0,2,7,9.91,-0.25,NORMAL RISK
+Seven Hills Foundation,10 Welby Road New Bedford MA,MA,621330,Human Services,1,1.0,2,0,2,0,6.05,6050.0,2000.0,0.0,2,5,4.46,0.18,NORMAL RISK
+US Postal Service,MARSHFIELD_1371981,VT,491110,Mail and Parcel Delivery,1,1.0,2,0,1,1,6.04,6040.0,2000.0,0.0,2,54,9.91,-0.25,NORMAL RISK
+US Postal Service,VALMEYER_1385691,IL,491110,Mail and Parcel Delivery,1,1.0,2,0,2,0,6.03,6030.0,2000.0,0.0,2,3,9.91,-0.25,NORMAL RISK
+Packages LLC,Packages LLC,AZ,492110,"Courier services (i.e., intercity network) (except establishments operating under a universal service obligation)",22,5.0,12,0,7,1,29.61,5922.0,2400.0,0.0,8,211,32.44,-0.04,NORMAL RISK
+ABC Company,Plant 1,DC,112210,Hog feedlots,21,77.0,94,0,141,47,453.55,5890.26,1220.78,0.0,188,705,7.12,16.43,CRITICAL OUTLIER
+Partners In Excellence,North St. Paul,MN,621420,"Mental health centers and clinics (except hospitals), outpatient",2,1.0,2,0,1,0,5.8,5800.0,2000.0,0.0,1,180,2.85,0.17,NORMAL RISK
+FedEx Freight,Des Moines Shop IA FXFE-DSMS,IA,484122,Less Than Truckload General Freight Trucking,1,1.0,2,0,1,0,5.8,5800.0,2000.0,0.0,1,180,10.61,-0.3,NORMAL RISK
+CrossCountry Freight Solutions,DSM,IA,484110,General Freight Trucking,21,1.0,2,0,1,1,5.73,5730.0,2000.0,0.0,2,23,7.49,-0.15,NORMAL RISK
+US Postal Service,WYANDOTTE WEST_1435654,KS,491110,Mail and Parcel Delivery,1,1.0,2,0,1,1,5.72,5720.0,2000.0,0.0,2,22,9.91,-0.27,NORMAL RISK
+CrossCountry Freight Solutions,DEN,CO,484110,General Freight Trucking,22,5.0,10,0,5,2,28.37,5674.0,2000.0,0.0,7,537,7.49,1.77,ABOVE AVERAGE RISK
+US Postal Service,WARREN_1386429,OH,491110,Mail and Parcel Delivery,1,3.0,4,1,3,0,16.92,5640.0,1333.33,333.33,8,192,9.91,0.46,NORMAL RISK
+DHS,Street Homelessness Solutions,NY,923130,Community social service program administration,1,5.0,6,0,7,0,28.15,5630.0,1200.0,0.0,7,815,4.07,1.98,ABOVE AVERAGE RISK
+CrossCountry Freight Solutions,KSP,MT,484110,General Freight Trucking,1,1.0,2,0,0,2,5.58,5580.0,2000.0,0.0,2,58,7.49,-0.16,NORMAL RISK
+CrossCountry Freight Solutions,WIC,KS,484110,General Freight Trucking,21,2.0,4,0,3,0,11.15,5575.0,2000.0,0.0,3,115,7.49,0.31,NORMAL RISK
+Coastal Home Care LLC,Columbus GA,GA,624120,Services for the Elderly and Persons with Disabilities,1,1.0,2,0,1,1,5.51,5510.0,2000.0,0.0,2,1,5.72,-0.02,NORMAL RISK
+US Postal Service,MAHWAH_1371440,NJ,491110,Mail and Parcel Delivery,1,2.0,3,0,3,0,10.92,5460.0,1500.0,0.0,3,192,9.91,0.07,NORMAL RISK
+"Stonecushion, Inc.",Pinschower Inn,CA,312130,"Wines, Brandy, and Brandy Spirits",1,1.0,1,0,1,0,5.46,5460.0,1000.0,0.0,1,246,5.82,-0.03,NORMAL RISK
+US Postal Service,HARWOOD HEIGHTS_1434859,IL,491110,Mail and Parcel Delivery,1,4.0,8,0,4,3,21.72,5430.0,2000.0,0.0,7,122,9.91,0.77,NORMAL RISK
+US Postal Service,IRWIN_1375345,PA,491110,Mail and Parcel Delivery,1,2.0,3,0,3,0,10.82,5410.0,1500.0,0.0,3,182,9.91,0.06,NORMAL RISK
+S2C Management LLC,The Reid,TX,531110,Residential Property Management,1,1.0,2,0,1,0,5.37,5370.0,2000.0,0.0,1,137,2.34,0.37,NORMAL RISK
+Springbrook NY Inc,Springbrook NY Inc - HCBS DHWOW 642,NY,623210,,1,1.0,1,0,2,0,5.37,5370.0,1000.0,0.0,2,37,5.7,-0.02,NORMAL RISK
+Therm-All PDL,Stockton PDL,CA,444190,Prefabricated building dealers,1,1.0,2,0,0,2,5.3,5300.0,2000.0,0.0,2,30,3.94,0.21,NORMAL RISK
+DHS,Barbara Kleinman Residence,NY,923130,Community social service program administration,1,2.0,3,0,2,0,10.6,5300.0,1500.0,0.0,2,360,4.07,0.54,NORMAL RISK
+US Postal Service,VINELAND_1386014,NJ,491110,Mail and Parcel Delivery,1,3.0,5,0,5,0,15.52,5173.33,1666.67,0.0,5,52,9.91,0.37,NORMAL RISK
+US Postal Service,HAZELWOOD_1366589,MO,491110,Mail and Parcel Delivery,1,3.0,5,0,3,2,15.31,5103.33,1666.67,0.0,5,131,9.91,0.35,NORMAL RISK
+CrossCountry Freight Solutions,MSP,MN,484110,General Freight Trucking,21,3.0,7,0,4,0,15.21,5070.0,2333.33,0.0,4,21,7.49,0.65,NORMAL RISK
+CrossCountry Freight Solutions,SAL,KS,484110,General Freight Trucking,1,1.0,3,0,1,0,5.07,5070.0,3000.0,0.0,1,7,7.49,-0.21,NORMAL RISK
+S2C Management LLC,Hudson,TX,531110,Residential Property Management,1,1.0,2,0,0,2,5.06,5060.0,2000.0,0.0,2,6,2.34,0.34,NORMAL RISK
+US Postal Service,LOOP CLARK STREET_1370924,IL,491110,Mail and Parcel Delivery,1,6.0,10,0,8,1,30.08,5013.33,1666.67,0.0,9,258,9.91,1.32,ABOVE AVERAGE RISK
+ROLLING FRITO LAY SALES,RALEIGH DC   EmpWorkCtrCd 30001133,NC,424450,Confectionery Merchant Wholesalers,1,5.0,7,1,1,5,25.06,5012.0,1400.0,200.0,11,356,5.29,0.22,NORMAL RISK
+CrossCountry Freight Solutions,OMA,NE,484110,General Freight Trucking,21,2.0,5,0,1,1,10.01,5005.0,2500.0,0.0,2,151,7.49,0.21,NORMAL RISK
+US Postal Service,SABIN_1380204,MN,491110,Mail and Parcel Delivery,1,1.0,2,0,1,0,5.0,5000.0,2000.0,0.0,1,100,9.91,-0.32,NORMAL RISK
+US Postal Service,RIVERTON_1379489,NJ,491110,Mail and Parcel Delivery,1,2.0,3,0,3,0,9.82,4910.0,1500.0,0.0,3,82,9.91,-0.01,NORMAL RISK
+"Rental Concepts, LLC","Rental Concepts, LLC",AR,441320,"Tire dealers, automotive",3,8.0,13,0,12,1,38.95,4868.75,1625.0,0.0,13,45,3.36,7.71,CRITICAL OUTLIER
+US Postal Service,BARDSTOWN_1354034,KY,491110,Mail and Parcel Delivery,1,2.0,3,0,3,0,9.65,4825.0,1500.0,0.0,3,65,9.91,-0.02,NORMAL RISK
+SOUTHERN CALIFORNIA GAS COMPANY,Commerce Branch Ofc - Bld 1111 - 15,CA,221210,Natural Gas Distribution Srv.,1,1.0,1,0,1,0,4.82,4820.0,1000.0,0.0,1,182,3.48,0.15,NORMAL RISK
+US Postal Service,CAMP LAKE_1356775,WI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,4.8,4800.0,1000.0,0.0,1,180,9.91,-0.33,NORMAL RISK
+ROLLING FRITO LAY SALES,GUNNISON CO BIN   EmpWorkCtrCd 30000253,CO,424450,Confectionery Merchant Wholesalers,1,1.0,1,0,1,0,4.8,4800.0,1000.0,0.0,1,180,5.29,-0.01,NORMAL RISK
+Davis Cartage Co.,Davis Cartage Co. 3,MI,484122,"Trucking, general freight, long-distance, less-than-truckload (LTL)",1,1.0,1,0,1,0,4.8,4800.0,1000.0,0.0,1,180,10.61,-0.36,NORMAL RISK
+CBRE Inc,CBRE-50 W 5th Street,OH,561210,Activities related to Real Estate and Facilities Support Services,1,1.0,1,0,1,0,4.8,4800.0,1000.0,0.0,1,180,1.67,0.22,NORMAL RISK
+US Postal Service,MOORESTOWN_1373726,NJ,491110,Mail and Parcel Delivery,1,2.0,3,0,2,1,9.57,4785.0,1500.0,0.0,3,107,9.91,-0.02,NORMAL RISK
+CrossCountry Freight Solutions,ELP,TX,484110,General Freight Trucking,1,1.0,3,0,0,1,4.75,4750.0,3000.0,0.0,1,25,7.49,-0.23,NORMAL RISK
+Victor Treatment Centers,VTC Perris,CA,621420,"Mental health centers and clinics (except hospitals), outpatient",1,1.0,1,0,1,1,4.73,4730.0,1000.0,0.0,2,23,2.85,0.11,NORMAL RISK
+S2C Management LLC,Allure,NC,531110,Residential Property Management,1,1.0,1,0,1,1,4.66,4660.0,1000.0,0.0,2,16,2.34,0.29,NORMAL RISK
+CrossCountry Freight Solutions,NPL,NE,484110,General Freight Trucking,1,1.0,1,0,1,0,4.62,4620.0,1000.0,0.0,1,162,7.49,-0.24,NORMAL RISK
+"Ryder System, Inc.",Ryder Location 9921,MD,484121,"General freight trucking, long-distance, truckload (TL)",1,3.0,3,0,3,0,13.81,4603.33,1000.0,0.0,3,481,9.02,0.18,NORMAL RISK
+CrossCountry Freight Solutions,NCS,CO,484110,General Freight Trucking,1,1.0,2,0,1,0,4.6,4600.0,2000.0,0.0,1,60,7.49,-0.25,NORMAL RISK
+DHS,Atlantic Armory,NY,923130,Community social service program administration,1,5.0,5,0,7,0,22.87,4574.0,1000.0,0.0,7,387,4.07,1.55,ABOVE AVERAGE RISK
+Ignite Logistics,Ignite Logistics,OH,492210,"Delivery service (except as part of intercity carrier network, U.S. Postal Service)",22,20.0,44,0,21,0,90.11,4505.5,2200.0,0.0,21,411,20.25,3.12,CRITICAL OUTLIER
+"Mr. Bult's, Inc.",513 - Baltimore,MD,562111,"Trash hauling, local",1,2.0,3,0,2,0,8.84,4420.0,1500.0,0.0,2,184,10.51,-0.08,NORMAL RISK
+CrossCountry Freight Solutions,KCY,KS,484110,General Freight Trucking,21,2.0,3,0,2,0,8.49,4245.0,1500.0,0.0,2,149,7.49,0.08,NORMAL RISK
+Utz Quality Foods LLC,Jackson MS,MS,424410,General Line Grocery Merchant Wholesalers,1,1.0,1,0,1,0,4.2,4200.0,1000.0,0.0,1,120,34.97,-0.59,NORMAL RISK
+Ricoh USA Inc,878 - Jll Dell Inc Ok,OK,423420,Office Equipment,1,1.0,1,0,1,0,4.19,4190.0,1000.0,0.0,1,119,0.26,3.41,CRITICAL OUTLIER
+Welltower Inc.,"Welltower Inc. (Property Mgmt - Costa Mesa, CA)												",CA,531312,Nonresidential  property managing,1,1.0,1,0,1,0,4.17,4170.0,1000.0,0.0,1,117,2.61,0.18,NORMAL RISK
+US Postal Service,SOUTH JERSEY DISTRICT_1434045,NJ,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,4.14,4140.0,1000.0,0.0,1,114,9.91,-0.38,NORMAL RISK
+S2C Management LLC,Stetson,TX,531110,Residential Property Management,1,1.0,2,0,1,0,4.13,4130.0,2000.0,0.0,1,13,2.34,0.22,NORMAL RISK
+City of Bennettsville,Municipal Government,SC,921110,City and town managers' offices,2,5.0,13,0,3,1,20.6,4120.0,2600.0,0.0,4,10,14.73,0.12,NORMAL RISK
+REFE,Refrigerated Food Express LLC,PA,484121,"Motor freight carrier, general, long-distance, truckload (TL)",1,1.0,1,0,1,0,4.12,4120.0,1000.0,0.0,1,112,9.02,-0.19,NORMAL RISK
+Matanuska-Susitna Borough,Big Lake Transfer Station,AK,562212,Refuse collecting and operating solid waste landfills,1,1.0,1,0,0,1,4.09,4090.0,1000.0,0.0,1,159,5.08,-0.07,NORMAL RISK
+CrossCountry Freight Solutions,DIK,ND,484110,General Freight Trucking,1,1.0,1,0,1,0,4.06,4060.0,1000.0,0.0,1,106,7.49,-0.29,NORMAL RISK
+ViskoTeepak LLC,ViskoTeepak LLC,WI,326121,"Casings, sausage, nonrigid plastics, manufacturing",22,7.0,9,0,6,3,28.4,4057.14,1285.71,0.0,9,290,6.96,1.98,ABOVE AVERAGE RISK
+ROBERTA HEALTH AND REHAB,Roberta Health and Rehab,GA,623110,Skilled nursing facilities,2,2.0,2,0,2,0,8.09,4045.0,1000.0,0.0,2,209,13.46,-0.31,NORMAL RISK
+Acadia Healthcare Management Company Inc,Turning Point Centers all,UT,622210,Psychiatric and Substance Abuse Hospitals,1,1.0,2,0,0,1,4.04,4040.0,2000.0,0.0,1,54,26.75,-0.27,NORMAL RISK
+Action Property Management,Millennium Tower,CA,531311,Residential property managing,1,2.0,2,0,2,0,8.05,4025.0,1000.0,0.0,2,205,1.79,0.77,NORMAL RISK
+S2C Management LLC,8500 Harwood,TX,531110,Residential Property Management,1,1.0,2,0,1,0,4.02,4020.0,2000.0,0.0,1,2,2.34,0.21,NORMAL RISK
+Avista,Avista Kamiah,ID,221122,Electric power distribution systems,1,1.0,1,0,1,0,4.02,4020.0,1000.0,0.0,1,102,4.4,-0.04,NORMAL RISK
+US Postal Service,GREEN LANTERN_1365536,AL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,4.01,4010.0,1000.0,0.0,1,101,9.91,-0.39,NORMAL RISK
+"Fred Brown's Recovery Services, Inc.",Psychiatric and Substance Abuse Hospital,CA,622210,"Rehabilitation hospitals, alcoholism and drug addiction",22,6.0,4,4,0,0,24.0,4000.0,666.67,666.67,20,0,26.75,-0.03,NORMAL RISK
+US Postal Service,FLEMINGTON_1449899,NJ,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,4.0,4000.0,1000.0,0.0,1,100,9.91,-0.39,NORMAL RISK
+ShipBob,ShipBob ONT6,CA,493110,General warehousing and storage,1,1.0,2,0,0,1,3.99,3990.0,2000.0,0.0,1,49,22.18,-0.23,NORMAL RISK
+Action Property Management,One Rincon Hill,CA,531311,Residential property managing,1,1.0,1,0,0,1,3.97,3970.0,1000.0,0.0,1,147,1.79,0.27,NORMAL RISK
+CBRE Inc,CBRE-C17-14555 North Hayden Road,AZ,561210,Activities related to Real Estate and Facilities Support Services,1,1.0,1,0,1,0,3.97,3970.0,1000.0,0.0,1,97,1.67,0.17,NORMAL RISK
+US Postal Service,LOCH SHELDRAKE_1370730,NY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.95,3950.0,1000.0,0.0,1,95,9.91,-0.39,NORMAL RISK
+"Comcast Cable Communications Management, LLC",VTN70,VT,517111,Cable and Other Subscription Programming,1,2.0,2,0,2,0,7.86,3930.0,1000.0,0.0,2,186,4.31,0.37,NORMAL RISK
+Portland Polymers,Portland Polymers,OR,325991,Reformulating plastics resins from recycled plastics products,1,1.0,1,0,1,0,3.92,3920.0,1000.0,0.0,1,92,4.7,-0.12,NORMAL RISK
+Sodexo  Inc.,SODEXO AT HENKEL DARIEN O and M,CT,722310,Food Service Contractors,1,1.0,1,0,1,0,3.91,3910.0,1000.0,0.0,1,91,1.39,0.43,NORMAL RISK
+Sizemore Inc,22030 Trane,SC,561720,Janitorial Services,1,1.0,1,0,0,1,3.91,3910.0,1000.0,0.0,1,141,3.25,0.04,NORMAL RISK
+Tidal Wave Auto Spa,E0058-Buford GA -Lanier/Friendship,GA,811192,Car washes,1,6.0,8,0,3,4,23.45,3908.33,1333.33,0.0,7,345,1.98,5.45,CRITICAL OUTLIER
+J Polep Distribution Services,J Polep Wilmington,MA,424410,General-line groceries merchant wholesalers,21,20.0,31,0,0,31,77.84,3892.0,1550.0,0.0,31,34,34.97,0.82,NORMAL RISK
+US Postal Service,OZONE PARK ANNEX_1432709,NY,491110,Mail and Parcel Delivery,1,6.0,7,0,7,0,23.11,3851.67,1166.67,0.0,7,211,9.91,0.86,NORMAL RISK
+State of Alaska,Dept. of Military and Veterans Affairs 11,AK,923140,,1,1.0,2,0,0,1,3.85,3850.0,2000.0,0.0,1,35,2.29,0.21,NORMAL RISK
+Beth Israel Lahey Health,BETH ISRAEL DEACONESS MEDICAL CENTER,MA,622110,,22,56.0,102,0,47,2,214.49,3830.18,1821.43,0.0,49,1549,80.37,0.87,NORMAL RISK
+"Creech Horse Transportation, INC","Creech Horse Transportation, INC IL",IL,484230,"Livestock trucking, long-distance",1,1.0,1,0,1,0,3.82,3820.0,1000.0,0.0,1,82,6.44,-0.2,NORMAL RISK
+ROLLING FRITO LAY SALES,PORTLAND DC   EmpWorkCtrCd 30001467,OR,424450,Confectionery Merchant Wholesalers,1,4.0,6,0,2,2,15.28,3820.0,1500.0,0.0,4,228,5.29,0.11,NORMAL RISK
+US Postal Service,WM F BOLGER MGMT ACADEMY_1444358,MD,491110,Mail and Parcel Delivery,1,5.0,9,0,3,2,19.1,3820.0,1800.0,0.0,5,110,9.91,0.6,NORMAL RISK
+US Postal Service,ANDREW_1353067,IA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.81,3810.0,1000.0,0.0,1,81,9.91,-0.4,NORMAL RISK
+US Postal Service,COLERIDGE_1358631,NE,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,3.78,3780.0,1000.0,0.0,1,128,9.91,-0.4,NORMAL RISK
+US Postal Service,WHITTINGTON_1387633,IL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.78,3780.0,1000.0,0.0,1,78,9.91,-0.4,NORMAL RISK
+US Postal Service,OTTERBEIN_1376430,IN,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.75,3750.0,1000.0,0.0,1,75,9.91,-0.4,NORMAL RISK
+US Postal Service,TANNER_1384282,AL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.74,3740.0,1000.0,0.0,1,74,9.91,-0.4,NORMAL RISK
+"Matthews Senior Housing, LLC",Shawano Place Senior Living,WI,623312,Assisted Living Facilities for the Elderly,21,2.0,2,0,1,1,7.47,3735.0,1000.0,0.0,2,197,6.93,0.06,NORMAL RISK
+CBRE Inc,CBRE-300 Vesey Street,NY,561210,Activities related to Real Estate and Facilities Support Services,1,1.0,1,0,1,0,3.73,3730.0,1000.0,0.0,1,73,1.67,0.15,NORMAL RISK
+US Postal Service,LONDON_1370829,AR,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.72,3720.0,1000.0,0.0,1,72,9.91,-0.4,NORMAL RISK
+"The Arthur Jackson Company LLC dba Pritchard Industries, LLC",AJC- Insomnia Cookies,PA,561720,Janitorial services,1,1.0,1,0,1,0,3.71,3710.0,1000.0,0.0,1,71,3.25,0.03,NORMAL RISK
+US Postal Service,DIXMONT_1360952,ME,491110,Mail and Parcel Delivery,1,1.0,2,0,0,1,3.67,3670.0,2000.0,0.0,1,17,9.91,-0.41,NORMAL RISK
+SmartStop Storage Advisors LLC,6093 SmartStop - Colorado Springs Airport Rd,CO,531312,"Property managing, nonresidential real estate",1,3.0,4,0,1,2,11.0,3666.67,1333.33,0.0,3,200,2.61,0.99,NORMAL RISK
+GEM Industrial Inc.,GEM Industrial Inc. - North Star BlueScope Steel (Project Aristotle),OH,236210,Industrial building (except warehouses) construction,21,1.0,1,0,1,0,3.64,3640.0,1000.0,0.0,1,64,3.63,0.0,NORMAL RISK
+NEW COMMUNITY MASTER,Susex,NJ,561990,561990 All Other Support Services,1,1.0,1,0,1,0,3.62,3620.0,1000.0,0.0,1,62,6.6,-0.18,NORMAL RISK
+NEW COMMUNITY MASTER,Commons Senior,NJ,561990,561990 All Other Support Services,1,1.0,1,0,1,0,3.61,3610.0,1000.0,0.0,1,61,6.6,-0.18,NORMAL RISK
+Ricoh USA Inc,747 - Genesiscare Usa,FL,423420,Office Equipment,1,1.0,1,0,1,0,3.59,3590.0,1000.0,0.0,1,59,0.26,2.89,HIGH RISK OUTLIER
+US Postal Service,FLAT ROCK_1363487,AL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.59,3590.0,1000.0,0.0,1,59,9.91,-0.41,NORMAL RISK
+US Postal Service,BRAXTON_1355722,MS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.58,3580.0,1000.0,0.0,1,58,9.91,-0.41,NORMAL RISK
+GP Landscape,GP Landscape,CA,561730,Landscape care and maintenance services,2,8.0,16,0,0,8,28.58,3572.5,2000.0,0.0,8,58,6.22,1.69,ABOVE AVERAGE RISK
+FedEx Freight,Grand Junction Shop CO FXFE-GJNS,CO,484122,Less Than Truckload General Freight Trucking,1,1.0,1,0,1,0,3.57,3570.0,1000.0,0.0,1,57,10.61,-0.43,NORMAL RISK
+BrightView,34090 Closed  BVLS  Lakewood,FL,561730,Landscaping Services,1,1.0,2,0,0,1,3.57,3570.0,2000.0,0.0,1,7,6.22,-0.2,NORMAL RISK
+US Postal Service,REDDING RIDGE_1378980,CT,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.55,3550.0,1000.0,0.0,1,55,9.91,-0.42,NORMAL RISK
+DUO_GARD INDUSTRIES_ INC,DUO_GARD INDUSTRIES_ INC_Building 2 Executive Drive,MI,236220,Commercial and Institutional Building Construction,1,1.0,2,0,0,1,3.55,3550.0,2000.0,0.0,1,5,3.15,0.02,NORMAL RISK
+Blue Ridge Property Management LLC,"Village Green - Wilmington, NC",NC,531311,Property Management,3,3.0,3,0,3,1,10.62,3540.0,1000.0,0.0,4,12,1.79,1.08,ABOVE AVERAGE RISK
+US Postal Service,SIBLEY_1381612,LA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.54,3540.0,1000.0,0.0,1,54,9.91,-0.42,NORMAL RISK
+US Postal Service,HOLBROOK_1367157,PA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.53,3530.0,1000.0,0.0,1,53,9.91,-0.42,NORMAL RISK
+Welltower Inc.,"Welltower Inc. (Property Mgmt - DALLAS, TX (N CENTRAL EXPRESSWAY)												",TX,531312,Nonresidential  property managing,1,1.0,1,0,1,0,3.52,3520.0,1000.0,0.0,1,52,2.61,0.11,NORMAL RISK
+S2C Management LLC,Hyde Park at Valley Ranch,TX,531110,Residential Property Management,1,1.0,2,0,0,1,3.52,3520.0,2000.0,0.0,1,2,2.34,0.15,NORMAL RISK
+US Postal Service,WHITMORE_1387615,CA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.51,3510.0,1000.0,0.0,1,51,9.91,-0.42,NORMAL RISK
+US Postal Service,CENTRAL_1432933,OH,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.5,3500.0,1000.0,0.0,1,50,9.91,-0.42,NORMAL RISK
+US Postal Service,CREOLA_1359785,AL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.5,3500.0,1000.0,0.0,1,50,9.91,-0.42,NORMAL RISK
+CARSON CONCRETE CORPORATION,CARSON CONCRETE CORPORATION,PA,238110,CONCRETE CONSTRUCTION,22,5.0,4,0,4,0,17.2,3440.0,800.0,0.0,4,520,6.86,0.82,NORMAL RISK
+GOODWILL OF SF BAY,7246_Donation Site - Moraga,CA,459510,Used Merchandise Retailer,21,3.0,2,0,2,0,10.28,3426.67,666.67,0.0,2,428,4.12,0.37,NORMAL RISK
+Westport Properties Inc,PLANO  FULGHAM,TX,531130,Lessors of self storage units,3,1.0,1,0,0,1,3.42,3420.0,1000.0,0.0,1,92,1.34,0.33,NORMAL RISK
+US Postal Service,CORDOVA_1359250,MD,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.42,3420.0,1000.0,0.0,1,42,9.91,-0.42,NORMAL RISK
+EMERGE Enterprises,Furnish - EEI,MN,624190,"Social service centers, multipurpose",1,2.0,2,0,2,0,6.84,3420.0,1000.0,0.0,2,84,5.23,0.08,NORMAL RISK
+Westport Properties Inc,RALEIGH  TOWN CENTER DRIVE,NC,531130,Lessors of self storage units,3,2.0,2,0,0,2,6.83,3415.0,1000.0,0.0,2,183,1.34,0.86,NORMAL RISK
+US Postal Service,PLAINFIELD_1377707,PA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.41,3410.0,1000.0,0.0,1,41,9.91,-0.42,NORMAL RISK
+AAA COOPER TRANSPORTATION,AUG-GPA,GA,484121,"Bulk mail truck transportation, contract, long-distance (TL)",1,5.0,4,0,4,0,17.05,3410.0,800.0,0.0,4,505,9.02,0.3,NORMAL RISK
+Sodexo  Inc.,SODEXO AT KEISER U   SARASOTA 6001   FM,FL,561210,Facilities Support Services,1,1.0,1,0,0,1,3.4,3400.0,1000.0,0.0,1,90,1.67,0.12,NORMAL RISK
+US Postal Service,EHRHARDT_1362158,SC,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.4,3400.0,1000.0,0.0,1,40,9.91,-0.43,NORMAL RISK
+Avista,Avista Boulder Park,WA,221118,"Electric power generation, hydroelectric",1,3.0,3,0,1,2,10.2,3400.0,1000.0,0.0,3,220,3.09,1.12,ABOVE AVERAGE RISK
+US Postal Service,COALDALE_1358490,PA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.4,3400.0,1000.0,0.0,1,40,9.91,-0.43,NORMAL RISK
+YRC Freight,MD-Hagerstown-153-YRC Freight,MD,484122,Freight Trucking lTL,21,1.0,1,0,1,0,3.39,3390.0,1000.0,0.0,1,39,10.61,-0.45,NORMAL RISK
+US Postal Service,BENNET NE_1354650,NE,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,3.39,3390.0,1000.0,0.0,1,89,9.91,-0.43,NORMAL RISK
+US Postal Service,DUBBERLY_1361367,LA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.39,3390.0,1000.0,0.0,1,39,9.91,-0.43,NORMAL RISK
+Ricoh USA Inc,1573 - Us Cellular 511,WI,423420,Office Equipment,1,1.0,1,0,0,1,3.38,3380.0,1000.0,0.0,1,88,0.26,2.71,HIGH RISK OUTLIER
+US Postal Service,SHREWSBURY_1381597,MA,491110,Mail and Parcel Delivery,1,3.0,4,0,3,0,10.12,3373.33,1333.33,0.0,3,12,9.91,0.01,NORMAL RISK
+US Postal Service,MENAN_1372683,ID,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.37,3370.0,1000.0,0.0,1,37,9.91,-0.43,NORMAL RISK
+US Postal Service,PICKETT_1377426,WI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.36,3360.0,1000.0,0.0,1,36,9.91,-0.43,NORMAL RISK
+US Postal Service,EVERETTS_1438155,NC,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.36,3360.0,1000.0,0.0,1,36,9.91,-0.43,NORMAL RISK
+US Postal Service,ONONDAGA_1376161,MI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.35,3350.0,1000.0,0.0,1,35,9.91,-0.43,NORMAL RISK
+Ecumen,Snelling Yards,MN,623312,Assisted-living facilities without on-site nursing care facilities,1,2.0,1,0,2,0,6.68,3340.0,500.0,0.0,2,168,6.93,-0.03,NORMAL RISK
+Acadia Healthcare Management Company Inc,Bronson Behavioral Health,MI,622210,Psychiatric and Substance Abuse Hospitals,1,3.0,10,0,0,0,10.0,3333.33,3333.33,0.0,0,0,26.75,-0.2,NORMAL RISK
+"Comcast Cable Communications Management, LLC",MNN70,MN,517111,Cable and Other Subscription Programming,1,1.0,1,0,1,0,3.33,3330.0,1000.0,0.0,1,33,4.31,-0.1,NORMAL RISK
+US Postal Service,CIRCLEVILLE_1358076,UT,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.33,3330.0,1000.0,0.0,1,33,9.91,-0.43,NORMAL RISK
+US Postal Service,HAYDENVILLE_1366537,MA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.33,3330.0,1000.0,0.0,1,33,9.91,-0.43,NORMAL RISK
+Cleary Building Corporation,Cleary Building - Clinton,IL,238130,Post framing contractors,1,8.0,4,0,4,0,26.62,3327.5,500.0,0.0,4,1462,9.87,0.63,NORMAL RISK
+US Postal Service,HARRELLSVILLE_1366288,NC,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.31,3310.0,1000.0,0.0,1,31,9.91,-0.43,NORMAL RISK
+"Amergis Healthcare Staffing Services, Inc.	",Orange Field Office,CA,561320,Temporary staffing services,2,82.0,91,0,66,0,271.17,3306.95,1109.76,0.0,66,4817,6.99,10.5,CRITICAL OUTLIER
+US Postal Service,ROLETTE_1379778,ND,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.3,3300.0,1000.0,0.0,1,30,9.91,-0.43,NORMAL RISK
+US Postal Service,MAXWELTON_1372201,WV,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.3,3300.0,1000.0,0.0,1,30,9.91,-0.43,NORMAL RISK
+US Postal Service,QUINTON_1378657,AL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.3,3300.0,1000.0,0.0,1,30,9.91,-0.43,NORMAL RISK
+US Postal Service,WALDORF_1386212,MD,491110,Mail and Parcel Delivery,1,4.0,4,0,4,0,13.18,3295.0,1000.0,0.0,4,118,9.91,0.21,NORMAL RISK
+Questar Solutions,Mauser Packaging,WA,423840,Reconditioned barrels and drums merchant wholesalers,1,2.0,2,0,0,2,6.58,3290.0,1000.0,0.0,2,158,2.9,0.45,NORMAL RISK
+US Postal Service,CUMBERLAND CITY_1360019,TN,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.29,3290.0,1000.0,0.0,1,29,9.91,-0.43,NORMAL RISK
+US Postal Service,GAHANNA_1437600,OH,491110,Mail and Parcel Delivery,1,3.0,4,0,1,2,9.87,3290.0,1333.33,0.0,3,87,9.91,-0.0,NORMAL RISK
+Medical Associates,Medical Associates Maintenance Shop,IA,238350,Built-in wood cabinets constructed on site,1,2.0,3,0,0,2,6.57,3285.0,1500.0,0.0,2,57,6.2,0.04,NORMAL RISK
+US Postal Service,BURDEN_1356346,KS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.28,3280.0,1000.0,0.0,1,28,9.91,-0.43,NORMAL RISK
+US Postal Service,MONTROSE SD_1373678,SD,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.28,3280.0,1000.0,0.0,1,28,9.91,-0.43,NORMAL RISK
+US Postal Service,SILVER SPRING_1381688,MD,491110,Mail and Parcel Delivery,1,2.0,2,0,2,0,6.55,3275.0,1000.0,0.0,2,55,9.91,-0.22,NORMAL RISK
+US Postal Service,WILEY FORD_1387692,WV,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.27,3270.0,1000.0,0.0,1,27,9.91,-0.43,NORMAL RISK
+US Postal Service,FAIRCHILD_1362962,WI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.26,3260.0,1000.0,0.0,1,26,9.91,-0.43,NORMAL RISK
+US Postal Service,HODGES_1367140,AL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.25,3250.0,1000.0,0.0,1,25,9.91,-0.44,NORMAL RISK
+US Postal Service,COLERAIN_1358628,NC,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.25,3250.0,1000.0,0.0,1,25,9.91,-0.44,NORMAL RISK
+US Postal Service,HATLEY_1366468,WI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.25,3250.0,1000.0,0.0,1,25,9.91,-0.44,NORMAL RISK
+US Postal Service,RICHFORD_1379222,NY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.25,3250.0,1000.0,0.0,1,25,9.91,-0.44,NORMAL RISK
+US Postal Service,MAYER_1372212,MN,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.25,3250.0,1000.0,0.0,1,25,9.91,-0.44,NORMAL RISK
+US Postal Service,LAUREL IA_1369946,IA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.24,3240.0,1000.0,0.0,1,24,9.91,-0.44,NORMAL RISK
+Delux Public Charter,JSX (BUR),CA,481211,"Air passenger carriers, nonscheduled",2,8.0,8,0,4,5,25.89,3236.25,1000.0,0.0,9,239,4.08,2.55,HIGH RISK OUTLIER
+US Postal Service,STURGEON_1383801,MO,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.23,3230.0,1000.0,0.0,1,23,9.91,-0.44,NORMAL RISK
+US Postal Service,SOUTH MACON ANNEX_1533196,GA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.23,3230.0,1000.0,0.0,1,23,9.91,-0.44,NORMAL RISK
+US Postal Service,RAMONA_1378740,OK,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,3.23,3230.0,1000.0,0.0,1,73,9.91,-0.44,NORMAL RISK
+US Postal Service,HEMLOCK_1366691,NY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.22,3220.0,1000.0,0.0,1,22,9.91,-0.44,NORMAL RISK
+US Postal Service,CANONSBURG_1356882,PA,491110,Mail and Parcel Delivery,1,2.0,2,0,2,0,6.44,3220.0,1000.0,0.0,2,44,9.91,-0.23,NORMAL RISK
+Sodexo  Inc.,SODEXO AT USHR LONGWORTH C STORE,DC,722310,Food Service Contractors,1,1.0,1,0,1,0,3.21,3210.0,1000.0,0.0,1,21,1.39,0.31,NORMAL RISK
+US Postal Service,OXFORD JUNCTION_1376509,IA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.21,3210.0,1000.0,0.0,1,21,9.91,-0.44,NORMAL RISK
+CrossCountry Freight Solutions,PHX,AZ,484110,General Freight Trucking,21,2.0,3,0,0,2,6.41,3205.0,1500.0,0.0,2,41,7.49,-0.09,NORMAL RISK
+US Postal Service,LANCING_1369792,TN,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.2,3200.0,1000.0,0.0,1,20,9.91,-0.44,NORMAL RISK
+US Postal Service,KOPPERL_1369275,TX,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.19,3190.0,1000.0,0.0,1,19,9.91,-0.44,NORMAL RISK
+US Postal Service,HEBRON_1366625,KY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.19,3190.0,1000.0,0.0,1,19,9.91,-0.44,NORMAL RISK
+S2C Management LLC,The Hathaway at Willow Bend,TX,531110,Residential Property Management,1,1.0,1,0,1,0,3.19,3190.0,1000.0,0.0,1,19,2.34,0.1,NORMAL RISK
+US Postal Service,HICKORY_1366877,MS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.18,3180.0,1000.0,0.0,1,18,9.91,-0.44,NORMAL RISK
+US Postal Service,COLLEGE PARK_1358657,MD,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.18,3180.0,1000.0,0.0,1,18,9.91,-0.44,NORMAL RISK
+"Encore at Mahtomedi				","Encore at Mahtomedi				",MN,623311,"Retirement communities, continuing care",21,2.0,2,0,2,0,6.36,3180.0,1000.0,0.0,2,36,11.23,-0.25,NORMAL RISK
+US Postal Service,MIDDLEBORO_1372935,MA,491110,Mail and Parcel Delivery,1,2.0,2,0,2,0,6.35,3175.0,1000.0,0.0,2,35,9.91,-0.23,NORMAL RISK
+US Postal Service,WINGO_1387985,KY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.17,3170.0,1000.0,0.0,1,17,9.91,-0.44,NORMAL RISK
+US Postal Service,OSYKA_1376399,MS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.17,3170.0,1000.0,0.0,1,17,9.91,-0.44,NORMAL RISK
+US Postal Service,VOLCANO_1386071,CA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.17,3170.0,1000.0,0.0,1,17,9.91,-0.44,NORMAL RISK
+US Postal Service,SNOVER_1381938,MI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.17,3170.0,1000.0,0.0,1,17,9.91,-0.44,NORMAL RISK
+US Postal Service,ASSAWOMAN_1353534,VA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.16,3160.0,1000.0,0.0,1,16,9.91,-0.44,NORMAL RISK
+US Postal Service,WRENSHALL_1388333,MN,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.16,3160.0,1000.0,0.0,1,16,9.91,-0.44,NORMAL RISK
+US Postal Service,SAINT MARY_1380398,MO,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.15,3150.0,1000.0,0.0,1,15,9.91,-0.44,NORMAL RISK
+US Postal Service,NEWFOLDEN_1439040,MN,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.15,3150.0,1000.0,0.0,1,15,9.91,-0.44,NORMAL RISK
+C&C Machine and Fabrication LLC,C&C Machine and Fabrication LLC,MS,332710,Machine shops,21,1.0,1,0,1,0,3.14,3140.0,1000.0,0.0,1,14,3.65,-0.08,NORMAL RISK
+US Postal Service,BATCHELOR_1354173,LA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.14,3140.0,1000.0,0.0,1,14,9.91,-0.44,NORMAL RISK
+US Postal Service,CRESTON_1359817,WA,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,3.14,3140.0,1000.0,0.0,1,64,9.91,-0.44,NORMAL RISK
+Prolink Staffing Services LLC,Columbus Operations,OH,561311,,1,3.0,5,0,2,0,9.41,3136.67,1666.67,0.0,2,41,10.1,-0.02,NORMAL RISK
+busch products inc,busch products inc,NY,327991,"Cut stone products (e.g., blocks, statuary) manufacturing",21,90.0,5,0,2,0,281.64,3129.33,55.56,0.0,2,27264,4.01,18.39,CRITICAL OUTLIER
+US Postal Service,LEISURE WORLD_1442508,CA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.12,3120.0,1000.0,0.0,1,12,9.91,-0.44,NORMAL RISK
+US Postal Service,LOVELY_1371042,KY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.12,3120.0,1000.0,0.0,1,12,9.91,-0.44,NORMAL RISK
+US Postal Service,DUNCANVILLE_1361442,AL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.11,3110.0,1000.0,0.0,1,11,9.91,-0.44,NORMAL RISK
+US Postal Service,BRUSHTON_1356160,NY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.11,3110.0,1000.0,0.0,1,11,9.91,-0.44,NORMAL RISK
+US Postal Service,KANSASVILLE_1368689,WI,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,3.11,3110.0,1000.0,0.0,1,61,9.91,-0.44,NORMAL RISK
+"Matthews Senior Housing, LLC",Courtyard at Freemont,OH,623312,Assisted Living Facilities for the Elderly,21,2.0,2,0,1,1,6.22,3110.0,1000.0,0.0,2,72,6.93,-0.08,NORMAL RISK
+US Postal Service,WOODS HOLE_1434363,MA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.11,3110.0,1000.0,0.0,1,11,9.91,-0.44,NORMAL RISK
+US Postal Service,BERNE_1354760,NY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.11,3110.0,1000.0,0.0,1,11,9.91,-0.44,NORMAL RISK
+US Postal Service,LITTLE MOUNTAIN_1370638,SC,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.11,3110.0,1000.0,0.0,1,11,9.91,-0.44,NORMAL RISK
+US Postal Service,STATE DEPARTMENT_1434199,DC,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.11,3110.0,1000.0,0.0,1,11,9.91,-0.44,NORMAL RISK
+Clatsop County,Clatsop County Animal Shelter,OR,922120,Sheriffs' offices (except court functions only),1,4.0,8,0,2,0,12.41,3102.5,2000.0,0.0,2,41,30.26,-0.2,NORMAL RISK
+CBRE Inc,CBRE-400 North Aberdeen,IL,561210,Activities related to Real Estate and Facilities Support Services,1,1.0,1,0,1,0,3.1,3100.0,1000.0,0.0,1,10,1.67,0.1,NORMAL RISK
+US Postal Service,SUSANVILLE_1384053,CA,491110,Mail and Parcel Delivery,1,2.0,2,0,2,0,6.19,3095.0,1000.0,0.0,2,19,9.91,-0.24,NORMAL RISK
+US Postal Service,STANLEY_1383274,NY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.09,3090.0,1000.0,0.0,1,9,9.91,-0.45,NORMAL RISK
+US Postal Service,ROCKLAND_1379677,WI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.09,3090.0,1000.0,0.0,1,9,9.91,-0.45,NORMAL RISK
+US Postal Service,STA A PLAINFIELD_1383430,NJ,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.09,3090.0,1000.0,0.0,1,9,9.91,-0.45,NORMAL RISK
+US Postal Service,STREETSBORO_1437081,OH,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.08,3080.0,1000.0,0.0,1,8,9.91,-0.45,NORMAL RISK
+US Postal Service,UTICA_1385592,PA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.08,3080.0,1000.0,0.0,1,8,9.91,-0.45,NORMAL RISK
+US Postal Service,CALLAWAY_1356654,MN,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.08,3080.0,1000.0,0.0,1,8,9.91,-0.45,NORMAL RISK
+CrossCountry Freight Solutions,IDA,ID,484110,General Freight Trucking,1,1.0,1,0,1,0,3.08,3080.0,1000.0,0.0,1,8,7.49,-0.37,NORMAL RISK
+Eden Housing,5903_20624,CA,531311,,3,1.0,1,0,1,0,3.08,3080.0,1000.0,0.0,1,8,1.79,0.16,NORMAL RISK
+S2C Management LLC,Westley,TX,531110,Residential Property Management,1,1.0,1,0,0,1,3.07,3070.0,1000.0,0.0,1,57,2.34,0.09,NORMAL RISK
+US Postal Service,KENDALL_1368829,NY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.07,3070.0,1000.0,0.0,1,7,9.91,-0.45,NORMAL RISK
+US Postal Service,GUNTOWN_1365866,MS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.07,3070.0,1000.0,0.0,1,7,9.91,-0.45,NORMAL RISK
+US Postal Service,FOSTORIA_1363894,MI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.07,3070.0,1000.0,0.0,1,7,9.91,-0.45,NORMAL RISK
+Goodwill Industries of Lane and South Coast Counties,ADC 29th & Portland,OR,459510,Used merchandise store,1,2.0,2,0,2,0,6.13,3065.0,1000.0,0.0,2,13,4.12,0.12,NORMAL RISK
+US Postal Service,GRAND RIVER CARRIER ANNEX_1462245,MI,491110,Mail and Parcel Delivery,1,9.0,9,0,5,2,27.57,3063.33,1000.0,0.0,7,557,9.91,1.15,ABOVE AVERAGE RISK
+US Postal Service,HUNTINGTON_1367668,AR,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.06,3060.0,1000.0,0.0,1,6,9.91,-0.45,NORMAL RISK
+"Anchorage, Municipality Of (Inc)",MOA Eagle River Development Services,AK,921190,General public administration,1,1.0,1,0,1,0,3.06,3060.0,1000.0,0.0,1,6,15.19,-0.23,NORMAL RISK
+US Postal Service,STATE LINE_1383341,MS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.06,3060.0,1000.0,0.0,1,6,9.91,-0.45,NORMAL RISK
+MONTGOMERY COUNTY,1941 MRC 2999 HAMBURG ST,NY,623210,RESIDENTIAL CARE,1,1.0,1,0,1,0,3.06,3060.0,1000.0,0.0,1,6,5.7,-0.12,NORMAL RISK
+US Postal Service,WESTFORD_1387292,VT,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.06,3060.0,1000.0,0.0,1,6,9.91,-0.45,NORMAL RISK
+US Postal Service,PONCHA SPRINGS_1378001,CO,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.06,3060.0,1000.0,0.0,1,6,9.91,-0.45,NORMAL RISK
+PRIDE Industries,JUDICIAL COUNCIL OF CA NRO,CA,561210,Facilities Support Services,1,1.0,1,0,0,1,3.06,3060.0,1000.0,0.0,1,56,1.67,0.1,NORMAL RISK
+US Postal Service,NEW DOUGLAS_1374694,IL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.06,3060.0,1000.0,0.0,1,6,9.91,-0.45,NORMAL RISK
+US Postal Service,SCRANTON_1381044,KS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.06,3060.0,1000.0,0.0,1,6,9.91,-0.45,NORMAL RISK
+US Postal Service,HORATIO_1367408,SC,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.06,3060.0,1000.0,0.0,1,6,9.91,-0.45,NORMAL RISK
+US Postal Service,NORTH CHATHAM_1375282,NY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.06,3060.0,1000.0,0.0,1,6,9.91,-0.45,NORMAL RISK
+Proliant Health and Biologicals,PHB - Lexington,NE,311613,Rendering plants,1,13.0,14,0,6,7,39.75,3057.69,1076.92,0.0,13,325,7.77,3.87,CRITICAL OUTLIER
+US Postal Service,DELMAR_1360613,IA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.05,3050.0,1000.0,0.0,1,5,9.91,-0.45,NORMAL RISK
+US Postal Service,BEACH HAVEN_1354293,NJ,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.05,3050.0,1000.0,0.0,1,5,9.91,-0.45,NORMAL RISK
+Weee Inc.,"Weee Inc. Houston, TX (Logistics)",TX,492210,"Delivery service (except as part of intercity carrier network, U.S. Postal Service)",1,1.0,1,0,1,0,3.05,3050.0,1000.0,0.0,1,5,20.25,-0.77,NORMAL RISK
+US Postal Service,WILLOW CITY_1387807,ND,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.05,3050.0,1000.0,0.0,1,5,9.91,-0.45,NORMAL RISK
+Cicero School District 99,Burnham School,IL,611110,,1,1.0,1,0,1,0,3.05,3050.0,1000.0,0.0,1,5,8.46,-0.15,NORMAL RISK
+US Postal Service,READING_1378908,VT,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.05,3050.0,1000.0,0.0,1,5,9.91,-0.45,NORMAL RISK
+US Postal Service,PARK CENTRAL_1440939,CA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.05,3050.0,1000.0,0.0,1,5,9.91,-0.45,NORMAL RISK
+Schneider Inc.,300003787562384 - CO-Henderson-Schneider-10051 Dallas St,CO,484121,,1,1.0,1,0,1,0,3.05,3050.0,1000.0,0.0,1,5,9.02,-0.23,NORMAL RISK
+US Postal Service,WARRENS_1386441,WI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.05,3050.0,1000.0,0.0,1,5,9.91,-0.45,NORMAL RISK
+Coos Bay School District,Maintenance Department,OR,611110,Elementary and secondary schools,1,1.0,1,0,1,0,3.04,3040.0,1000.0,0.0,1,4,8.46,-0.15,NORMAL RISK
+US Postal Service,WALKERSVILLE_1386243,WV,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.04,3040.0,1000.0,0.0,1,4,9.91,-0.45,NORMAL RISK
+US Postal Service,BIRD CITY_1354999,KS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.04,3040.0,1000.0,0.0,1,4,9.91,-0.45,NORMAL RISK
+S2C Management LLC,The Holden,TX,531110,Residential Property Management,1,1.0,1,0,1,0,3.04,3040.0,1000.0,0.0,1,4,2.34,0.09,NORMAL RISK
+S2C Management LLC,Preslee,TX,531110,Residential Property Management,1,1.0,1,0,1,0,3.04,3040.0,1000.0,0.0,1,4,2.34,0.09,NORMAL RISK
+"Grammer Logistics,Inc.",6878_20822,TN,484121,,21,1.0,1,0,1,0,3.04,3040.0,1000.0,0.0,1,4,9.02,-0.23,NORMAL RISK
+US Postal Service,EAST LEROY_1361763,MI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.04,3040.0,1000.0,0.0,1,4,9.91,-0.45,NORMAL RISK
+US Postal Service,WESTPHALIA_1387348,IN,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.04,3040.0,1000.0,0.0,1,4,9.91,-0.45,NORMAL RISK
+MISSISSIPPI CHILDREN'S HOME SOCIETY,2001C-MCHS-2001 N WEST STREET,MS,624190,INDIVIDUAL  and FAMILY SERVICES,1,1.0,1,0,1,0,3.04,3040.0,1000.0,0.0,1,4,5.23,-0.11,NORMAL RISK
+US Postal Service,BLUFFTON_1355287,TX,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.03,3030.0,1000.0,0.0,1,3,9.91,-0.45,NORMAL RISK
+S2C Management LLC,The Vincent,TX,531110,Residential Property Management,1,1.0,1,0,1,0,3.03,3030.0,1000.0,0.0,1,3,2.34,0.08,NORMAL RISK
+US Postal Service,FANCY FARM_1363109,KY,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.03,3030.0,1000.0,0.0,1,3,9.91,-0.45,NORMAL RISK
+American Converters Inc,Beech Street,MN,326150,Foam plastics products (except polystrene) manufacturing,21,1.0,1,0,1,0,3.03,3030.0,1000.0,0.0,1,3,5.48,-0.31,NORMAL RISK
+Camrett Logistics,George James,VA,493110,"Bonded warehousing, general merchandise",1,1.0,1,0,1,0,3.03,3030.0,1000.0,0.0,1,3,22.18,-0.25,NORMAL RISK
+Western Energetix,117901 - Elko Bulk Plant,NV,484220,"specialized freight, trucking",1,1.0,1,0,0,1,3.03,3030.0,1000.0,0.0,1,53,5.57,-0.23,NORMAL RISK
+US Postal Service,FLORENCE_1363551,KS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.03,3030.0,1000.0,0.0,1,3,9.91,-0.45,NORMAL RISK
+Davis Cartage Co.,Davis Cartage Co. Main,MI,484122,"General freight trucking, long-distance, less-than-truckload (LTL)",21,2.0,2,0,2,0,6.06,3030.0,1000.0,0.0,2,6,10.61,-0.28,NORMAL RISK
+US Postal Service,MIZE_1373418,MS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.03,3030.0,1000.0,0.0,1,3,9.91,-0.45,NORMAL RISK
+US Postal Service,DU BOIS_1361361,IL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.03,3030.0,1000.0,0.0,1,3,9.91,-0.45,NORMAL RISK
+US Postal Service,KENVIL_1368913,NJ,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.03,3030.0,1000.0,0.0,1,3,9.91,-0.45,NORMAL RISK
+Utz Quality Foods LLC,Opelika FL,FL,424410,General Line Grocery Merchant Wholesalers,1,1.0,1,0,1,0,3.03,3030.0,1000.0,0.0,1,3,34.97,-0.61,NORMAL RISK
+Matunuck Live Theatre,Theatre By The Sea,RI,711110,Summer theaters,22,6.0,13,0,1,2,18.14,3023.33,2166.67,0.0,3,14,15.53,0.09,NORMAL RISK
+US Postal Service,SAINT BENEDICT_1382654,LA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,9.91,-0.45,NORMAL RISK
+US Postal Service,GREY EAGLE_1365732,MN,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,9.91,-0.45,NORMAL RISK
+US Postal Service,RIVERSIDE_1379473,IL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,9.91,-0.45,NORMAL RISK
+US Postal Service,DORCHESTER_1361046,SC,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,9.91,-0.45,NORMAL RISK
+THE CONNECTION INC,Freeman Street Bridgeport,CT,813211,813211 Grantmaking Foundations,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,1.79,0.24,NORMAL RISK
+CBRE Inc,CBRE-6060 Dutchmans Lane,KY,561210,Activities related to Real Estate and Facilities Support Services,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,1.67,0.1,NORMAL RISK
+"American Converters, Inc.",Foam Fabricators of Minnesota,MN,326150,"Cushions, carpet and rug, urethane and other foam plastics (except polystrene), manufacturing",21,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,5.48,-0.31,NORMAL RISK
+US Postal Service,OAK VALE_1375740,MS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,9.91,-0.45,NORMAL RISK
+Powell Valves,"Powell Valves, Texas",TX,332911,"Valves, industrial-type (e.g., check, gate, globe, relief, safety), manufacturing",1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,4.18,-0.15,NORMAL RISK
+US Postal Service,MONTROSE_1373676,GA,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,9.91,-0.45,NORMAL RISK
+US Postal Service,BENNETT_1354651,NC,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,9.91,-0.45,NORMAL RISK
+Cape Cod Young Men's Christian Association Inc.,YMCA Cape Cod - Camp Harwich,MA,713990,Summer day camps (except instructional),1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,5.57,-0.18,NORMAL RISK
+US Postal Service,SAN YGNACIO_1380656,TX,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,9.91,-0.45,NORMAL RISK
+"Matthews Senior Housing, LLC",Encore at Hugo,MN,623312,Assisted Living Facilities for the Elderly,21,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,6.93,-0.42,NORMAL RISK
+US Postal Service,PONY EXPRESS_1378022,NV,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.02,3020.0,1000.0,0.0,1,2,9.91,-0.45,NORMAL RISK
+US Postal Service,GAYLESVILLE_1364563,AL,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.01,3010.0,1000.0,0.0,1,1,9.91,-0.45,NORMAL RISK
+US Postal Service,WEST CONCORD_1386992,MN,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.01,3010.0,1000.0,0.0,1,1,9.91,-0.45,NORMAL RISK
+Oregon Military Dept,Redmond Armory,OR,928110,State Government,1,1.0,1,0,1,0,3.01,3010.0,1000.0,0.0,1,1,1.9,0.23,NORMAL RISK
+CrossCountry Freight Solutions,WTT,SD,484110,General Freight Trucking,1,1.0,1,0,1,0,3.01,3010.0,1000.0,0.0,1,1,7.49,-0.38,NORMAL RISK
+US Postal Service,GRAND RAPIDS-SEYMOUR SQUARE_1381278,MI,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.01,3010.0,1000.0,0.0,1,1,9.91,-0.45,NORMAL RISK
+TKC Management Services,RHO Inc,NC,531312,Commercial property managing,1,1.0,1,0,1,0,3.01,3010.0,1000.0,0.0,1,1,2.61,0.05,NORMAL RISK
+US Postal Service,LAMAR_1369728,MS,491110,Mail and Parcel Delivery,1,1.0,1,0,1,0,3.01,3010.0,1000.0,0.0,1,1,9.91,-0.45,NORMAL RISK
+Coversafe - NNY,Coversafe - NNY Location,NY,238990,"Swimming pool, outdoor, construction",1,1.0,1,0,1,0,3.01,3010.0,1000.0,0.0,1,1,2.32,0.1,NORMAL RISK
+Related Management Company LP,Related Management Company LP Vista Angelina,CA,531110,,1,2.0,2,0,2,0,6.01,3005.0,1000.0,0.0,2,1,2.34,0.45,NORMAL RISK
+Cove Property Management,Jamaica Bay Village,FL,531311,"Property managing, residential real estate",21,1.0,3,0,0,0,3.0,3000.0,3000.0,0.0,0,0,1.79,0.15,NORMAL RISK
+Ilum Solar,Ilum Solar -Sacramento,CA,238210,Electrical wiring contractors,21,1.0,3,0,0,0,3.0,3000.0,3000.0,0.0,0,0,4.16,-0.12,NORMAL RISK
+S2C Management LLC,The Marino,FL,531110,Residential Property Management,1,1.0,1,0,1,0,3.0,3000.0,1000.0,0.0,1,0,2.34,0.08,NORMAL RISK
+YRC Freight,NY-Maybrook-123-YRC Freight,NY,484122,Freight Trucking lTL,22,2.0,1,1,0,0,6.0,3000.0,500.0,500.0,5,0,10.61,-0.28,NORMAL RISK
+US Postal Service,SOUTH TACOMA_1382295,WA,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.99,2990.0,1000.0,0.0,1,49,9.91,-0.45,NORMAL RISK
+Mid-Willamette Valley Community Action Agency,Head Start Inclusion and Support,OR,624190,,1,2.0,2,0,0,2,5.86,2930.0,1000.0,0.0,2,86,5.23,0.03,NORMAL RISK
+Hills Distribution,00051365-27 Plimpton & Hills Corp,CT,423720,Plumbing supplies merchant wholesalers,1,7.0,7,0,2,3,20.44,2920.0,1000.0,0.0,5,494,3.09,2.87,HIGH RISK OUTLIER
+Milne Fruit Products,"Milne Fruit Products, Inc.",WA,311930,"Concentrates, drink (except frozen fruit juice), manufacturing",22,5.0,9,0,0,3,14.58,2916.0,1800.0,0.0,3,108,8.06,0.44,NORMAL RISK
+American Airlines Group AA-BUF-BUFFALO,AA-BUF-BUFFALO-BUF-TRML AA-BUF-BUFFALO,NY,481111,Scheduled Air Transportation,1,2.0,2,0,1,0,5.8,2900.0,1000.0,0.0,1,180,80.99,-0.25,NORMAL RISK
+Blue Chip Pros,5553   Macys TX Irving,TX,561720,,1,2.0,2,0,1,0,5.8,2900.0,1000.0,0.0,1,180,3.25,0.14,NORMAL RISK
+Blue Chip Pros,5372   Macys CA Victoria Gardens,CA,561720,,1,2.0,2,0,1,0,5.8,2900.0,1000.0,0.0,1,180,3.25,0.14,NORMAL RISK
+Tri-County Metropolitan Transportation District of Oregon,Ruby Junction Maintenance,OR,485111,"Commuter transit systems, mixed mode (e.g., bus, commuter rail, subway combination)",1,13.0,12,0,8,2,37.58,2890.77,923.08,0.0,10,658,40.83,-0.05,NORMAL RISK
+Westport Properties Inc,VICTORIA  LAURENT,TX,531130,Lessors of self storage units,3,1.0,1,0,0,1,2.88,2880.0,1000.0,0.0,1,38,1.34,0.24,NORMAL RISK
+"Gaudenzia, Inc",Tioga Arms,PA,624229,Housing assistance agencies,1,2.0,2,0,1,1,5.73,2865.0,1000.0,0.0,2,23,3.1,0.41,NORMAL RISK
+Ho-Chunk Inc.,Pony Express Sloan,IA,447110,Convenience food with gasoline stations,1,2.0,2,0,1,1,5.69,2845.0,1000.0,0.0,2,19,1.22,0.84,NORMAL RISK
+Axis Global Systems LLC,Arizona,AZ,236220,"Warehouse, commercial and institutional, construction",1,2.0,2,0,1,1,5.68,2840.0,1000.0,0.0,2,18,3.15,0.15,NORMAL RISK
+Cougle's Recycling Inc.,"Auburn, PA",PA,562920,MRF (materials recovery facilities),1,6.0,5,1,1,3,16.95,2825.0,833.33,166.67,9,45,4.17,1.67,ABOVE AVERAGE RISK
+"LifeSouth Community Blood Centers, Inc.",Alachua Donor Center,FL,621991,"Health and Allied Services, Not Elsewhere Classified; Blood Bank",1,2.0,2,0,1,1,5.63,2815.0,1000.0,0.0,2,13,3.88,0.19,NORMAL RISK
+US Postal Service,EVANSVILLE_1362849,MN,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.79,2790.0,1000.0,0.0,1,29,9.91,-0.47,NORMAL RISK
+US Postal Service,STEWART_1383565,MN,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.79,2790.0,1000.0,0.0,1,29,9.91,-0.47,NORMAL RISK
+"Three Mac Farms, Inc.","Three Mac Farms, Inc.",CA,111920,"Cotton farming, field and seed production",1,2.0,2,0,1,0,5.52,2760.0,1000.0,0.0,1,152,4.38,0.21,NORMAL RISK
+Acadia Healthcare Management Company Inc,WDR Marketing Office,PA,551114,Corp and admin offices,1,1.0,1,0,0,1,2.76,2760.0,1000.0,0.0,1,26,2.09,0.04,NORMAL RISK
+US Postal Service,MELVIN_1372665,MI,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.75,2750.0,1000.0,0.0,1,25,9.91,-0.47,NORMAL RISK
+Blue Chip Pros,9013   DIY CA AGOURA 13,CA,561720,,1,2.0,2,0,1,0,5.5,2750.0,1000.0,0.0,1,150,3.25,0.13,NORMAL RISK
+The Greater Boston Food Bank,The Greater Boston Food Bank,MA,493120,Refrigerated Warehousing and Storage,22,6.0,7,0,4,0,16.45,2741.67,1166.67,0.0,4,145,536.88,-0.03,NORMAL RISK
+US Postal Service,GOODFIELD_1365130,IL,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.74,2740.0,1000.0,0.0,1,24,9.91,-0.47,NORMAL RISK
+Action Property Management,Madrone,CA,531311,Residential property managing,1,1.0,1,0,0,1,2.73,2730.0,1000.0,0.0,1,23,1.79,0.12,NORMAL RISK
+US Postal Service,IONE_1368001,OR,491110,Mail and Parcel Delivery,1,1.0,0,0,1,0,2.72,2720.0,0.0,0.0,1,72,9.91,-0.47,NORMAL RISK
+US Postal Service,EAGLE LAKE_1361584,MN,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.72,2720.0,1000.0,0.0,1,22,9.91,-0.47,NORMAL RISK
+Dawkins On-Site LLC,Dillon,SC,327320,Central-mixed concrete manufacturing,1,2.0,1,0,1,0,5.44,2720.0,500.0,0.0,1,244,4.37,0.03,NORMAL RISK
+US Postal Service,SILVER BAY_1381661,MN,491110,Mail and Parcel Delivery,1,5.0,4,0,3,1,13.58,2716.0,800.0,0.0,4,208,9.91,0.24,NORMAL RISK
+Cable One,Natchez Mississippi,MS,515210,Cable Television System,1,4.0,3,0,2,1,10.85,2712.5,750.0,0.0,3,235,2.73,1.18,ABOVE AVERAGE RISK
+Capstone Logistics,30321 Capstone - Aldi Moreno Sanitation,CA,493110,GEN. WAREHOUSING & STORAGE,21,1.0,1,0,0,1,2.71,2710.0,1000.0,0.0,1,21,22.18,-0.25,NORMAL RISK
+GWNNE,Norris Cotton Federal Building,NH,624310,Voc Rehab Services,1,1.0,1,0,0,1,2.71,2710.0,1000.0,0.0,1,21,3.52,-0.09,NORMAL RISK
+Westport Properties Inc,BAKERSFIELD  TRUXTUN,CA,531130,Lessors of self storage units,3,1.0,1,0,0,1,2.71,2710.0,1000.0,0.0,1,21,1.34,0.21,NORMAL RISK
+CBRE Inc,CBRE-South Sepulveda,CA,561210,Activities related to Real Estate and Facilities Support Services,1,1.0,1,0,0,1,2.68,2680.0,1000.0,0.0,1,18,1.67,0.07,NORMAL RISK
+Genuine Parts Company,154-BH IBS,CA,441310,"Parts and accessories dealers, automotive",1,1.0,1,0,0,1,2.67,2670.0,1000.0,0.0,1,17,2.7,-0.0,NORMAL RISK
+US Postal Service,BOLTON_1434079,CT,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.67,2670.0,1000.0,0.0,1,17,9.91,-0.47,NORMAL RISK
+CrossCountry Freight Solutions,LQR,MT,484110,General Freight Trucking,1,1.0,1,0,0,1,2.67,2670.0,1000.0,0.0,1,17,7.49,-0.41,NORMAL RISK
+US Postal Service,TRABUCO CANYON_1384915,CA,491110,Mail and Parcel Delivery,1,2.0,2,0,0,2,5.33,2665.0,1000.0,0.0,2,33,9.91,-0.3,NORMAL RISK
+US Postal Service,ALBION_1352609,WA,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.66,2660.0,1000.0,0.0,1,16,9.91,-0.47,NORMAL RISK
+"Earthling Deliveries, LLC","Earthling Deliveries, LLC",TX,492110,Express delivery services (except establishments operating under a universal service obligation),21,33.0,30,0,22,7,87.76,2659.39,909.09,0.0,29,326,32.44,0.8,NORMAL RISK
+US Postal Service,ANDALE_1353037,KS,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.65,2650.0,1000.0,0.0,1,15,9.91,-0.47,NORMAL RISK
+US Postal Service,HATTON_1366475,ND,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.65,2650.0,1000.0,0.0,1,15,9.91,-0.47,NORMAL RISK
+CBRE Inc,CBRE-1801 Lind Ave SW,WA,561210,Activities related to Real Estate and Facilities Support Services,1,1.0,1,0,0,1,2.64,2640.0,1000.0,0.0,1,14,1.67,0.07,NORMAL RISK
+US Postal Service,CAMDEN_1356735,SC,491110,Mail and Parcel Delivery,1,4.0,3,0,3,0,10.54,2635.0,750.0,0.0,3,154,9.91,0.04,NORMAL RISK
+US Postal Service,HIGHLANDS_1366950,NJ,491110,Mail and Parcel Delivery,1,3.0,2,0,2,0,7.89,2630.0,666.67,0.0,2,189,9.91,-0.13,NORMAL RISK
+THE CONNECTION INC,Court Street Middletown,CT,813211,813211 Grantmaking Foundations,1,1.0,1,0,0,1,2.63,2630.0,1000.0,0.0,1,13,1.79,0.17,NORMAL RISK
+CAMDEN DEVELOPMENT INC,CAMDEN SOUTH END SQUARE,NC,531110,Lessors Residential Bldgs Dwellings,1,3.0,3,0,0,3,7.87,2623.33,1000.0,0.0,3,37,2.34,0.68,NORMAL RISK
+Lincoln Property Company Commercial LLC,DN 77021-475 17th Street-Denver CO,CO,531312,"Property managing, commercial real estate",1,2.0,1,0,1,0,5.24,2620.0,500.0,0.0,1,224,2.61,0.31,NORMAL RISK
+Sunrun Inc,BRANCH - CT - Connecticut Central,CT,238210,"Photovoltaic solar energy generation systems and battery energy storage products,primarily for residential customers",21,22.0,20,0,5,13,57.44,2610.91,909.09,0.0,18,794,4.16,5.54,CRITICAL OUTLIER
+CAMDEN DEVELOPMENT INC,CAMDEN LEGACY CREEK,TX,531110,Lessors Residential Bldgs Dwellings,1,1.0,1,0,0,1,2.61,2610.0,1000.0,0.0,1,11,2.34,0.03,NORMAL RISK
+Roush Industries,B20,MI,541330,Engineering services,1,1.0,1,0,0,1,2.6,2600.0,1000.0,0.0,1,10,1.33,0.25,NORMAL RISK
+STIIIZY,Ducommun,CA,111422,"Plant, potted flower and foliage, growing",1,1.0,1,0,0,1,2.6,2600.0,1000.0,0.0,1,10,8.83,-0.27,NORMAL RISK
+Municipio de Barceloneta,Municipio de Barceloneta,PR,921110,City and town managers' offices,3,34.0,23,0,31,0,88.34,2598.24,676.47,0.0,31,334,14.73,1.57,ABOVE AVERAGE RISK
+Western Virginia Water Authority,MUSE Water Treatment Facility,VA,221310,Water treatment plants,1,1.0,1,0,0,1,2.58,2580.0,1000.0,0.0,1,8,6.78,-0.15,NORMAL RISK
+"Seaman Farm Management, Inc.","Seaman Farm Management, Inc.",CA,111335,Tree nut farming,21,2.0,2,0,0,2,5.16,2580.0,1000.0,0.0,2,16,5.21,-0.01,NORMAL RISK
+S2C Management LLC,The Franklin,TX,531110,Residential Property Management,1,1.0,1,0,0,1,2.58,2580.0,1000.0,0.0,1,8,2.34,0.03,NORMAL RISK
+US Postal Service,GOSHEN_1365202,NH,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.58,2580.0,1000.0,0.0,1,8,9.91,-0.48,NORMAL RISK
+US Postal Service,MISSION RAFAEL_1373390,CA,491110,Mail and Parcel Delivery,1,3.0,2,0,2,0,7.73,2576.67,666.67,0.0,2,173,9.91,-0.14,NORMAL RISK
+CrossCountry Freight Solutions,BIS,ND,484110,General Freight Trucking,21,1.0,1,0,0,1,2.57,2570.0,1000.0,0.0,1,7,7.49,-0.42,NORMAL RISK
+US Postal Service,BRIDGEWATER_1355829,VT,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.57,2570.0,1000.0,0.0,1,7,9.91,-0.48,NORMAL RISK
+US Postal Service,BEAUFORT_1354343,MO,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.57,2570.0,1000.0,0.0,1,7,9.91,-0.48,NORMAL RISK
+Utz Quality Foods LLC,Burlington VT,VT,424410,General Line Grocery Merchant Wholesalers,1,1.0,1,0,0,1,2.57,2570.0,1000.0,0.0,1,7,34.97,-0.62,NORMAL RISK
+US Postal Service,FRANKFORD_1363977,MO,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.57,2570.0,1000.0,0.0,1,7,9.91,-0.48,NORMAL RISK
+CrossCountry Freight Solutions,BZN,MT,484110,General Freight Trucking,1,1.0,1,0,0,1,2.56,2560.0,1000.0,0.0,1,6,7.49,-0.42,NORMAL RISK
+US Postal Service,BELMONT_1354573,VT,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.56,2560.0,1000.0,0.0,1,6,9.91,-0.48,NORMAL RISK
+CBRE Inc,CBRE-C14-220 5th Ave W,ND,561210,Activities related to Real Estate and Facilities Support Services,1,1.0,1,0,0,1,2.56,2560.0,1000.0,0.0,1,6,1.67,0.06,NORMAL RISK
+Harbor Freight Tools,NEW KENSINGTON PA 3579,PA,444130,Retail Hardware Stores,1,1.0,1,0,0,1,2.56,2560.0,1000.0,0.0,1,6,1.94,0.17,NORMAL RISK
+United Utilities Inc.,Savoonga,AK,517110,"Internet service providers, using own operated wired telecommunications infrastructure (e.g., cable, DSL)",1,1.0,1,0,0,1,2.56,2560.0,1000.0,0.0,1,6,3.64,-0.13,NORMAL RISK
+"Decatur Street Services, LLC","Decatur Street Services, LLC",LA,493110,"Bonded warehousing, general merchandise",1,2.0,1,0,1,1,5.12,2560.0,500.0,0.0,2,62,22.18,-0.22,NORMAL RISK
+"Qualtech Concrete, Inc.","Qualtech Concrete, Inc.",CA,238110,"Foundation, building, poured concrete, contractors",22,3.0,3,0,0,3,7.67,2556.67,1000.0,0.0,3,17,6.86,0.06,NORMAL RISK
+Qualtech Concrete Inc,Qualtech Concrete Inc,CA,238110,concrete construction,22,3.0,3,0,0,3,7.67,2556.67,1000.0,0.0,3,17,6.86,0.06,NORMAL RISK
+Westhab,22 Tarrytown,NY,624229,Housing assistance agencies,21,1.0,1,0,0,1,2.55,2550.0,1000.0,0.0,1,5,3.1,-0.09,NORMAL RISK
+SFE,Carlisle ISD,TX,722310,Food Service Contractors,1,1.0,1,0,0,1,2.55,2550.0,1000.0,0.0,1,5,1.39,0.2,NORMAL RISK
+NCR Voyix Corp,NJ0100-V - EDISON TRAINING CENTER,NJ,518210,Automated data processing services,1,1.0,1,0,0,1,2.55,2550.0,1000.0,0.0,1,5,1.87,0.06,NORMAL RISK
+"H&N Construction, Inc.","H&N Construction, Inc.",AL,236220,Commercial building construction general contractors,2,1.0,1,0,0,1,2.55,2550.0,1000.0,0.0,1,5,3.15,-0.04,NORMAL RISK
+US Postal Service,BERKELEY_1434965,MO,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.55,2550.0,1000.0,0.0,1,5,9.91,-0.48,NORMAL RISK
+CrossCountry Freight Solutions,DRO,CO,484110,General Freight Trucking,1,1.0,1,0,0,1,2.54,2540.0,1000.0,0.0,1,4,7.49,-0.42,NORMAL RISK
+Town of Barkhamsted,Barkhamsted Fire District,CT,922160,"Fire departments (e.g., government, volunteer (except private))",1,1.0,1,0,0,1,2.54,2540.0,1000.0,0.0,1,4,19.65,-0.27,NORMAL RISK
+FedEx Freight,Seattle Shop WA FXFE-SEAS,WA,484122,Less Than Truckload General Freight Trucking,1,1.0,1,0,0,1,2.54,2540.0,1000.0,0.0,1,4,10.61,-0.5,NORMAL RISK
+US Postal Service,BRYAN_1356166,TX,491110,Mail and Parcel Delivery,1,4.0,3,0,2,1,10.14,2535.0,750.0,0.0,3,164,9.91,0.01,NORMAL RISK
+US Postal Service,HOBBS_1367122,IN,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.53,2530.0,1000.0,0.0,1,3,9.91,-0.48,NORMAL RISK
+ROLLING FRITO LAY SALES,SAN MARCOS PEC   EmpWorkCtrCd 30001788,TX,424450,Confectionery Merchant Wholesalers,1,1.0,1,0,0,1,2.53,2530.0,1000.0,0.0,1,3,5.29,-0.03,NORMAL RISK
+Davis Cartage Co.,Davis Cartage Co. 4,MI,484122,"Trucking, general freight, long-distance, less-than-truckload (LTL)",1,1.0,1,0,0,1,2.53,2530.0,1000.0,0.0,1,3,10.61,-0.5,NORMAL RISK
+NEW COMMUNITY MASTER,Better Life,NJ,561990,561990 All Other Support Services,1,1.0,1,0,0,1,2.53,2530.0,1000.0,0.0,1,3,6.6,-0.24,NORMAL RISK
+Avflight Hattiesburg Corporation,Avflight Hattiesburg Corporation,MS,488119,Fixed base operators,1,1.0,1,0,0,1,2.53,2530.0,1000.0,0.0,1,3,12.82,-0.32,NORMAL RISK
+US Postal Service,SINCLAIRVILLE_1381734,NY,491110,Mail and Parcel Delivery,1,1.0,1,0,0,1,2.52,2520.0,1000.0,0.0,1,2,9.91,-0.48,NORMAL RISK
+Sodexo  Inc.,SODEXO AT ALD  CLE FOOD,OH,722310,Food Service Contractors,1,1.0,1,0,0,1,2.52,2520.0,1000.0,0.0,1,2,1.39,0.19,NORMAL RISK
+General Communication Corp,Kivalina,AK,517110,"Internet service providers, using own operated wired telecommunications infrastructure (e.g., cable, DSL)",1,1.0,1,0,0,1,2.52,2520.0,1000.0,0.0,1,2,3.64,-0.14,NORMAL RISK
+Volunteers of America Colorado,Cedar View,CO,624190,,1,3.0,3,0,2,0,7.55,2516.67,1000.0,0.0,2,55,5.23,0.11,NORMAL RISK
+SiteWorks Inc.,SiteWorks INC.,SD,237110,"Distribution line, sewer and water, construction",21,2.0,3,0,1,0,5.03,2515.0,1500.0,0.0,1,3,4.64,0.05,NORMAL RISK
+"Patrick Industries, INC. d/b/a (Patrick Distribution)",Patrick Distribution Oregon,OR,493110,"Warehousing and storage, general merchandise",1,4.0,0,0,5,0,10.05,2512.5,0.0,0.0,5,5,22.18,-0.16,NORMAL RISK
+Fruit Growers Supply Company,Fruit Growers Supply - Forks Northern Ops,WA,115310,Forestry services,1,1.0,1,0,0,1,2.51,2510.0,1000.0,0.0,1,1,5.84,-0.28,NORMAL RISK
+Maersk,Redlands B220,CA,493190,"Private warehousing and storage (except farm products, general merchandise, refrigerated)",1,1.0,1,0,0,1,2.51,2510.0,1000.0,0.0,1,1,3.45,-0.13,NORMAL RISK
+AAA Cooper Transportation,TAM,FL,484122,"General freight trucking, long-distance, less-than-truckload (LTL)",22,16.0,16,0,5,9,40.12,2507.5,1000.0,0.0,14,62,10.61,1.82,ABOVE AVERAGE RISK
+US Postal Service,FAYETTEVILLE NC PSA_1563329,NC,491110,Mail and Parcel Delivery,1,9.0,7,0,7,0,22.55,2505.56,777.78,0.0,7,155,9.91,0.83,NORMAL RISK
+S2C Management LLC,Oxford,AZ,531110,Residential Property Management,1,1.0,1,0,0,1,2.5,2500.0,1000.0,0.0,1,0,2.34,0.02,NORMAL RISK
+EVEREST CAMPUS SERVICES COMPANY,Sky Garden,SC,531311,531311 Residential Property Managers,1,1.0,1,0,0,1,2.5,2500.0,1000.0,0.0,1,0,1.79,0.09,NORMAL RISK
+US Postal Service,TELFORD_1384385,TN,491110,Mail and Parcel Delivery,1,1.0,0,0,1,0,2.49,2490.0,0.0,0.0,1,49,9.91,-0.49,NORMAL RISK
+"Los Robles Farm Labor, Inc.","Los Robles Farm Labor, Inc.",CA,115115,"Labor contractors, farm",3,10.0,6,0,5,2,24.9,2490.0,600.0,0.0,7,590,11.23,0.57,NORMAL RISK
+"Sorrento Berry Farms, LLC","Sorrento Berry Farms, LLC - Lompoc",CA,111333,Strawberry farming,3,26.0,22,0,13,9,64.73,2489.62,846.15,0.0,22,323,15.37,2.07,HIGH RISK OUTLIER
+Seall Inc,Seall 206,VT,623990,Other Residential Care Facilities,21,6.0,6,0,1,4,14.88,2480.0,1000.0,0.0,5,88,7.89,0.28,NORMAL RISK
+Westport Properties Inc,AUBURN  ROCK CREEK,CA,531130,Lessors of self storage units,3,2.0,1,0,1,0,4.96,2480.0,500.0,0.0,1,196,1.34,0.57,NORMAL RISK
+Delux Public Charter,JSX (DAL),TX,481211,"Air passenger carriers, nonscheduled",3,11.0,9,0,2,7,27.24,2476.36,818.18,0.0,9,374,4.08,2.7,HIGH RISK OUTLIER
+Allegany County Commissioners,Allegany County Commissioners,MD,921120,County commissioners,3,19.0,13,0,9,4,46.93,2470.0,684.21,0.0,13,993,10.46,1.38,ABOVE AVERAGE RISK
+Atheltics,Athletics-Lew Wolff Training Complex,AZ,711211,"Sports teams, professional or semiprofessional",3,166.0,137,0,17,119,408.36,2460.0,825.3,0.0,136,5886,75.37,2.46,HIGH RISK OUTLIER
+US Postal Service,ACREDALE_1352327,VA,491110,Mail and Parcel Delivery,1,8.0,7,0,5,1,19.62,2452.5,875.0,0.0,6,112,9.91,0.63,NORMAL RISK
+"Matthews Senior Housing, LLC",Courtyard at Centerville,OH,623312,Assisted Living Facilities for the Elderly,22,5.0,4,0,4,0,12.22,2444.0,800.0,0.0,4,22,6.93,0.57,NORMAL RISK
+04 FON LTL,04 FON LTL,CA,484121,,1,6.0,9,0,0,3,14.63,2438.33,1500.0,0.0,3,113,9.02,0.21,NORMAL RISK
+IGT GLOBAL SOLUTIONS CORP,O-ELKVIEW WAREHOUSE US230,WV,713290,Other Gambling Industries,1,3.0,2,0,1,1,7.3,2433.33,666.67,0.0,2,180,4.24,0.25,NORMAL RISK
+Gordon Food Service,TNJACKS01,TN,424410,General Line Grocery Merchant Wholesalers,1,3.0,2,0,2,0,7.22,2406.67,666.67,0.0,2,122,34.97,-0.53,NORMAL RISK
+CrossCountry Freight Solutions,SXF,SD,484110,General Freight Trucking,21,2.0,3,0,0,1,4.8,2400.0,1500.0,0.0,1,30,7.49,-0.23,NORMAL RISK
+CBRE Inc,CBRE-A5-DTW3-MI287-AMZL West XLFC SSD,MI,561210,Activities related to Real Estate and Facilities Support Services,1,2.0,1,0,1,0,4.8,2400.0,500.0,0.0,1,180,1.67,0.22,NORMAL RISK
+Westhab,217 Waverly,NY,624229,Housing assistance agencies,21,2.0,1,0,1,0,4.8,2400.0,500.0,0.0,1,180,3.1,0.26,NORMAL RISK
+REPUBLIC SERVICES,"Allied Services, LLC",MO,562111,,1,2.0,1,0,1,0,4.8,2400.0,500.0,0.0,1,180,10.51,-0.28,NORMAL RISK
+"Pike Electric, LLC",Pike Indiana Statewide Operations,NC,237130,"Construction management, power and communication transmission line",2,2.0,1,0,1,0,4.8,2400.0,500.0,0.0,1,180,4.24,0.05,NORMAL RISK
+Ricoh USA Inc,1482 - Thiebaud Reming,TX,423420,Office Equipment,1,2.0,1,0,1,0,4.8,2400.0,500.0,0.0,1,180,0.26,3.94,CRITICAL OUTLIER
+Southeast NM Community Action Corporation,Southeast NM Community Action Corp-ADC Carlsbad,NM,624120,"Day care centers for disabled persons, the elderly, and persons diagnosed with intellectual and developmental disabilities",1,2.0,1,0,1,0,4.8,2400.0,500.0,0.0,1,180,5.72,-0.07,NORMAL RISK
+BrightView,37110  BVLS  Dulles,VA,561730,Landscaping Services,1,2.0,1,0,1,0,4.8,2400.0,500.0,0.0,1,180,6.22,-0.11,NORMAL RISK
+City of Le Roy,City of Le Roy / Water Dept,IL,221310,Water treatment and distribution,1,2.0,1,0,1,0,4.8,2400.0,500.0,0.0,1,180,6.78,-0.07,NORMAL RISK
+JB Hunt,"Oakland, CA - 8977 Railroad Ave",CA,484121,,21,2.0,1,0,1,0,4.8,2400.0,500.0,0.0,1,180,9.02,-0.16,NORMAL RISK
+Department of Behavioral Health and Developmental Services,Commonwealth Center for Children and Adolescents,VA,622210,"Hospitals, psychiatric pediatric",22,179.0,166,0,97,16,428.18,2392.07,927.37,0.0,113,4418,26.75,4.86,CRITICAL OUTLIER
+US Postal Service,TROUPSBURG_1385044,NY,491110,Mail and Parcel Delivery,1,1.0,0,0,1,0,2.38,2380.0,0.0,0.0,1,38,9.91,-0.49,NORMAL RISK
+SilverCrest Properties,SilverCrest Properties,MN,623312,Assisted Living,1,16.0,15,0,8,3,37.68,2355.0,937.5,0.0,11,218,6.93,3.3,CRITICAL OUTLIER
+Cortese Ford Lincoln Inc,Cortese Ford Lincoln Inc,NY,441110,"Automobile dealers, new only or new and used",21,3.0,5,0,1,0,7.01,2336.67,1666.67,0.0,1,1,4.58,0.36,NORMAL RISK
+The Container Store,018/Park Meadows,CO,442299,All Other Home Furnishings Stores,21,7.0,5,0,1,4,16.24,2320.0,714.29,0.0,5,324,4.58,0.85,NORMAL RISK
+Goodwill Southern New England,Goodwill ADC Bristol,RI,493110,General warehousing and storage,1,4.0,3,0,3,0,9.24,2310.0,750.0,0.0,3,24,22.18,-0.17,NORMAL RISK
+Goodwill Southern New England,Bristol ADC,RI,493110,General warehousing and storage,1,4.0,3,0,3,0,9.24,2310.0,750.0,0.0,3,24,22.18,-0.17,NORMAL RISK
+Delux Public Charter,JSX (LAS),NV,481211,"Air passenger carriers, nonscheduled",3,13.0,11,0,5,5,30.01,2308.46,846.15,0.0,10,151,4.08,3.03,CRITICAL OUTLIER
+US Postal Service,SOUTH CLERMONT_1439350,FL,491110,Mail and Parcel Delivery,1,3.0,2,0,2,0,6.92,2306.67,666.67,0.0,2,92,9.91,-0.2,NORMAL RISK
+Delux Public Charter,JSX (OAK),CA,481211,"Air passenger carriers, nonscheduled",22,5.0,4,0,2,2,11.48,2296.0,800.0,0.0,4,48,4.08,0.86,NORMAL RISK
+AMERICAN AUTO GLASS REPAIR INC,AMERICAN AUTO GLASS REPAIR INC,CO,811310,Industrial equipment and machinery repair and maintenance services,1,3.0,2,0,2,0,6.87,2290.0,666.67,0.0,2,87,3.45,0.2,NORMAL RISK
+US Postal Service,LOG YBOR CITY_1558174,FL,491110,Mail and Parcel Delivery,1,3.0,2,0,1,1,6.86,2286.67,666.67,0.0,2,136,9.91,-0.2,NORMAL RISK
+US Postal Service,OWENSBORO_1376487,KY,491110,Mail and Parcel Delivery,1,4.0,3,0,3,0,9.13,2282.5,750.0,0.0,3,13,9.91,-0.05,NORMAL RISK
+"Upstate NY Bottle & Can Retrieval Center, LLC",Colonie Star RC,NY,423930,"Recyclable materials (e.g., glass, metal, paper) merchant wholesalers",1,2.0,1,0,1,0,4.55,2275.0,500.0,0.0,1,155,3.77,0.11,NORMAL RISK
+US Postal Service,NEWBURYPORT_1374955,MA,491110,Mail and Parcel Delivery,1,2.0,2,0,1,0,4.55,2275.0,1000.0,0.0,1,55,9.91,-0.35,NORMAL RISK
+K&G Petroleum,Store #525; 3690 E. 104th Ave,CO,447110,Gasoline stations with convenience stores,1,6.0,6,0,2,2,13.64,2273.33,1000.0,0.0,4,64,1.22,2.33,HIGH RISK OUTLIER
+Mid-Willamette Valley Community Action Agency,Head Start Chemawa,OR,624190,,1,4.0,3,0,2,1,9.09,2272.5,750.0,0.0,3,59,5.23,0.19,NORMAL RISK
+Burlington Capital LLC,Willow Bend,OH,531311,Residential Property Managers,1,3.0,2,0,2,0,6.79,2263.33,666.67,0.0,2,79,1.79,0.61,NORMAL RISK
+"Advanced Powering Services, Inc.",Florida APS,FL,238210,Electrical contractors,1,2.0,2,0,1,0,4.52,2260.0,1000.0,0.0,1,52,4.16,0.04,NORMAL RISK
+WVNH EMP LLC,Rainelle Healthcare Center,WV,623110,Skilled nursing facilities,21,52.0,11,0,52,0,117.4,2257.69,211.54,0.0,52,240,13.46,5.96,CRITICAL OUTLIER
+City of Huntington Beach,Jr. Lifeguard HQ,CA,922160,Fire and rescue service,1,5.0,5,0,2,1,11.24,2248.0,1000.0,0.0,3,74,19.65,-0.13,NORMAL RISK
+"Clew Logistics, LLC","Clew Logistics, LLC",PA,492110,Express delivery services (except establishments operating under a universal service obligation),22,47.0,33,0,29,0,105.61,2247.02,702.13,0.0,29,1461,32.44,1.05,ABOVE AVERAGE RISK
+Monterey Palms Health Care Facility,Monterey Palms Healthcare Facility,CA,623110,Rest homes with nursing care,22,118.0,82,0,82,12,264.94,2245.25,694.92,0.0,94,94,13.46,14.42,CRITICAL OUTLIER
+US Postal Service,CHINATOWN_1357957,IL,491110,Mail and Parcel Delivery,1,1.0,0,0,1,0,2.23,2230.0,0.0,0.0,1,23,9.91,-0.5,NORMAL RISK
+US Postal Service,SAN JUAN PR MPA3_1566215,PR,491110,Mail and Parcel Delivery,21,21.0,14,0,14,0,46.8,2228.57,666.67,0.0,14,480,9.91,2.41,HIGH RISK OUTLIER
+"BluSky Restoration Contractors, LLC",BluSky Restoration Contractors Toledo,OH,236220,Commercial and Institutional Building Construction,21,36.0,26,0,26,0,79.95,2220.83,722.22,0.0,26,195,3.15,4.54,CRITICAL OUTLIER
+SPS NORTH AMERICA INC,Amazon MRY 11,CA,561210,561210 Facilities Support Services,1,2.0,1,0,1,0,4.43,2215.0,500.0,0.0,1,143,1.67,0.2,NORMAL RISK
+"KIP America, Inc.","KIP America, Inc. - California",CA,334118,"Printers, computer, manufacturing",1,2.0,1,0,1,0,4.43,2215.0,500.0,0.0,1,143,2.99,0.16,NORMAL RISK
+"American Converters, Inc.","American Converters, Inc.",MN,326150,"Cushions, carpet and rug, urethane and other foam plastics (except polystrene), manufacturing",22,8.0,5,0,4,1,17.72,2215.0,625.0,0.0,5,322,5.48,1.53,ABOVE AVERAGE RISK
+The New York and Presbyterian Hospital NYP MORGAN STANLEY CHILDREN S HOSPIT,92030016 NYP MORGAN STANLEY CHILDREN S HOSPITAL,NY,622110,,21,70.0,65,0,38,0,154.98,2214.0,928.57,0.0,38,1398,80.37,0.48,NORMAL RISK
+"KPR, LLC",Augusta-Carolina Warehouse,GA,493110,General warehousing and storage,1,2.0,1,0,1,0,4.42,2210.0,500.0,0.0,1,142,22.18,-0.23,NORMAL RISK
+"Livingston Enterprises, Inc.",Animal Nutrients,KS,112210,Pig farming,1,6.0,6,0,0,4,13.25,2208.33,1000.0,0.0,4,125,7.12,0.23,NORMAL RISK
+Forward Corporation,054 LODGING MANAGEMENT,MI,721110,,1,3.0,2,0,1,1,6.61,2203.33,666.67,0.0,2,111,8.52,-0.09,NORMAL RISK
+SKYGROUP INVESTMENT LLC,DAL-SGI-IFLY DALLAS,TX,713990,ALL OTHER AMUSEMENT AND RECREATION INDUSTRIES,1,13.0,11,0,4,5,28.62,2201.54,846.15,0.0,9,212,5.57,1.67,ABOVE AVERAGE RISK
+K&G Petroleum,Store #504; 7995 Wadsworth Blvd,CO,447110,Gasoline stations with convenience stores,1,3.0,3,0,1,1,6.6,2200.0,1000.0,0.0,2,10,1.22,1.01,ABOVE AVERAGE RISK
+US Postal Service,MISSION HILL_1373385,SD,491110,Mail and Parcel Delivery,1,1.0,0,0,1,0,2.2,2200.0,0.0,0.0,1,20,9.91,-0.5,NORMAL RISK
+All the Best Pet Care,Columbia City,WA,453910,Pet supply stores,1,10.0,2,0,9,1,21.96,2196.0,200.0,0.0,10,46,1.87,4.26,CRITICAL OUTLIER
+Valli Logistics Inc,Valli Logistics Inc,CA,492110,Local letter and parcel delivery services as part of intercity courier network,21,50.0,36,0,36,0,109.78,2195.6,720.0,0.0,36,178,32.44,1.11,ABOVE AVERAGE RISK
+US Postal Service,AVONDALE_1353798,CO,491110,Mail and Parcel Delivery,1,1.0,0,0,1,0,2.19,2190.0,0.0,0.0,1,19,9.91,-0.5,NORMAL RISK
+S&S Fuels Management LLC,SSFuels Store 9; 6515 E. Lake Mead Blvd,NV,447110,Gasoline stations with convenience stores,1,9.0,9,0,3,3,19.62,2180.0,1000.0,0.0,6,12,1.22,3.45,CRITICAL OUTLIER
+CAMDEN DEVELOPMENT INC,CAMDEN FALLSGROVE,MD,531110,Lessors Residential Bldgs Dwellings,1,2.0,1,0,1,0,4.36,2180.0,500.0,0.0,1,136,2.34,0.25,NORMAL RISK
+Chevron Pipe Line Company,Pipe Line Fellows,CA,486110,"Petroleum pipelines, crude",1,2.0,1,0,1,0,4.34,2170.0,500.0,0.0,1,134,0.34,3.53,CRITICAL OUTLIER
+WHB Cattle LP,Tuttle Mill,OK,112120,Dairy cattle and milk production,1,5.0,1,1,0,1,10.77,2154.0,200.0,200.0,6,327,7.77,0.27,NORMAL RISK
+YRC Freight,OH-Cincinnati-216-YRC Freight,OH,484122,Freight Trucking lTL,21,2.0,1,0,0,1,4.3,2150.0,500.0,0.0,1,180,10.61,-0.39,NORMAL RISK
+Klamath County,Library-South Suburban,OR,519120,Lending libraries,1,2.0,1,0,0,1,4.3,2150.0,500.0,0.0,1,180,2.37,0.16,NORMAL RISK
+Ports America,Ports America Chesapeake - Locust Point,MD,488320,Marine cargo handling services,1,2.0,1,0,0,1,4.3,2150.0,500.0,0.0,1,180,16.98,-0.45,NORMAL RISK
+US Postal Service,WHITEHOUSE_1433686,NJ,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,4.29,2145.0,500.0,0.0,1,129,9.91,-0.37,NORMAL RISK
+"Catalina Island Camps, Inc.","Catalina Island Camps, Inc.",CA,721214,Recreational camps with accommodation facilities (except campgrounds),21,44.0,3,0,45,0,94.37,2144.77,68.18,0.0,45,137,8.91,4.36,CRITICAL OUTLIER
+New Horizons In-Home Care,New Horizons - Klamath Falls,OR,621610,Home health care agencies,3,34.0,25,0,19,1,72.78,2140.59,735.29,0.0,20,828,5.5,4.31,CRITICAL OUTLIER
+US Postal Service,EAST LAKE ROEBUCK_1361756,AL,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,4.28,2140.0,500.0,0.0,1,128,9.91,-0.37,NORMAL RISK
+Central,697,WI,444190,,1,5.0,3,0,1,2,10.65,2130.0,600.0,0.0,3,265,3.94,1.03,ABOVE AVERAGE RISK
+"Paths Management Services, LLC","Admiral Halsey, LP",NY,531110,"Building, residential, rental or leasing",1,2.0,1,0,1,0,4.26,2130.0,500.0,0.0,1,126,2.34,0.24,NORMAL RISK
+Freebee,Freebee Main Location,FL,485999,All Other Transit and Ground Passenger Transportation,3,17.0,14,0,11,0,36.0,2117.65,823.53,0.0,11,0,5.01,4.44,CRITICAL OUTLIER
+CAMDEN DEVELOPMENT INC,CAMDEN CROWN VALLEY,CA,531110,Lessors Residential Bldgs Dwellings,1,8.0,5,0,2,3,16.86,2107.5,625.0,0.0,5,336,2.34,1.79,ABOVE AVERAGE RISK
+B2B Staffing Services Inc,B2B Staffing Services Inc,CA,561320,Help supply services,3,9.0,5,0,6,1,18.93,2103.33,555.56,0.0,7,43,6.99,0.47,NORMAL RISK
+Lion Gables Realty Limited Partnership,Lion Gables Realty LP Gables Speer Blvd,CO,531311,Real Estate Agents and Managers,1,3.0,2,0,1,1,6.29,2096.67,666.67,0.0,2,79,1.79,0.55,NORMAL RISK
+US Postal Service,JACKSON CARRIER ANNEX_1448502,MI,491110,Mail and Parcel Delivery,1,3.0,2,0,2,0,6.27,2090.0,666.67,0.0,2,27,9.91,-0.24,NORMAL RISK
+Blanchard Valley Residential Services,"Blanchard Valley Residential Services, Inc - Thompson",OH,623210,"Group homes, intellectual and developmental disability",1,5.0,3,0,1,2,10.45,2090.0,600.0,0.0,3,245,5.7,0.22,NORMAL RISK
+US Postal Service,FRENCHBURG_1364155,KY,491110,Mail and Parcel Delivery,1,3.0,2,0,2,0,6.26,2086.67,666.67,0.0,2,26,9.91,-0.24,NORMAL RISK
+E0153-Tidal Wave Auto Spa of Wilmar MN,E0153-Tidal Wave Auto Spa of Wilmar MN,MN,811192,Car washes,1,6.0,4,0,3,1,12.49,2081.67,666.67,0.0,4,99,1.98,2.67,HIGH RISK OUTLIER
+US Postal Service,LAKE FOREST_1369571,IL,491110,Mail and Parcel Delivery,1,2.0,2,0,1,0,4.16,2080.0,1000.0,0.0,1,16,9.91,-0.38,NORMAL RISK
+City of Middletown,City of Middletown - Public Works Sanitation,CT,562119,"Waste (except solid and hazardous) hauling, local",1,9.0,5,0,5,0,18.7,2077.78,555.56,0.0,5,370,7.4,0.66,NORMAL RISK
+SmartStop Storage Advisors LLC,2305 SmartStop - Eatontown,NJ,531130,"Equity real estate investment trusts (REITs), primarily leasing miniwarehouses and self-storage units",1,2.0,1,0,1,0,4.15,2075.0,500.0,0.0,1,115,1.34,0.44,NORMAL RISK
+US Postal Service,LAND TITLE BLDG_1436797,PA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,4.15,2075.0,500.0,0.0,1,115,9.91,-0.38,NORMAL RISK
+Oakbrook Corporation,Countryside Mt. Morris,IL,531311,Residential real estate property managers' offices,1,2.0,1,0,1,0,4.15,2075.0,500.0,0.0,1,115,1.79,0.29,NORMAL RISK
+Leeds West Groups,Leeds West Groups - IA Midas Ames - 2781,IA,811111,Automotive Repair,1,6.0,3,0,2,0,12.43,2071.67,500.0,0.0,2,543,3.0,0.99,NORMAL RISK
+Compa Logistics,WA Shipazon- Lakewood,WA,493110,General Warehousing and Storage,21,3.0,2,0,2,0,6.2,2066.67,666.67,0.0,2,20,22.18,-0.21,NORMAL RISK
+Carlisle Residential Properties,Woodbridge,NC,531311,Apartment managers' offices,1,2.0,1,0,1,0,4.13,2065.0,500.0,0.0,1,113,1.79,0.29,NORMAL RISK
+"Olam Farming, Inc",KG Ranch,CA,111335,Tree nut farming,1,3.0,1,0,1,0,6.19,2063.33,333.33,0.0,1,319,5.21,0.12,NORMAL RISK
+Department of Homeless Services,McGuiness,NY,923130,Workers' compensation program administration,1,1.0,0,0,1,0,2.06,2060.0,0.0,0.0,1,6,4.07,-0.17,NORMAL RISK
+Onni Group,AGAVE,AZ,531110,"Real Estate and Property Management, Construction",1,5.0,4,0,1,2,10.28,2056.0,800.0,0.0,3,128,2.34,0.98,NORMAL RISK
+A.R. Arena Products Inc.,A.R. Arena Products Inc.  UTAH,UT,326111,"Bags, plastics film, single wall or multiwall, manufacturing",1,4.0,3,0,1,2,8.22,2055.0,750.0,0.0,3,22,10.78,-0.11,NORMAL RISK
+"VRC Companies, LLC",EWR6,NJ,493190,Document storage and warehousing,1,3.0,2,0,1,1,6.16,2053.33,666.67,0.0,2,66,3.45,0.38,NORMAL RISK
+Grandma's House of Hope,Grandma's House of Hope - Dorothy Place,CA,624221,Homeless shelters,2,4.0,0,0,4,0,8.2,2050.0,0.0,0.0,4,20,12.5,-0.16,NORMAL RISK
+Commodity Forwarders Inc.,Commodity Forwarders Inc. LIU-5808,HI,488510,Freight Transportation Arrangement,1,4.0,2,0,2,0,8.2,2050.0,500.0,0.0,2,220,2.14,0.66,NORMAL RISK
+Senior Management INC,Ladysmith Care & Rehab,WI,623110,Convalescent homes or convalescent hospitals (except psychiatric),22,3.0,0,0,3,0,6.14,2046.67,0.0,0.0,3,14,13.46,-0.42,NORMAL RISK
+Aequus Sports LLC,USL Spokane - ONE Spokane Stadium,WA,711211,"Soccer clubs, professional or semiprofessional",21,32.0,23,0,11,5,65.41,2044.06,718.75,0.0,16,1291,75.37,-0.07,NORMAL RISK
+US Postal Service,PLEASANT VALLEY_1377818,CT,491110,Mail and Parcel Delivery,1,1.0,0,0,1,0,2.04,2040.0,0.0,0.0,1,4,9.91,-0.51,NORMAL RISK
+National Park Service,Medgar and Myrlie Evers Home National Monument,MS,712120,Historical sites,1,2.0,0,0,2,0,4.08,2040.0,0.0,0.0,2,8,9.08,-0.3,NORMAL RISK
+GI Trucking Co DBA Estes West,Twin Falls 237,ID,484122,,1,3.0,2,0,2,0,6.11,2036.67,666.67,0.0,2,11,10.61,-0.28,NORMAL RISK
+Loudoun County Government,Loudoun County Fire and Rescue Station 18,VA,922160,"Fire departments (e.g., government, volunteer (except private))",21,23.0,9,1,9,2,46.83,2036.09,391.3,43.48,16,1183,19.65,0.42,NORMAL RISK
+Velocity Rail Solutions,Sheffield NS,AL,484220,,1,6.0,3,0,2,1,12.19,2031.67,500.0,0.0,3,369,5.57,0.59,NORMAL RISK
+Ecumen,Hubbard County Senior Housing Inc dba Park Villa,MN,236116,"Low income housing, multifamily, construction general contractors",1,1.0,0,0,1,0,2.03,2030.0,0.0,0.0,1,3,2.66,-0.08,NORMAL RISK
+Carter Lumber,CARTER KITCHEN  BATH 1684,VA,444190,BUILDING MATERIALS DEALER,1,2.0,1,0,1,0,4.06,2030.0,500.0,0.0,1,106,3.94,0.02,NORMAL RISK
+US Postal Service,POMONOK_1377988,NY,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,4.04,2020.0,500.0,0.0,1,104,9.91,-0.38,NORMAL RISK
+AmeriVet Corporate,AmeriVet Partner Management,TX,541940,Veterinary services,3,136.0,182,0,38,3,274.66,2019.56,1338.24,0.0,41,1216,5.69,16.69,CRITICAL OUTLIER
+Renew it Group LLC,Renew it Group LLC,MI,238350,"Deck construction, residential-type",21,25.0,15,0,16,2,50.46,2018.4,600.0,0.0,18,46,6.2,4.66,CRITICAL OUTLIER
+H-E-B LP,80721-31 Fleet Maintenance Ops-CC,TX,488490,Retail,1,7.0,5,0,0,5,14.12,2017.14,714.29,0.0,5,162,6.25,0.58,NORMAL RISK
+Coversafe Inc.,Coversafe Inc. VA Location,VA,238990,"Swimming pool, outdoor, construction",1,3.0,2,0,2,0,6.05,2016.67,666.67,0.0,2,5,2.32,0.56,NORMAL RISK
+Tidal Wave Auto Spa of Lombard IL,Tidal Wave Auto Spa of Lombard IL,IL,811192,Car washes,1,6.0,4,0,4,0,12.08,2013.33,666.67,0.0,4,8,1.98,2.56,HIGH RISK OUTLIER
+Prairie Ag Partners,Oldham Elevator,SD,424510,Grain elevators merchant wholesalers grain,1,3.0,2,0,1,1,6.03,2010.0,666.67,0.0,2,53,1.61,1.52,ABOVE AVERAGE RISK
+ENCORE AT MAPLEWOOD,ENCORE AT MAPLEWOOD,MN,623311,Assisted-living facilities with on-site nursing facilities,21,2.0,2,0,1,0,4.02,2010.0,1000.0,0.0,1,2,11.23,-0.37,NORMAL RISK
+US Postal Service,MOUNT AIRY_1373948,NC,491110,Mail and Parcel Delivery,1,2.0,2,0,1,0,4.01,2005.0,1000.0,0.0,1,1,9.91,-0.39,NORMAL RISK
+NEW COMMUNITY MASTER,Social Services,NJ,561990,561990 All Other Support Services,1,2.0,2,0,1,0,4.01,2005.0,1000.0,0.0,1,1,6.6,-0.15,NORMAL RISK
+SmartStop Storage Advisors LLC,6071 SmartStop - Arden,NC,531312,"Property managing, nonresidential real estate",1,2.0,1,0,0,1,4.0,2000.0,500.0,0.0,1,150,2.61,0.16,NORMAL RISK
+"Ed Bell Investments, Inc","Construction Equipment Parts, Inc.",TX,423830,Industrial machinery and equipment (except electrical) merchant wholesalers,2,1.0,2,0,0,0,2.0,2000.0,2000.0,0.0,0,0,2.13,-0.03,NORMAL RISK
+S2C Management LLC,The Bowie,GA,531110,Residential Property Management,1,1.0,2,0,0,0,2.0,2000.0,2000.0,0.0,0,0,2.34,-0.04,NORMAL RISK
+Geiger Ready Mix,GRM Plant 94,KS,327320,Concrete batch plants (including temporary),1,1.0,2,0,0,0,2.0,2000.0,2000.0,0.0,0,0,4.37,-0.07,NORMAL RISK
+Avenues,PreVoc Greenhouse,PA,624190,"Individual and family social services, multi-purpose",1,3.0,6,0,0,0,6.0,2000.0,2000.0,0.0,0,0,5.23,0.04,NORMAL RISK
+Zierden Company,Zierden Company,WI,332710,Machine shops,1,1.0,2,0,0,0,2.0,2000.0,2000.0,0.0,0,0,3.65,-0.27,NORMAL RISK
+Acadia Healthcare Management Company Inc,Agave Ridge Behavioral Health,AZ,622210,Psychiatric and Substance Abuse Hospitals,1,2.0,4,0,0,0,4.0,2000.0,2000.0,0.0,0,0,26.75,-0.28,NORMAL RISK
+Healthcare Realty Trust Incorporated,Phoenix Healthcare Realty Trust Incorporated,AZ,531120,"Building, nonresidential (except miniwarehouse), rental or leasing",1,3.0,1,1,0,0,6.0,2000.0,333.33,333.33,5,0,16.16,-0.03,NORMAL RISK
+CSI Tunnel Systems LLC,Tunnel - Virginia,NH,327390,"Architectural wall panels, precast concrete, manufacturing",1,1.0,2,0,0,0,2.0,2000.0,2000.0,0.0,0,0,7.34,-0.49,NORMAL RISK
+US Postal Service,JACKSON_1437869,MI,491110,Mail and Parcel Delivery,1,5.0,3,0,3,0,9.97,1994.0,600.0,0.0,3,97,9.91,0.0,NORMAL RISK
+"Comcast Cable Communications Management, LLC",TNH05,TN,517111,Cable and Other Subscription Programming,1,2.0,1,0,1,0,3.97,1985.0,500.0,0.0,1,97,4.31,-0.04,NORMAL RISK
+US Postal Service,GREENWOOD_1365698,MS,491110,Mail and Parcel Delivery,1,4.0,2,0,2,0,7.93,1982.5,500.0,0.0,2,193,9.91,-0.13,NORMAL RISK
+ROLLING FRITO LAY SALES,BALTIMORE DC   EmpWorkCtrCd 30000802,MD,424450,Confectionery Merchant Wholesalers,1,12.0,8,0,2,6,23.72,1976.67,666.67,0.0,8,272,5.29,0.2,NORMAL RISK
+Municipality of Anchorage,MOA Fire Department Fire Maintenance Shop,AK,922160,"Firefighting (except forest), government and volunteer (except private)",1,7.0,4,0,2,2,13.77,1967.14,571.43,0.0,4,277,19.65,-0.09,NORMAL RISK
+Dart Entities,Dart Warehouse Corporation - Aurora,IL,493110,"Public warehousing and storage (except self storage), general merchandise",3,4.0,2,0,2,0,7.85,1962.5,500.0,0.0,2,185,22.18,-0.18,NORMAL RISK
+Boston Childrens Hospital,579-23 BCH Needham,MA,238310,Gypsum board installation,1,2.0,1,0,1,0,3.92,1960.0,500.0,0.0,1,92,5.51,-0.12,NORMAL RISK
+THE ALLIANCE FOR COMMUNITY WELLNESS,RWS Youth for Change,CA,621420,621420 Outpatient Mental Health and Substance Abuse Centers,1,1.0,0,0,0,1,1.96,1960.0,0.0,0.0,1,46,2.85,-0.05,NORMAL RISK
+SmartStop Storage Advisors LLC,6078 SmartStop - Aurora Gartrell,CO,531312,"Property managing, nonresidential real estate",1,2.0,1,0,1,0,3.92,1960.0,500.0,0.0,1,92,2.61,0.15,NORMAL RISK
+"BCPS HoldCo, LLC",BCPS - Ashe Clinic,NC,621330,"Social workers' , mental health, offices (e.g., centers, clinics)",1,2.0,1,0,1,0,3.92,1960.0,500.0,0.0,1,92,4.46,-0.06,NORMAL RISK
+Tidal Wave Auto Spa of Hampstead NC Surf City,Tidal Wave Auto Spa of Hampstead NC Surf City,NC,811192,Car washes,1,6.0,3,0,3,0,11.69,1948.33,500.0,0.0,3,269,1.98,2.47,HIGH RISK OUTLIER
+US Postal Service,HYATTSVILLE_1434414,MD,491110,Mail and Parcel Delivery,1,11.0,8,0,6,0,21.42,1947.27,727.27,0.0,6,142,9.91,0.75,NORMAL RISK
+US Postal Service,LOG BETHPAGE_1558070,NY,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.89,1945.0,500.0,0.0,1,89,9.91,-0.39,NORMAL RISK
+GOODWILL OF SF BAY,5246_Donation Site - Mill Valley,CA,459510,Used Merchandise Retailer,21,2.0,1,0,1,0,3.87,1935.0,500.0,0.0,1,87,4.12,-0.01,NORMAL RISK
+Republic Services,Illiana Transfer Station III Crown Point,IN,562111,Garbage collection services,1,2.0,1,0,1,0,3.86,1930.0,500.0,0.0,1,86,10.51,-0.33,NORMAL RISK
+US Postal Service,TERRE HAUTE_1436240,IN,491110,Mail and Parcel Delivery,1,4.0,3,0,2,0,7.69,1922.5,750.0,0.0,2,69,9.91,-0.15,NORMAL RISK
+US Postal Service,CRANE_1359738,MO,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.84,1920.0,500.0,0.0,1,84,9.91,-0.4,NORMAL RISK
+CITY OF WINONA,Central Garage,MN,921190,Other General Government Support,1,4.0,2,0,2,0,7.67,1917.5,500.0,0.0,2,167,15.19,-0.15,NORMAL RISK
+ROLLING FRITO LAY SALES,AUSTIN DC   EmpWorkCtrCd 30001673,TX,424450,Confectionery Merchant Wholesalers,1,12.0,8,0,2,5,23.01,1917.5,666.67,0.0,7,351,5.29,0.2,NORMAL RISK
+North Tarrant Express Mobility Partners Segments 3,North Tarrant Express Mobility Partners Segments 3,TX,237310,"Repair, highway, road, street, bridge or airport runway",1,11.0,6,0,1,5,21.09,1917.27,545.45,0.0,6,559,5.74,1.32,ABOVE AVERAGE RISK
+"Ridge Run Baseball, LLC","Ridge Run Baseball, LLC",MT,711211,"Baseball clubs, professional or semiprofessional",21,17.0,21,0,0,7,32.58,1916.47,1235.29,0.0,7,108,75.37,-0.32,NORMAL RISK
+Sutter Bay Medical Foundation,Sutter Bay Medical Foundation 30743,CA,621111,Healthcare,1,2.0,1,0,1,0,3.83,1915.0,500.0,0.0,1,83,3.44,0.03,NORMAL RISK
+Dyersville Ready Mix Inc DBA BARD Materials,Stockton Plant,IL,327320,Ready-mix concrete manufacturing and distributing,1,2.0,1,0,1,0,3.83,1915.0,500.0,0.0,1,83,4.37,-0.02,NORMAL RISK
+E C Barton & Company,6294,RI,444110,"Home centers, building materials",1,4.0,2,0,1,1,7.65,1912.5,500.0,0.0,2,215,9.57,-0.25,NORMAL RISK
+Grace Management,Dirigo Pines,ME,623312,Assisted-living facilities without on-site nursing care facilities,21,9.0,12,0,1,1,17.2,1911.11,1333.33,0.0,2,170,6.93,1.1,ABOVE AVERAGE RISK
+City of Corona,Fire Station 7,CA,922160,"Fire departments (e.g., government, volunteer (except private))",1,4.0,2,0,2,0,7.57,1892.5,500.0,0.0,2,157,19.65,-0.19,NORMAL RISK
+Quality behavioral Outcomes LLC,Aurora Jane TBC CO,CO,621112,ABA Therapy,21,20.0,15,0,5,7,37.85,1892.5,750.0,0.0,12,235,4.37,3.33,CRITICAL OUTLIER
+Sodexo  Inc.,SODEXO AT MERCK DESOTO ADMIN,KS,722310,Food Service Contractors,1,2.0,1,0,1,0,3.78,1890.0,500.0,0.0,1,78,1.39,0.4,NORMAL RISK
+"COGECO US FINANCE, LLC (d/b/a BREEZELINE)",Breezeline - Uniontown,PA,517111,"Internet service providers, using own operated wired telecommunications infrastructure (e.g., cable, DSL)",22,9.0,7,0,2,3,17.0,1888.89,777.78,0.0,5,150,4.31,1.33,ABOVE AVERAGE RISK
+Coastline Electrical Construction Corp.,Coastline Electrical Construction Corp.,NY,238210,Electrical contractors,21,2.0,1,0,1,0,3.76,1880.0,500.0,0.0,1,76,4.16,-0.04,NORMAL RISK
+Crystal Greens Landcape,"Crystal Greens Landscape , LLC",OR,561730,Landscape installation services,22,7.0,3,0,4,1,13.15,1878.57,428.57,0.0,5,65,6.22,0.52,NORMAL RISK
+Fine Swine LLC,Fox Hill Barn,OH,112210,"Hog and pig (including breeding, farrowing, nursery, and finishing activities) farming",21,21.0,12,0,12,1,39.2,1866.67,571.43,0.0,13,170,7.12,1.18,ABOVE AVERAGE RISK
+Blue Chip Pros,5257   Macys IL State Street,IL,561720,,1,3.0,2,0,1,0,5.59,1863.33,666.67,0.0,1,159,3.25,0.13,NORMAL RISK
+ROLLING FRITO LAY SALES,DELTA BIN   EmpWorkCtrCd 32654684,UT,424450,Confectionery Merchant Wholesalers,1,2.0,1,0,1,0,3.72,1860.0,500.0,0.0,1,72,5.29,-0.02,NORMAL RISK
+BrightView,49270 Closed  BVTS  Santa Clara Tree,CA,561730,Landscaping Services,1,2.0,2,0,0,1,3.71,1855.0,1000.0,0.0,1,21,6.22,-0.19,NORMAL RISK
+BANCROFT A NEW JERSEY NONPROFIT CORP,Walton,NJ,623990,Orphanages,22,226.0,157,0,86,34,418.82,1853.19,694.69,0.0,120,3882,7.89,16.2,CRITICAL OUTLIER
+X4 Logistics LLC,DCY1,CT,492110,Express delivery services (except establishments operating under a universal service obligation),21,68.0,61,0,31,0,125.98,1852.65,897.06,0.0,31,298,32.44,1.35,ABOVE AVERAGE RISK
+Washington Metropolitan Area Transit Authority,6600 Telegraph Road,VA,811213,Communication equipment repair and maintenance services,21,63.0,0,0,1,0,116.47,1848.73,0.0,0.0,1,11447,10.76,3.61,CRITICAL OUTLIER
+Ricoh USA Inc,1552 - Unitedhealth Gr,TX,423420,Office Equipment,1,2.0,1,0,0,1,3.69,1845.0,500.0,0.0,1,119,0.26,2.98,HIGH RISK OUTLIER
+Beth Israel Lahey Health,"LAHEY CLINIC HOSPITAL, INC.",MA,622110,,22,56.0,59,0,16,0,103.24,1843.57,1053.57,0.0,16,1224,80.37,0.15,NORMAL RISK
+Authorized Acquisition LLC (AA Medical),Authorized Acquisition LLC (AA Medical),IL,456199,Medical equipment and supplies stores,21,3.0,2,0,1,1,5.52,1840.0,666.67,0.0,2,2,3.08,0.41,NORMAL RISK
+"Brewster Ambulance Service, Inc.","Brewster Ambulance Service, Inc. 7 Main Street, Framingham, MA",MA,621910,"Ambulance services, air or ground",1,5.0,4,0,1,2,9.2,1840.0,800.0,0.0,3,20,9.95,-0.03,NORMAL RISK
+PRIDE Industries,MARE ISLAND US FOREST SVC,CA,561720,Janitorial,1,3.0,1,0,1,0,5.51,1836.67,333.33,0.0,1,251,3.25,0.13,NORMAL RISK
+Progress Industries,Larchwood,IA,623210,Residential Intellectual and Developmental Disability Facilities,1,5.0,2,0,2,0,9.16,1832.0,400.0,0.0,2,316,5.7,0.16,NORMAL RISK
+Myers Industries - Akro Mils,Myers Industries - Akro Mils,OH,326199,"Utility containers (e.g., baskets, bins, boxes, buckets, dishpans, pails), plastics (except foam), manufacturing",22,6.0,3,0,1,3,10.97,1828.33,500.0,0.0,4,147,9.2,0.13,NORMAL RISK
+CBRE Inc,CBRE-3801 Kennett Pike,DE,561210,Activities related to Real Estate and Facilities Support Services,1,3.0,2,0,1,0,5.47,1823.33,666.67,0.0,1,147,1.67,0.27,NORMAL RISK
+Villa Esperanza Services,Chester,CA,623210,"Group homes, intellectual and developmental disability",1,9.0,5,0,4,0,16.38,1820.0,555.56,0.0,4,338,5.7,0.49,NORMAL RISK
+Westport Properties Inc,SAN ANTONIO  LAREDO,TX,531130,Lessors of self storage units,3,3.0,2,0,0,2,5.45,1816.67,666.67,0.0,2,45,1.34,0.64,NORMAL RISK
+Thomas Cuisine,Thomas Cuisine @ Cody Regional Health,WY,722310,"Food service contractors, cafeteria",1,2.0,1,0,1,0,3.63,1815.0,500.0,0.0,1,63,1.39,0.38,NORMAL RISK
+North Iowa Cooperative-Plymouth,North Iowa Cooperative- Plymouth,IA,424510,Dry beans merchant wholesalers,1,2.0,1,0,0,1,3.63,1815.0,500.0,0.0,1,113,1.61,0.7,NORMAL RISK
+"Goodwill Industries of Southern Nevada, Inc.",Centennial Store,NV,453310,"Thrift shops, used merchandise",21,39.0,28,0,0,28,70.73,1813.59,717.95,0.0,28,73,3.74,9.29,CRITICAL OUTLIER
+SKYVENTURE SILICON VALLEY LLC,SFB-SFB-IFLY SFBAY,CA,713990,ALL OTHER AMUSEMENT AND RECREATION INDUSTRIES,1,7.0,5,0,2,0,12.69,1812.86,714.29,0.0,2,369,5.57,0.51,NORMAL RISK
+Leslie's Poolmart Inc,Store 1074,TX,453998,Swimming pool supply stores,1,2.0,1,0,1,0,3.62,1810.0,500.0,0.0,1,62,1.11,1.12,ABOVE AVERAGE RISK
+Town of Broadus,Town of Broadus,MT,921110,"Executive offices, federal, state, and local (e.g., governor, mayor, president)",1,4.0,2,0,1,1,7.22,1805.0,500.0,0.0,2,172,14.73,-0.16,NORMAL RISK
+Optimize Electric,Optimize Electric Inc,SD,238210,Electrical,21,2.0,1,0,1,0,3.61,1805.0,500.0,0.0,1,61,4.16,-0.06,NORMAL RISK
+Ferrara Brothers,22009,NY,327320,Ready-mix concrete manufacturing and distributing,21,23.0,11,0,10,1,41.36,1798.26,478.26,0.0,11,886,4.37,1.11,ABOVE AVERAGE RISK
+US Postal Service,ROCHELLE PARK_1379576,NJ,491110,Mail and Parcel Delivery,1,4.0,2,0,2,0,7.18,1795.0,500.0,0.0,2,118,9.91,-0.18,NORMAL RISK
+Connecticut Childrens Hospital,851-23 CT Childrens Hospital,CT,238310,Gypsum board installation,1,2.0,1,0,0,1,3.59,1795.0,500.0,0.0,1,109,5.51,-0.14,NORMAL RISK
+CAMDEN DEVELOPMENT INC,CAMDEN FAIRVIEW,NC,531110,Lessors Residential Bldgs Dwellings,1,2.0,1,0,1,0,3.59,1795.0,500.0,0.0,1,59,2.34,0.15,NORMAL RISK
+Treasure Valley Family YMCA,Camp at Horsethief Reservoir,ID,721214,"Camps (except day, instructional)",21,8.0,4,0,2,3,14.35,1793.75,500.0,0.0,5,185,8.91,0.28,NORMAL RISK
+US Postal Service,BROOKLYN CURTIS BAY_1434370,MD,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.58,1790.0,500.0,0.0,1,58,9.91,-0.41,NORMAL RISK
+US Postal Service,GREENWOOD_1365703,WA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.58,1790.0,500.0,0.0,1,58,9.91,-0.41,NORMAL RISK
+ROLLING FRITO LAY SALES,CHARLESTON PEC   EmpWorkCtrCd 30001568,SC,424450,Confectionery Merchant Wholesalers,1,4.0,2,0,0,2,7.15,1787.5,500.0,0.0,2,215,5.29,0.02,NORMAL RISK
+Department of Homeless Services,30th Street Men's Shelter,NY,923130,Community social service program administration,1,10.0,4,0,4,0,17.8,1780.0,400.0,0.0,4,580,4.07,1.13,ABOVE AVERAGE RISK
+Innovative Services INC,Erv Ct-268 (closed 2024),WI,623210,"Group homes, intellectual and developmental disability",1,3.0,3,0,1,0,5.33,1776.67,1000.0,0.0,1,33,5.7,-0.02,NORMAL RISK
+Tennyson Center for Children,Residential Services,CO,623210,"Group homes, intellectual and developmental disability",21,30.0,26,0,5,10,53.3,1776.67,866.67,0.0,15,230,5.7,2.2,HIGH RISK OUTLIER
+US Postal Service,CABRILLO_1356563,CA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.54,1770.0,500.0,0.0,1,54,9.91,-0.42,NORMAL RISK
+"VRC Companies, LLC",LAX6,CA,493190,Document storage and warehousing,21,10.0,5,0,3,2,17.66,1766.0,500.0,0.0,5,366,3.45,2.0,ABOVE AVERAGE RISK
+US Postal Service,VERO BEACH FINANCE_1354295,FL,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.53,1765.0,500.0,0.0,1,53,9.91,-0.42,NORMAL RISK
+FUNDACION PARA EL DESARROLLO DEL HOGAR PROPIO INC.,CENTRO MINI MINI / VILLAS DE LOIZA,PR,611710,Educational support services,1,12.0,7,0,7,0,21.18,1765.0,583.33,0.0,7,18,5.38,1.62,ABOVE AVERAGE RISK
+US Postal Service,BROADWAY_1355941,TX,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.53,1765.0,500.0,0.0,1,53,9.91,-0.42,NORMAL RISK
+"VRC Companies, LLC",SFO Palou,CA,493190,Document storage and warehousing,1,2.0,2,0,0,1,3.53,1765.0,1000.0,0.0,1,3,3.45,0.01,NORMAL RISK
+RotoCo LLC,Lancaster Branch,CA,238220,Plumbing contractors,1,11.0,6,0,4,1,19.4,1763.64,545.45,0.0,5,390,6.17,0.9,NORMAL RISK
+"Fine Swine, LLC",Rapid Ford Farm,OH,112210,Pig farming,21,21.0,12,0,11,1,37.03,1763.33,571.43,0.0,12,153,7.12,1.1,ABOVE AVERAGE RISK
+Great Falls Inn-Vestments LLC,Best Western Plus Riverfront,MT,721110,Hotels (except casino hotels),21,2.0,2,0,0,1,3.52,1760.0,1000.0,0.0,1,2,8.52,-0.22,NORMAL RISK
+SmartStop Storage Advisors LLC,8616 SmartStop - Oxford,FL,531312,"Property managing, nonresidential real estate",1,2.0,1,0,0,1,3.52,1760.0,500.0,0.0,1,102,2.61,0.11,NORMAL RISK
+United Cerebral Palsy of Georgia,United Cerebral Palsy of Georgia-Cedar Mill,GA,624120,"Activity centers for disabled persons, the elderly, and persons diagnosed with intellectual and developmental disabilities",1,4.0,2,0,1,1,7.03,1757.5,500.0,0.0,2,153,5.72,0.1,NORMAL RISK
+Springbrook NY Inc,Springbrook NY Inc - Binghamton Day Hab 675,NY,623210,,1,4.0,3,0,2,0,7.02,1755.0,750.0,0.0,2,2,5.7,0.06,NORMAL RISK
+US Postal Service,ELROY_1362487,WI,491110,Mail and Parcel Delivery,1,2.0,1,0,0,1,3.51,1755.0,500.0,0.0,1,101,9.91,-0.42,NORMAL RISK
+US Postal Service,JEFFERSON PARK_1441668,IL,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.51,1755.0,500.0,0.0,1,51,9.91,-0.42,NORMAL RISK
+US Postal Service,MONTGOMERY_1373625,TX,491110,Mail and Parcel Delivery,1,3.0,2,0,0,2,5.26,1753.33,666.67,0.0,2,26,9.91,-0.3,NORMAL RISK
+US Postal Service,SAN JUAN PR MPA2_1565594,PR,491110,Mail and Parcel Delivery,21,20.0,10,0,10,0,34.97,1748.5,500.0,0.0,10,497,9.91,1.64,ABOVE AVERAGE RISK
+Utz Quality Foods LLC,Wildwood FL,FL,424410,General Line Grocery Merchant Wholesalers,1,2.0,1,0,0,1,3.48,1740.0,500.0,0.0,1,98,34.97,-0.6,NORMAL RISK
+Eden Housing,5903_13147,CA,531311,,3,2.0,1,0,1,0,3.48,1740.0,500.0,0.0,1,48,1.79,0.21,NORMAL RISK
+"Lupton Excavation, Inc.","Lupton Excavation, Inc.",CA,238910,Excavation contractors,2,3.0,3,0,1,0,5.19,1730.0,1000.0,0.0,1,19,3.32,0.34,NORMAL RISK
+US Postal Service,ORANGEWOOD_1376231,CA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.46,1730.0,500.0,0.0,1,46,9.91,-0.42,NORMAL RISK
+US Postal Service,KENMORE_1433787,NY,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.46,1730.0,500.0,0.0,1,46,9.91,-0.42,NORMAL RISK
+Prestige Painting Worldwide,Prestige Painting Worldwide,MO,238160,"Painting, spraying, or coating, roof",21,4.0,1,0,1,0,6.92,1730.0,250.0,0.0,1,392,4.51,0.3,NORMAL RISK
+US Postal Service,HUNTLEY_1367680,IL,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.45,1725.0,500.0,0.0,1,45,9.91,-0.42,NORMAL RISK
+TRUCKPRO LLC,000018-GREENVILLE MS,MS,441310,Motor Vehicle Supplies & New Parts Wholesale,1,7.0,2,0,3,0,12.04,1720.0,285.71,0.0,3,404,2.7,1.28,ABOVE AVERAGE RISK
+US Postal Service,HAUPPAUGE_1433773,NY,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.44,1720.0,500.0,0.0,1,44,9.91,-0.42,NORMAL RISK
+"Flyers Transportation, LLC.",117902 - Concord Yard,CA,484220,"specialized freight, trucking",1,4.0,2,0,2,0,6.88,1720.0,500.0,0.0,2,88,5.57,0.12,NORMAL RISK
+US Postal Service,NORTHWEST_1375581,AZ,491110,Mail and Parcel Delivery,1,4.0,2,0,2,0,6.85,1712.5,500.0,0.0,2,85,9.91,-0.2,NORMAL RISK
+Jackson Hospital,Jackson Hospital - Main,FL,622110,"Hospitals, general medical and surgical",3,27.0,38,0,4,0,46.2,1711.11,1407.41,0.0,4,20,80.37,-0.22,NORMAL RISK
+Ageless Men's Health,AGELESS MENS HEALTH PC Brooklyn,NY,621111,"Physicians' (except mental health) offices (e.g., centers, clinics)",1,3.0,3,0,1,0,5.13,1710.0,1000.0,0.0,1,13,3.44,0.12,NORMAL RISK
+"Secure Transportation Company, Inc.",Kansas City Montana,MO,485999,Shuttle services (except employee bus),1,2.0,1,0,1,0,3.42,1710.0,500.0,0.0,1,42,5.01,-0.23,NORMAL RISK
+HYVEE INC,FDI Balloons,IA,424930,Flower Nursery Stock and Florists Supplies Merchant Wholesalers,21,3.0,2,0,1,0,5.12,1706.67,666.67,0.0,1,112,8.15,-0.24,NORMAL RISK
+Sodexo  Inc.,SODEXO AT P and G DYMC ADMIN,OH,561720,Building Cleaning Maintenance,1,2.0,1,0,1,0,3.41,1705.0,500.0,0.0,1,41,3.25,0.01,NORMAL RISK
+US Postal Service,CRESCENT_1440481,CA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.41,1705.0,500.0,0.0,1,41,9.91,-0.42,NORMAL RISK
+Mayor and City Council of Baltimore City DBA Department of Public Works,Bowleys Lane Yard,MD,562111,Waste Disposal,22,127.0,65,0,53,17,216.37,1703.7,511.81,0.0,70,1987,10.51,10.25,CRITICAL OUTLIER
+US Postal Service,SAINT CLAIR_1380304,MI,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.4,1700.0,500.0,0.0,1,40,9.91,-0.43,NORMAL RISK
+Sodexo  Inc.,SODEXO AT ST PAULS MANOR,CA,722310,Food Service Contractors,1,2.0,1,0,1,0,3.4,1700.0,500.0,0.0,1,40,1.39,0.34,NORMAL RISK
+Ramapo Rescue Dog Foundation,290 Ramapo Rescue Dog Foundation,NY,812910,Pet training services,1,2.0,1,0,1,0,3.4,1700.0,500.0,0.0,1,40,4.77,-0.08,NORMAL RISK
+Clean Harbors,Safety Kleen Systems Inc 77P83,OR,562112,,1,2.0,1,0,0,1,3.39,1695.0,500.0,0.0,1,89,0.46,1.84,ABOVE AVERAGE RISK
+Sodexo  Inc.,SODEXO AT USMC E FACILITIES PARRIS ISLAN,SC,561720,Building Cleaning Maintenance,1,2.0,1,0,0,1,3.39,1695.0,500.0,0.0,1,89,3.25,0.01,NORMAL RISK
+US Postal Service,SEDGWICK_1381146,KS,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.39,1695.0,500.0,0.0,1,39,9.91,-0.43,NORMAL RISK
+Merrill Gardens,Merrill Gardens at Madison,AL,623312,Assisted-living facilities without on-site nursing care facilities,21,8.0,6,0,2,2,13.5,1687.5,750.0,0.0,4,50,6.93,0.71,NORMAL RISK
+Sodexo  Inc.,SODEXO AT MERRIMACK FOOD TRUCK,MA,722310,Food Service Contractors,1,3.0,1,0,1,0,5.06,1686.67,333.33,0.0,1,206,1.39,0.62,NORMAL RISK
+Volumod Indy LLC,Volumod Indy LLC,IN,321991,Manufactured (mobile) homes manufacturing,22,3.0,2,0,0,2,5.05,1683.33,666.67,0.0,2,5,22.26,-0.86,NORMAL RISK
+"BEECAN HEALTH, LLC",MACLAY HEALTHCARE CENTER,CA,623110,Nursing homes,22,13.0,14,0,0,3,21.85,1680.77,1076.92,0.0,3,335,13.46,0.48,NORMAL RISK
+US Postal Service,DREISER LOOP_1361297,NY,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.35,1675.0,500.0,0.0,1,35,9.91,-0.43,NORMAL RISK
+CalPortland,National City Cement Terminal,CA,327310,Cement clinker manufacturing,1,3.0,2,0,0,2,5.02,1673.33,666.67,0.0,2,2,1.92,1.0,NORMAL RISK
+Brickworks Property Restoration,Brickworks,MI,238140,Masonry contractors,21,3.0,5,0,0,0,5.0,1666.67,1666.67,0.0,0,0,5.24,-0.02,NORMAL RISK
+Challenge Enterprises,"Challenge Enterprises North Florida, Inc.",FL,624310,Job training and related services,3,3.0,5,0,0,0,5.0,1666.67,1666.67,0.0,0,0,3.52,0.16,NORMAL RISK
+Precision Underground Utilities LLC,Precision Underground Utilities LLC,IA,237130,Fiber optic cable transmission line construction,22,3.0,5,0,0,0,5.0,1666.67,1666.67,0.0,0,0,4.24,0.07,NORMAL RISK
+US Postal Service,GILBERTS_1364763,IL,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.33,1665.0,500.0,0.0,1,33,9.91,-0.43,NORMAL RISK
+US Postal Service,MAIN OFFICE CARRIER SECTION_1378768,ME,491110,Mail and Parcel Delivery,21,24.0,13,0,5,7,39.88,1661.67,541.67,0.0,12,638,9.91,1.96,ABOVE AVERAGE RISK
+US Postal Service,WASHINGTON_1386522,MS,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.32,1660.0,500.0,0.0,1,32,9.91,-0.43,NORMAL RISK
+US Postal Service,RICHMOND_1379263,KY,491110,Mail and Parcel Delivery,1,4.0,2,0,2,0,6.61,1652.5,500.0,0.0,2,61,9.91,-0.22,NORMAL RISK
+Country Partners Cooperative,Country Partners Cooperative - Anselmo,NE,447190,Other Gasoline Stations,3,2.0,1,0,1,0,3.3,1650.0,500.0,0.0,1,30,1.79,0.58,NORMAL RISK
+US Postal Service,EAGLEVILLE_1436434,PA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.3,1650.0,500.0,0.0,1,30,9.91,-0.43,NORMAL RISK
+Envirotest Systems Corporation,35039 - Twinsburg - Ohio E-Check,OH,811198,"Emissions testing without repair, automotive",1,4.0,1,0,1,0,6.6,1650.0,250.0,0.0,1,360,3.16,0.47,NORMAL RISK
+E0263-Tidal Wave Auto Spa of Winchester KY,E0263-Tidal Wave Auto Spa of Winchester KY,KY,811192,Car washes,1,6.0,3,0,3,0,9.89,1648.33,500.0,0.0,3,89,1.98,2.01,HIGH RISK OUTLIER
+MAJCO LLC,1043,CA,441320,Tire Dealers,1,4.0,3,0,1,1,6.59,1647.5,750.0,0.0,2,9,3.36,0.7,NORMAL RISK
+Dayton Freight Lines Inc.,622-OSHLH,WI,484122,Transportation,1,2.0,1,0,1,0,3.29,1645.0,500.0,0.0,1,29,10.61,-0.45,NORMAL RISK
+Natural Green Landscape,"Landscape, Construction & Irrigation",CA,561730,Landscape care and maintenance services,22,4.0,5,0,0,1,6.58,1645.0,1250.0,0.0,1,8,6.22,0.03,NORMAL RISK
+US Postal Service,FORT WORTH TX PSA_1563144,TX,491110,Mail and Parcel Delivery,1,11.0,6,0,4,2,18.07,1642.73,545.45,0.0,6,107,9.91,0.53,NORMAL RISK
+"Neosho Smoke, LLC","Neosho Smoke, LLC",MO,423990,"Wood products (e.g., chips, posts, shavings, ties) merchant wholesalers",22,40.0,28,0,2,21,65.64,1641.0,700.0,0.0,23,214,5.38,4.09,CRITICAL OUTLIER
+AMERICAN MED RESPONSEGLOBAL MED RESPONSE 015025,Worcester Ma Vital - 48540,MA,621910,,1,2.0,1,0,1,0,3.28,1640.0,500.0,0.0,1,28,9.95,-0.29,NORMAL RISK
+Flower's Baking Company,Huntsville WH,AL,311812,Commercial bakeries,1,2.0,1,0,0,1,3.28,1640.0,500.0,0.0,1,78,18.72,-0.55,NORMAL RISK
+US Postal Service,HOMEWOOD_1437755,AL,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.27,1635.0,500.0,0.0,1,27,9.91,-0.43,NORMAL RISK
+US Postal Service,NEGAUNEE_1374537,MI,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.27,1635.0,500.0,0.0,1,27,9.91,-0.43,NORMAL RISK
+City of Corona,Fire Station 6,CA,922160,"Fire departments (e.g., government, volunteer (except private))",1,4.0,2,0,2,0,6.54,1635.0,500.0,0.0,2,54,19.65,-0.2,NORMAL RISK
+Elevated Drywall,Elevated Drywall,UT,238310,Drywall contractors,21,2.0,1,0,1,0,3.26,1630.0,500.0,0.0,1,26,5.51,-0.17,NORMAL RISK
+IGT,O-ROBINSONVILLE OFFICE WHSE US219,MS,713290,Other Gambling Industries,1,3.0,2,0,1,0,4.89,1630.0,666.67,0.0,1,89,4.24,0.05,NORMAL RISK
+US Postal Service,BOVEY_1355511,MN,491110,Mail and Parcel Delivery,1,6.0,4,0,2,0,9.78,1630.0,666.67,0.0,2,178,9.91,-0.01,NORMAL RISK
+DEVA Logistics LLC,Deva Logistics LLC - WMG1,AL,492110,"Courier services (i.e., intercity network) (except establishments operating under a universal service obligation)",21,2.0,1,0,1,0,3.26,1630.0,500.0,0.0,1,26,32.44,-0.42,NORMAL RISK
+CAMDEN DEVELOPMENT INC,CAMDEN GRAND HARBOR,TX,531110,Lessors Residential Bldgs Dwellings,1,4.0,2,0,1,1,6.51,1627.5,500.0,0.0,2,101,2.34,0.51,NORMAL RISK
+Optivest Properties Co,RightSpace28,CA,531130,Lessors of self storage units,1,2.0,1,0,0,1,3.25,1625.0,500.0,0.0,1,75,1.34,0.3,NORMAL RISK
+Imperial Premix LLC,Imperial Premix LLC,CA,311119,"Livestock feeds, supplements, concentrates and premixes, manufacturing",21,23.0,11,0,3,8,37.34,1623.48,478.26,0.0,11,834,3.12,6.36,CRITICAL OUTLIER
+Chiquita Fresh North America LLC4301,Shelbyville,IN,424480,"Vegetables, fresh, merchant wholesalers",1,3.0,1,0,1,1,4.87,1623.33,333.33,0.0,2,37,16.99,-0.39,NORMAL RISK
+US Postal Service,CLINTON TOWNSHIP_1437821,MI,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.24,1620.0,500.0,0.0,1,24,9.91,-0.44,NORMAL RISK
+Thornapple Kellogg School,Thornapple Kellogg School,MI,611110,"School districts, elementary or secondary",3,20.0,14,0,3,3,32.37,1618.5,700.0,0.0,6,787,8.46,0.67,NORMAL RISK
+ECD Automotive Design,ECD Automotive Design,FL,441110,"Automobile dealers, new only or new and used",22,9.0,9,0,2,0,14.54,1615.56,1000.0,0.0,2,154,4.58,1.48,ABOVE AVERAGE RISK
+Davidson Health & Rehab Center,Davidson Health & Rehab Center,NC,623110,Nursing homes,22,149.0,6,0,116,1,240.71,1615.5,40.27,0.0,117,121,13.46,13.03,CRITICAL OUTLIER
+US Postal Service,UTICA_1385588,MI,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.23,1615.0,500.0,0.0,1,23,9.91,-0.44,NORMAL RISK
+CBRE Inc,CBRE-4915 Independence Parkway,FL,561210,Activities related to Real Estate and Facilities Support Services,1,2.0,1,0,1,0,3.23,1615.0,500.0,0.0,1,23,1.67,0.11,NORMAL RISK
+Barber National Institute,Barber National Institute - Philadelphia Kerper,PA,624120,Health and Allied Services,1,6.0,3,0,3,0,9.67,1611.67,500.0,0.0,3,67,5.72,0.3,NORMAL RISK
+US Postal Service,WEBBERVILLE_1386778,MI,491110,Mail and Parcel Delivery,1,7.0,3,0,3,0,11.27,1610.0,428.57,0.0,3,227,9.91,0.09,NORMAL RISK
+"Cirque du Soleil Nevada Newco, Inc.",Mystere Newco,NV,711190,Theatrical  Producers,21,86.0,42,0,32,3,138.23,1607.33,488.37,0.0,35,2773,35.93,1.96,ABOVE AVERAGE RISK
+Eden Housing,5903_13120,CA,531311,,3,2.0,1,0,1,0,3.21,1605.0,500.0,0.0,1,21,1.79,0.17,NORMAL RISK
+US Postal Service,MOUNT LAUREL_1374024,NJ,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.21,1605.0,500.0,0.0,1,21,9.91,-0.44,NORMAL RISK
+US Postal Service,NOSTRAND_1375635,NY,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.21,1605.0,500.0,0.0,1,21,9.91,-0.44,NORMAL RISK
+Original Bradford Soap Works Inc.,"The Original Bradford Soap Works, Inc.",CA,493110,"Warehousing and storage, general merchandise",1,3.0,1,0,1,0,4.8,1600.0,333.33,0.0,1,180,22.18,-0.22,NORMAL RISK
+Estes Express Lines,Box Elder 149,SD,484122,,1,3.0,1,0,1,0,4.8,1600.0,333.33,0.0,1,180,10.61,-0.36,NORMAL RISK
+"Key Cargo Marine, Inc","Key Cargo Marine, Inc",NJ,493110,General warehousing and storage,1,2.0,1,0,1,0,3.2,1600.0,500.0,0.0,1,20,22.18,-0.24,NORMAL RISK
+Leslie's Poolmart Inc,Store 0534,FL,453998,Swimming pool supply stores,1,3.0,1,0,1,0,4.8,1600.0,333.33,0.0,1,180,1.11,1.65,ABOVE AVERAGE RISK
+US Postal Service,GRANTSBORO_1365404,NC,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.2,1600.0,500.0,0.0,1,20,9.91,-0.44,NORMAL RISK
+CBRE Inc,CBRE-3648 N Freeway Blvd,CA,561210,Activities related to Real Estate and Facilities Support Services,1,2.0,1,0,1,0,3.2,1600.0,500.0,0.0,1,20,1.67,0.11,NORMAL RISK
+US Postal Service,LOG LAS VEGAS MPA_1558092,NV,491110,Mail and Parcel Delivery,1,3.0,1,0,1,0,4.8,1600.0,333.33,0.0,1,180,9.91,-0.33,NORMAL RISK
+TERRA CAPTIVE,FISHER & THOMPSON INC 201,VA,811310,,1,4.0,3,0,0,2,6.39,1597.5,750.0,0.0,2,39,3.45,0.17,NORMAL RISK
+Aviant Healthcare,Hospice of the Southwest - West Valley,AZ,621610,"Hospice care services, in home",1,4.0,2,0,2,0,6.38,1595.0,500.0,0.0,2,38,5.5,0.06,NORMAL RISK
+Maersk,Octal,UT,493190,"Public warehousing and storage (except farm products, general merchandise, refrigerated, self storage)",1,2.0,1,0,0,1,3.19,1595.0,500.0,0.0,1,69,3.45,-0.04,NORMAL RISK
+The Container Store,037/Pasadena,CA,442299,All Other Home Furnishings Stores,21,9.0,3,0,3,0,14.32,1591.11,333.33,0.0,3,532,4.58,0.71,NORMAL RISK
+US Postal Service,KALORAMA_1368652,DC,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.18,1590.0,500.0,0.0,1,18,9.91,-0.44,NORMAL RISK
+CBRE Inc,CBRE-105 Edgeview,CO,561210,Activities related to Real Estate and Facilities Support Services,1,2.0,1,0,1,0,3.18,1590.0,500.0,0.0,1,18,1.67,0.11,NORMAL RISK
+US Postal Service,GRAY_1437207,TN,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.18,1590.0,500.0,0.0,1,18,9.91,-0.44,NORMAL RISK
+US Postal Service,CLEMENTON_1358305,NJ,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.18,1590.0,500.0,0.0,1,18,9.91,-0.44,NORMAL RISK
+City of Burbank,City of Burbank - Parks and Recreation - Facilities Maintenance,CA,924120,"Community recreation programs, government",22,2.0,1,0,1,0,3.18,1590.0,500.0,0.0,1,18,5.43,-0.13,NORMAL RISK
+Leslie's Poolmart Inc,Store 0386,CA,453998,Swimming pool supply stores,1,3.0,1,0,1,0,4.76,1586.67,333.33,0.0,1,176,1.11,1.63,ABOVE AVERAGE RISK
+"Amergis Healthcare Staffing Services, Inc.",San Diego Field Office,CA,561320,Temporary staffing services,2,46.0,24,0,18,0,72.95,1585.87,521.74,0.0,18,1295,6.99,2.62,HIGH RISK OUTLIER
+Telecare Corporation,San Diego Icm,CA,622210,Mental health hospitals,1,7.0,3,0,2,1,11.1,1585.71,428.57,0.0,3,260,26.75,-0.19,NORMAL RISK
+San Diego Icm,349,CA,622210,Mental health hospitals,1,7.0,3,0,2,1,11.1,1585.71,428.57,0.0,3,260,26.75,-0.19,NORMAL RISK
+Telecare Corporation,349 San Diego Icm,CA,622210,Mental health hospitals,1,7.0,3,0,2,1,11.1,1585.71,428.57,0.0,3,260,26.75,-0.19,NORMAL RISK
+Ricoh USA Inc,1287 - Ricoh Printing,CA,423420,Office Equipment,1,2.0,1,0,1,0,3.17,1585.0,500.0,0.0,1,17,0.26,2.53,HIGH RISK OUTLIER
+Tellworks Communications LLC,Tellworks Charlotte,NC,493110,General warehousing and storage,1,3.0,0,0,1,0,4.75,1583.33,0.0,0.0,1,275,22.18,-0.22,NORMAL RISK
+Bay Baby Produce,Bay Baby Produce,WA,111219,"Pumpkin farming, field and seed production",3,25.0,19,0,8,2,39.58,1583.2,760.0,0.0,10,158,13.55,1.06,ABOVE AVERAGE RISK
+Neighborhood Health,Neighborhood Health - Mark Center Dental,VA,621112,"DOs' (doctors of osteopathy), mental health, offices (e.g., centers, clinics)",1,4.0,3,0,1,0,6.33,1582.5,750.0,0.0,1,133,4.37,0.19,NORMAL RISK
+Sunrun Inc,IL-713 Illinois Central  BRANCH - IL - Illinois,IL,238210,"Photovoltaic solar energy generation systems and battery energy storage products,primarily for residential customers",21,56.0,31,0,10,16,88.6,1582.14,553.57,0.0,26,1360,4.16,8.78,CRITICAL OUTLIER
+US Postal Service,NEWTON UPPER FALLS_1434293,MA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.16,1580.0,500.0,0.0,1,16,9.91,-0.44,NORMAL RISK
+"Kenmar Residential Services, Inc.",KRS - Abilene Work Shop,TX,623210,"Group homes, intellectual and developmental disability",1,2.0,1,0,1,0,3.16,1580.0,500.0,0.0,1,16,5.7,-0.12,NORMAL RISK
+"Legacy Sheds, LLC","Legacy Sheds, LLC",SC,321992,"Garages, prefabricated wood, manufacturing",1,2.0,1,0,1,0,3.16,1580.0,500.0,0.0,1,16,13.02,-0.53,NORMAL RISK
+"Douglas Electric Cooperative, Inc",Douglas Electric Coop,OR,221122,Distribution of electric power,1,2.0,1,0,1,0,3.16,1580.0,500.0,0.0,1,16,4.4,-0.12,NORMAL RISK
+CBRE Inc,CBRE-C9-50 Patriot Dr,DE,561210,Activities related to Real Estate and Facilities Support Services,1,2.0,1,0,1,0,3.16,1580.0,500.0,0.0,1,16,1.67,0.11,NORMAL RISK
+Southern Tech Fab,Southern Tech Fab,TX,332312,Fabricated structural metal manufacturing,21,70.0,20,0,11,9,110.42,1577.43,285.71,0.0,20,5492,6.42,7.33,CRITICAL OUTLIER
+US Postal Service,NORTH_1375447,NJ,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.15,1575.0,500.0,0.0,1,15,9.91,-0.44,NORMAL RISK
+US Postal Service,SCOTTDALE_1381014,GA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.15,1575.0,500.0,0.0,1,15,9.91,-0.44,NORMAL RISK
+S&G Discount Outlet Inc.,S&G Dublin,CA,442210,Carpet stores,1,8.0,3,0,1,2,12.57,1571.25,375.0,0.0,3,457,7.76,0.56,NORMAL RISK
+KC Tree Service llc,KC Tree Service llc,NJ,561730,Plant and shrub maintenance in buildings,1,3.0,1,0,1,0,4.71,1570.0,333.33,0.0,1,171,6.22,-0.11,NORMAL RISK
+Ricoh USA Inc,1492 - Tmeic,VA,423420,Office Equipment,1,2.0,1,0,1,0,3.14,1570.0,500.0,0.0,1,14,0.26,2.5,HIGH RISK OUTLIER
+CBRE Inc,CBRE-2650 Warrenville Road,IL,561210,Activities related to Real Estate and Facilities Support Services,1,2.0,1,0,1,0,3.13,1565.0,500.0,0.0,1,13,1.67,0.1,NORMAL RISK
+Leslie's Poolmart Inc,Store 0914,NJ,453998,Swimming pool supply stores,1,2.0,1,0,1,0,3.13,1565.0,500.0,0.0,1,13,1.11,0.9,NORMAL RISK
+Tech-24,VARC,VA,811310,Commercial refrigeration equipment repair and maintenance services,1,2.0,1,0,1,0,3.13,1565.0,500.0,0.0,1,13,3.45,-0.02,NORMAL RISK
+Energy Developments Inc,EDL- South Jordan,UT,221117,"Power generation, biomass",1,2.0,1,0,1,0,3.13,1565.0,500.0,0.0,1,13,1.15,0.8,NORMAL RISK
+AAA Cooper Transportation,CIN-NOR,OH,484122,"Trucking, general freight, long-distance, less-than-truckload (LTL)",1,5.0,2,0,2,0,7.82,1564.0,400.0,0.0,2,182,10.61,-0.17,NORMAL RISK
+Major League Baseball CAROLINA MUDCATS,CAROLINA MUDCATS CAROLINA MUDCATS,NC,711211,Baseball club minor leagues,22,155.0,69,0,73,0,242.32,1563.35,445.16,0.0,73,2732,75.37,1.23,ABOVE AVERAGE RISK
+US Postal Service,TAKOMA PARK_1434466,MD,491110,Mail and Parcel Delivery,1,4.0,2,0,2,0,6.25,1562.5,500.0,0.0,2,25,9.91,-0.24,NORMAL RISK
+"Sapp Bros.,Inc.",Hanover,KS,424720,Petroleum and Petroleum Products Merchant Wholesalers except Bulk Stations and Terminals,1,2.0,1,0,1,0,3.12,1560.0,500.0,0.0,1,12,2.9,0.04,NORMAL RISK
+US Postal Service,BROOKLINE_1356020,NH,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.12,1560.0,500.0,0.0,1,12,9.91,-0.44,NORMAL RISK
+US Postal Service,KOKOMO_1436194,IN,491110,Mail and Parcel Delivery,1,4.0,2,0,2,0,6.24,1560.0,500.0,0.0,2,24,9.91,-0.24,NORMAL RISK
+Mission Healthcare Services LLC,Mission Home Health Rancho Mirage,CA,621610,80808,3,2.0,1,0,1,0,3.12,1560.0,500.0,0.0,1,12,5.5,-0.15,NORMAL RISK
+K & M Tire,K 7 M Tire - Carlsbad,NM,423130,Motor vehicle tire and tube merchant wholesalers,1,6.0,2,0,1,1,9.34,1556.67,333.33,0.0,2,384,7.07,0.14,NORMAL RISK
+Town of South Windsor,Town of South Windsor - Treatment Plant,CT,221320,Sewage treatment plants or facilities,1,12.0,7,0,1,5,18.68,1556.67,583.33,0.0,6,218,5.32,0.76,NORMAL RISK
+US Postal Service,DYER_1361551,IN,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.11,1555.0,500.0,0.0,1,11,9.91,-0.44,NORMAL RISK
+US Postal Service,FARMINGTON_1363183,WV,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.11,1555.0,500.0,0.0,1,11,9.91,-0.44,NORMAL RISK
+New Enterprise Stone  Lime CoInc,Barton Road RMC Plant,NY,327320,ReadyMix Concrete Manufacturing,1,2.0,1,0,1,0,3.11,1555.0,500.0,0.0,1,11,4.37,-0.04,NORMAL RISK
+US Postal Service,NANJEMOY_1374366,MD,491110,Mail and Parcel Delivery,1,5.0,3,0,2,0,7.77,1554.0,600.0,0.0,2,77,9.91,-0.14,NORMAL RISK
+"Marketing Alliance Group Transportation, Inc.",MAG Transport - Foster Rd,GA,484110,"Trucking, general freight, local",1,4.0,2,0,2,0,6.21,1552.5,500.0,0.0,2,21,7.49,-0.11,NORMAL RISK
+Gordon Food Service,ALPELLC02,AL,424410,General Line Grocery Merchant Wholesalers,21,24.0,10,0,9,1,37.25,1552.08,416.67,0.0,10,775,34.97,0.04,NORMAL RISK
+Telecare Corporation,Pierce County E & T,WA,622210,Psychiatric hospitals (except convalescent),21,43.0,20,0,22,0,66.67,1550.47,465.12,0.0,22,267,26.75,0.48,NORMAL RISK
+Central Transport International Inc,Central Transport - 832,ID,484122,General Freight Trucking Long-Distance Less Than Truckload,1,4.0,2,0,2,0,6.2,1550.0,500.0,0.0,2,20,10.61,-0.27,NORMAL RISK
+HES Facilities LLC,HES K12 at Univ of WI Superior,WI,561720,,1,2.0,1,0,1,0,3.1,1550.0,500.0,0.0,1,10,3.25,-0.01,NORMAL RISK
+Adapt Health LLC,"New Braunfels,TX",TX,423450,5047,3,2.0,1,0,1,0,3.1,1550.0,500.0,0.0,1,10,5.13,-0.14,NORMAL RISK
+CITY OF LA RECREATION AND PARKS,Los Feliz Golf Maintenance,CA,561730,,1,3.0,1,0,1,0,4.65,1550.0,333.33,0.0,1,165,6.22,-0.12,NORMAL RISK
+Eden Housing,5903_13112,CA,531311,,3,2.0,1,0,1,0,3.1,1550.0,500.0,0.0,1,10,1.79,0.16,NORMAL RISK
+Ushio America Inc,Ushio America Inc,OR,335110,"Light bulbs, sealed beam automotive, manufacturing",2,2.0,1,0,0,1,3.1,1550.0,500.0,0.0,1,60,4.12,-0.25,NORMAL RISK
+Tidal Wave Auto Spa of Ocala FL Canopy,Tidal Wave Auto Spa of Ocala FL Canopy,FL,811192,Car washes,1,6.0,3,0,3,0,9.28,1546.67,500.0,0.0,3,28,1.98,1.85,ABOVE AVERAGE RISK
+US Postal Service,CHEWELAH_1357890,WA,491110,Mail and Parcel Delivery,1,11.0,5,0,4,1,17.01,1546.36,454.55,0.0,5,251,9.91,0.46,NORMAL RISK
+US Postal Service,STINSON BEACH_1383594,CA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.09,1545.0,500.0,0.0,1,9,9.91,-0.45,NORMAL RISK
+US Postal Service,NANTUCKET_1374371,MA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.09,1545.0,500.0,0.0,1,9,9.91,-0.45,NORMAL RISK
+San Francisco Department of Public Health,Medical Respite and Sobering Center,CA,622310,Specialty except Psychiatric and Substance Abuse Hospitals,1,15.0,6,0,4,3,23.15,1543.33,400.0,0.0,7,465,19.97,0.05,NORMAL RISK
+ROLLING FRITO LAY SALES,BOISE ZONE   EmpWorkCtrCd 30000516,ID,424450,Confectionery Merchant Wholesalers,1,4.0,2,0,2,0,6.17,1542.5,500.0,0.0,2,17,5.29,0.01,NORMAL RISK
+US Postal Service,BATH SPRINGS_1354197,TN,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.08,1540.0,500.0,0.0,1,8,9.91,-0.45,NORMAL RISK
+SEMCAC,Rolling Hills Transit Bus Garage,MN,813319,Social service advocacy organizations,1,2.0,1,0,1,0,3.08,1540.0,500.0,0.0,1,8,5.26,-0.21,NORMAL RISK
+Community Entry Service,Land Recycling,WY,623990,Group homes for the disabled without nursing care,22,5.0,2,0,2,0,7.7,1540.0,400.0,0.0,2,170,7.89,-0.01,NORMAL RISK
+CrossCountry Freight Solutions,FAR,ND,484110,General Freight Trucking,21,2.0,1,0,1,0,3.08,1540.0,500.0,0.0,1,8,7.49,-0.37,NORMAL RISK
+US Postal Service,FORT SMITH_1363843,AR,491110,Mail and Parcel Delivery,1,4.0,2,0,2,0,6.16,1540.0,500.0,0.0,2,16,9.91,-0.25,NORMAL RISK
+Community Entry Service,Lan Recycling,WY,623990,Disabled group homes without nursing care,22,5.0,2,0,2,0,7.7,1540.0,400.0,0.0,2,170,7.89,-0.01,NORMAL RISK
+"Steadfast Management Company, Inc.",Orange Tree,CA,531110,Apartment building rental or leasing,1,2.0,1,0,1,0,3.08,1540.0,500.0,0.0,1,8,2.34,0.09,NORMAL RISK
+US Foods,CHEFSTORE Newport 541,OR,424410,Grocery,1,8.0,3,0,3,0,12.31,1538.75,375.0,0.0,3,331,34.97,-0.43,NORMAL RISK
+Monarch,Hope House Group Home,NC,623210,Human Services Non-Profit,1,5.0,1,0,1,3,7.69,1538.0,200.0,0.0,4,19,5.7,0.09,NORMAL RISK
+State of Alaska,Dept. of Public Safety 49,AK,922120,,21,25.0,19,0,2,8,38.44,1537.6,760.0,0.0,10,344,30.26,0.09,NORMAL RISK
+US Postal Service,ATLANTIC CITY_1353602,NJ,491110,Mail and Parcel Delivery,1,4.0,2,0,2,0,6.15,1537.5,500.0,0.0,2,15,9.91,-0.25,NORMAL RISK
+"G & J Heavy Haul, Inc.","G & J Heavy Haul, Inc.",CA,484220,"Gravel hauling, local",22,12.0,5,0,4,0,18.45,1537.5,416.67,0.0,4,545,5.57,1.15,ABOVE AVERAGE RISK
+US Postal Service,SELBYVILLE_1381170,DE,491110,Mail and Parcel Delivery,1,4.0,2,0,2,0,6.15,1537.5,500.0,0.0,2,15,9.91,-0.25,NORMAL RISK
+US Postal Service,DOWNTOWN TUPELO_1385165,MS,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.07,1535.0,500.0,0.0,1,7,9.91,-0.45,NORMAL RISK
+Martin Auto Color Inc.,Hollister,CA,424950,"Pigments, paint, merchant wholesalers",1,2.0,1,0,1,0,3.07,1535.0,500.0,0.0,1,7,1.59,0.22,NORMAL RISK
+US Postal Service,BRASELTON HOSCHTON CAX_1450532,GA,491110,Mail and Parcel Delivery,1,5.0,3,0,2,0,7.67,1534.0,600.0,0.0,2,67,9.91,-0.15,NORMAL RISK
+ArcBest - Risk Management,ABF Freight 395,NM,484122,Transportation,21,3.0,2,0,1,0,4.6,1533.33,666.67,0.0,1,60,10.61,-0.37,NORMAL RISK
+IGT,O-RENTON OFFICE WAREHOUSE US170,WA,713290,Other Gambling Industries,1,1.0,0,0,0,1,1.53,1530.0,0.0,0.0,1,3,4.24,-0.22,NORMAL RISK
+Leslie's Poolmart Inc,Store 0659,SC,453998,Swimming pool supply stores,1,2.0,1,0,0,1,3.06,1530.0,500.0,0.0,1,56,1.11,0.87,NORMAL RISK
+ATMOS ENERGY,SC WAHA 2977 N HWY 1776 COYANOSA TX,TX,221210,Natural Gas Distribution,1,2.0,1,0,1,0,3.06,1530.0,500.0,0.0,1,6,3.48,-0.05,NORMAL RISK
+US Postal Service,WELLINGTON_1386867,FL,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.06,1530.0,500.0,0.0,1,6,9.91,-0.45,NORMAL RISK
+Clairmont Place,Clairmont Place,GA,623312,Retirement homes without nursing care,21,4.0,2,0,0,2,6.11,1527.5,500.0,0.0,2,111,6.93,-0.09,NORMAL RISK
+Jasper Wyman & Son,Cherryfield Plant,ME,311411,"Fruits, frozen, manufacturing",22,14.0,11,0,0,5,21.38,1527.14,785.71,0.0,5,288,19.6,0.06,NORMAL RISK
+Programa Head Start/Early Head Start/MAC,Colinas de Magnolia,PR,624410,Child day care services,1,3.0,1,0,1,1,4.58,1526.67,333.33,0.0,2,8,2.81,0.27,NORMAL RISK
+Programa Head Start/Early Head Start/MAC,La Barra I y II,PR,624410,Child day care services,1,3.0,1,0,1,1,4.58,1526.67,333.33,0.0,2,8,2.81,0.27,NORMAL RISK
+Programa Head Start/Early Head Start/MAC,Jardines del Condado,PR,624410,Child day care services,1,3.0,1,0,1,1,4.58,1526.67,333.33,0.0,2,8,2.81,0.27,NORMAL RISK
+"Hilco Transport, Inc.",Yadkin County Transfer Station,NC,484230,"Trucking, specialized freight (except used goods), long-distance",1,2.0,1,0,1,0,3.05,1525.0,500.0,0.0,1,5,6.44,-0.26,NORMAL RISK
+US Postal Service,TRAINSMEADOW_1384936,NY,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.05,1525.0,500.0,0.0,1,5,9.91,-0.45,NORMAL RISK
+"Upstate NY Bottle & Can Retrieval Center, LLC",Warrensburg BCRC,NY,423930,"Recyclable materials (e.g., glass, metal, paper) merchant wholesalers",1,2.0,1,0,1,0,3.05,1525.0,500.0,0.0,1,5,3.77,-0.1,NORMAL RISK
+Moore Lumber & Hardware,Moore at the Meadows,CO,444120,Paint stores,1,2.0,1,0,0,1,3.05,1525.0,500.0,0.0,1,55,1.31,0.88,NORMAL RISK
+Heritage Cooperative,Heritage Cooperative Derby Grain,OH,424510,Grain and Field Bean Merchant Wholesaler,1,2.0,1,0,1,0,3.05,1525.0,500.0,0.0,1,5,1.61,0.5,NORMAL RISK
+Roers Companies LLC,Oberon,MN,531311,Property Management,1,2.0,1,0,1,0,3.05,1525.0,500.0,0.0,1,5,1.79,0.15,NORMAL RISK
+US Postal Service,KENWOOD_1368915,CA,491110,Mail and Parcel Delivery,1,4.0,2,0,1,1,6.1,1525.0,500.0,0.0,2,60,9.91,-0.25,NORMAL RISK
+Habitat for Humanity of Metro Denver,Denver ReStore,CO,236115,"Low income housing, single-family, construction general contractors",2,19.0,8,0,1,7,28.97,1524.74,421.05,0.0,8,847,3.87,2.88,HIGH RISK OUTLIER
+"Arnold's Metal Finishing, Inc.",Arnold's Metal Finishing Inc.,CA,332813,Electroplating metals and formed products for the trade,21,4.0,3,0,0,2,6.09,1522.5,750.0,0.0,2,9,5.61,0.06,NORMAL RISK
+Inguran LLC (dba Stgenetics),AcuFast - North Vernon,IN,115210,Livestock breeding services (except consulting),1,4.0,2,0,2,0,6.09,1522.5,500.0,0.0,2,9,3.8,0.31,NORMAL RISK
+"Amergis Healthcare Staffing Services, Inc.",Emeryville Field Office,CA,561320,Temporary staffing services,2,104.0,57,0,36,0,158.23,1521.44,548.08,0.0,36,2923,6.99,6.01,CRITICAL OUTLIER
+Programa Head Start/Early Head Start/MAC,Celada I II,PR,624410,Child day care services,1,6.0,2,0,2,2,9.12,1520.0,333.33,0.0,4,12,2.81,0.95,NORMAL RISK
+Maersk,Pilot Norton,MA,493190,"Private warehousing and storage (except farm products, general merchandise, refrigerated)",1,2.0,1,0,1,0,3.04,1520.0,500.0,0.0,1,4,3.45,-0.06,NORMAL RISK
+Dayton Freight Lines Inc.,606-MSPLH,MN,484122,Transportation,1,2.0,1,0,1,0,3.04,1520.0,500.0,0.0,1,4,10.61,-0.47,NORMAL RISK
+American Eagle Ready Mix-AZ LLC,Roadrunner,AZ,327320,Concrete batch plants (including temporary),1,4.0,2,0,1,1,6.06,1515.0,500.0,0.0,2,56,4.37,0.05,NORMAL RISK
+CCI INC,Labor Plaza,MN,531311,531311 Residential Property Managers,1,2.0,1,0,1,0,3.03,1515.0,500.0,0.0,1,3,1.79,0.15,NORMAL RISK
+MRD Apartments LLC,Gray Estates,MI,531110,531110 apartment rental,1,2.0,1,0,1,0,3.03,1515.0,500.0,0.0,1,3,2.34,0.08,NORMAL RISK
+Port City,430,GA,493110,General warehousing and storage,1,2.0,1,0,1,0,3.03,1515.0,500.0,0.0,1,3,22.18,-0.25,NORMAL RISK
+US Postal Service,SOUTH HIGHLAND_1382181,AL,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.03,1515.0,500.0,0.0,1,3,9.91,-0.45,NORMAL RISK
+Eden Housing,5903_13167,CA,531311,,3,2.0,1,0,1,0,3.03,1515.0,500.0,0.0,1,3,1.79,0.15,NORMAL RISK
+AMERICAN MED RESPONSEGLOBAL MED RESPONSE 015025,Ael Weatherford Ok Rw - 61122,OK,621910,,1,15.0,4,2,2,0,22.71,1514.0,266.67,133.33,12,471,9.95,0.56,NORMAL RISK
+AAA KARTAK STOREFRONT AND GLAZING INC,AAA KARTAK STOREFRONT AND GLAZING INC,WA,238150,Glass installation (except automotive) contractors,1,5.0,2,0,1,1,7.57,1514.0,400.0,0.0,2,207,3.7,0.69,NORMAL RISK
+Hill Valley Productions LLC,Back to the Future (Broadway),NY,711110,Broadway theaters,22,76.0,67,0,22,0,114.97,1512.76,881.58,0.0,22,397,15.53,3.44,CRITICAL OUTLIER
+CBRE Inc,CBRE-C3-719 West Coke Road,TX,561210,Activities related to Real Estate and Facilities Support Services,1,2.0,1,0,1,0,3.02,1510.0,500.0,0.0,1,2,1.67,0.1,NORMAL RISK
+"Quality Management Group, Inc.",Birch Hills,CA,531110,Apartment hotel rental or leasing,1,2.0,1,0,1,0,3.02,1510.0,500.0,0.0,1,2,2.34,0.08,NORMAL RISK
+US Postal Service,CRESCENT MILLS_1359797,CA,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.02,1510.0,500.0,0.0,1,2,9.91,-0.45,NORMAL RISK
+"Quality Management Group, Inc.",San Jacinto Vista I,CA,531110,Apartment building rental or leasing,1,2.0,1,0,1,0,3.02,1510.0,500.0,0.0,1,2,2.34,0.08,NORMAL RISK
+Burlington Capital LLC,Crescent Village,OH,531311,Residential Property Managers,1,2.0,1,0,1,0,3.02,1510.0,500.0,0.0,1,2,1.79,0.15,NORMAL RISK
+AMERICAN MED RESPONSEGLOBAL MED RESPONSE 015025,Rch Reno Nv Fw - 68064,NV,621910,,1,2.0,1,0,1,0,3.02,1510.0,500.0,0.0,1,2,9.95,-0.3,NORMAL RISK
+American Airlines Group AA-MOB-MOBILE,AA-MOB-MOBILE-MOB-HGR5 AA-MOB-MOBILE,AL,481111,Scheduled Air Transportation,1,2.0,1,0,1,0,3.02,1510.0,500.0,0.0,1,2,80.99,-0.26,NORMAL RISK
+Heartand Realty Investors Inc,Woodcreek Villages,CA,531110,lessors of residential buldings and dwellings,1,2.0,1,0,1,0,3.02,1510.0,500.0,0.0,1,2,2.34,0.08,NORMAL RISK
+The Vinyl Answer Inc. DBA Renewal by Andersen of Central NC,Conway Warehouse,SC,238350,"Window and door (residential-type) of any material, prefabricated, installation",1,2.0,1,0,1,0,3.02,1510.0,500.0,0.0,1,2,6.2,-0.34,NORMAL RISK
+US Postal Service,CALIFORNIA 5_1440922,CA,491110,Mail and Parcel Delivery,1,11.0,5,0,2,3,16.6,1509.09,454.55,0.0,5,310,9.91,0.44,NORMAL RISK
+Barber National Institute,Barber National Institute - West Erie West 53rd,PA,624120,Health and Allied Services,1,5.0,2,0,2,0,7.54,1508.0,400.0,0.0,2,154,5.72,0.14,NORMAL RISK
+Coos Bay School District,Sunset,OR,611110,Elementary and secondary schools,21,4.0,2,0,2,0,6.03,1507.5,500.0,0.0,2,3,8.46,-0.07,NORMAL RISK
+Ambassador Sanitation Management,AMBASSADOR SANITATION MANAGEMENT @ PILGRIMS PRIDE Enterprise,AL,311615,"Chickens, processing, fresh, frozen, canned, or cooked (except baby and pet food)",1,4.0,2,0,2,0,6.03,1507.5,500.0,0.0,2,3,36.12,-0.75,NORMAL RISK
+"Cold Rolled Steel, LLC","Cold Rolled Steel, LLC",ID,332312,"Barge sections, prefabricated metal, manufacturing",21,7.0,4,0,0,4,10.54,1505.71,571.43,0.0,4,54,6.42,0.29,NORMAL RISK
+Mid-Willamette Valley Community Action Agency,Head Start Apple Blossom,OR,624190,,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,5.23,-0.11,NORMAL RISK
+"TEC Equipment,Inc.",Redmond,OR,811111,General Automotive Repair,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,3.0,0.0,NORMAL RISK
+Lyft Inc,Lyft Chesapeake Express Drive,VA,532111,Passenger car rental,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,4.41,-0.13,NORMAL RISK
+"Whitewood Construction, LLC",Ardmore Meadows Apartments,NC,236116,"Residential construction, multifamily, general contractors",1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,2.66,0.05,NORMAL RISK
+Work Unlimited,Work Unlimited (Dept. 12),OR,623210,"Group homes, intellectual and developmental disability",21,12.0,6,0,5,0,18.06,1505.0,500.0,0.0,5,206,5.7,0.57,NORMAL RISK
+INTERNATIONAL GOLF MAINTENANCE INC,IGM AT LAKE HENRY,FL,561730,Landscape care and maintenance services,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,6.22,-0.24,NORMAL RISK
+Rise Against Hunger,New England,MA,624230,Non Profit,1,4.0,2,0,2,0,6.02,1505.0,500.0,0.0,2,2,2.02,1.09,ABOVE AVERAGE RISK
+Schneider Inc.,MLS-REY - TS Tech OH,OH,484121,,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,9.02,-0.23,NORMAL RISK
+Oregon State Police,Fossil Worksite,OR,922190,Public Safety,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,25.73,-0.15,NORMAL RISK
+Leslie's Poolmart Inc,Store 0673,GA,453998,Swimming pool supply stores,1,2.0,1,0,0,1,3.01,1505.0,500.0,0.0,1,51,1.11,0.85,NORMAL RISK
+Coversafe - CIN,Coversafe - CIN Location,OH,238990,"Swimming pool, outdoor, construction",1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,2.32,0.1,NORMAL RISK
+HSL Asset Management LLC - Brittany Court,Brittany Court,AZ,531311,Residential property managing,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,1.79,0.15,NORMAL RISK
+"Quality Management Group, Inc.",Desert Oasis,CA,531110,Apartment hotel rental or leasing,1,4.0,4,0,1,0,6.02,1505.0,1000.0,0.0,1,2,2.34,0.45,NORMAL RISK
+Parkside Assisted Living,Parkside Assisted Living,WI,623311,Assisted-living facilities with on-site nursing facilities,21,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,11.23,-0.42,NORMAL RISK
+ITC Federal,Vermont Service Center,VT,541519,"Software installation services, computer",3,10.0,11,0,2,0,15.05,1505.0,1100.0,0.0,2,5,1.04,4.28,CRITICAL OUTLIER
+"Comcast Cable Communications Management, LLC",MAM11,MA,517111,Cable and Other Subscription Programming,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,4.31,-0.14,NORMAL RISK
+US Postal Service,MACDILL AFB_1438733,FL,491110,Mail and Parcel Delivery,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,9.91,-0.45,NORMAL RISK
+"Matthews Senior Housing, LLC",The Courtyard at Oshkosh,WI,623312,,21,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,6.93,-0.42,NORMAL RISK
+Cable One,IL  Galesburg,IL,515210,Broadband Provider,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,2.73,0.04,NORMAL RISK
+SCDPH,Florence County Annex,SC,923120,Health program administration,1,2.0,1,0,1,0,3.01,1505.0,500.0,0.0,1,1,3.02,-0.0,NORMAL RISK
+Marbucco Corp dba Granite State Glass,Manchester,NH,238150,"Curtain wall, glass, installation",1,10.0,5,0,3,2,15.04,1504.0,500.0,0.0,5,104,3.7,2.03,HIGH RISK OUTLIER
+Valiant Enterprises LLC,Chisholm Place,TX,531311,6531,3,2.0,1,0,1,0,3.0,1500.0,500.0,0.0,1,0,1.79,0.15,NORMAL RISK
+All the Best Pet Care,Mercer Island,WA,453910,Pet supply stores,1,6.0,1,0,3,1,9.0,1500.0,166.67,0.0,4,50,1.87,1.51,ABOVE AVERAGE RISK
+3M Company,Chattanooga - KCI,TN,532283,,1,2.0,1,0,0,1,3.0,1500.0,500.0,0.0,1,50,0.68,0.64,NORMAL RISK
+BHE  Limon CO006,Limon,CO,221210,Utilities Natural Gas Distribution,1,2.0,1,0,1,0,3.0,1500.0,500.0,0.0,1,0,3.48,-0.05,NORMAL RISK
+CORTESE CHRYSLER JEEP DODGE INC,Cortese Chrysler Jeep Dodge inc,NY,441110,"Automobile dealers, new only or new and used",21,2.0,3,0,0,0,3.0,1500.0,1500.0,0.0,0,0,4.58,-0.23,NORMAL RISK
+Southern Power Company,Lamesa,TX,221114,"Electric power generation, solar",1,4.0,1,1,0,0,6.0,1500.0,250.0,250.0,5,0,3.09,0.5,NORMAL RISK
+Valiant Enterprises LLC,Lakefront Villas,TX,531311,6531,3,2.0,1,0,1,0,3.0,1500.0,500.0,0.0,1,0,1.79,0.15,NORMAL RISK
+Related Management Company LP,Related Management Company LP Burt Farms I Apartments,NY,531110,,1,2.0,1,0,1,0,3.0,1500.0,500.0,0.0,1,0,2.34,0.08,NORMAL RISK
+Valiant Enterprises LLC,Arden Overlook,OK,531311,6531,3,2.0,1,0,1,0,3.0,1500.0,500.0,0.0,1,0,1.79,0.15,NORMAL RISK
+Cregger Company,Cregger Company Br 43,NC,423720,Wholesale,1,4.0,2,0,0,2,5.99,1497.5,500.0,0.0,2,99,3.09,0.48,NORMAL RISK
+John Deere,John Deere Cylinder Div Moline,IL,333111,Farm tractors and attachments manufacturing,3,338.0,12,0,3,5,505.52,1495.62,35.5,0.0,8,48002,14.17,13.13,CRITICAL OUTLIER
+Metz Culinary Management LLC,5045 Sinai Hospital Baltimore,MD,722310,Food Service Contractor,1,9.0,4,0,4,0,13.46,1495.56,444.44,0.0,4,146,1.39,2.04,HIGH RISK OUTLIER
+US Postal Service,NORTH WANTAGH_1448923,NY,491110,Mail and Parcel Delivery,1,19.0,9,0,9,0,28.38,1493.68,473.68,0.0,9,138,9.91,1.21,ABOVE AVERAGE RISK
+Efficiency Enterprises,Efficiency Enterprises DE,DE,811111,Diesel Engine Repair Shop,1,3.0,1,0,0,1,4.48,1493.33,333.33,0.0,1,198,3.0,0.15,NORMAL RISK
+John Deere,Cylinder Works Moline,IL,333992,Welding equipment manufacturing,3,338.0,12,0,3,4,504.02,1491.18,35.5,0.0,7,48002,8.52,10.75,CRITICAL OUTLIER
+K&G Petroleum,Store #716; 80 Plum Creek Parkway,CO,447110,Gasoline stations with convenience stores,1,10.0,6,0,2,2,14.9,1490.0,600.0,0.0,4,190,1.22,2.56,HIGH RISK OUTLIER
+Utz Quality Foods LLC,Louisville KY,KY,424410,General Line Grocery Merchant Wholesalers,1,4.0,2,0,1,1,5.96,1490.0,500.0,0.0,2,46,34.97,-0.55,NORMAL RISK
+Prairie Farms Dairy,Lexington Branch,KY,424430,"Dairy products (except canned, dried) merchant wholesalers",1,11.0,3,0,3,0,16.37,1488.18,272.73,0.0,3,737,13.46,0.14,NORMAL RISK
+Salt Lake City Corporation,Fire Training Division,UT,922160,Ambulance and fire service combined,1,15.0,9,0,1,6,22.3,1486.67,600.0,0.0,7,230,19.65,0.04,NORMAL RISK
+Sweet Tree Holdings 1 LLC,Warren's Gore,VT,115115,Agriculture production or harvesting crews,21,14.0,10,0,5,0,20.8,1485.71,714.29,0.0,5,80,11.23,0.4,NORMAL RISK
+"West Coast Tomato Growers, Inc.","West Coast Tomato Growers, Inc.",CA,111998,AGRICULTURE,3,26.0,13,0,2,12,38.62,1485.38,500.0,0.0,14,362,8.32,1.67,ABOVE AVERAGE RISK
+Advantage Solutions US OR PORTLAND - 3901 SE NAEF RD,0355 US OR PORTLAND - 3901 SE NAEF RD,OR,425120,"Agents and brokers,durable goods,wholesale trade",1,2.0,1,0,0,1,2.96,1480.0,500.0,0.0,1,46,2.76,0.03,NORMAL RISK
+"United Producers, Inc.",UPI-Frankfort,IN,424520,Hogs merchant wholesalers,1,3.0,1,0,1,0,4.44,1480.0,333.33,0.0,1,144,2.47,0.44,NORMAL RISK
+United States Seafoods,F/T Seafreeze America,WA,311710,Seafood and seafood products manufacturing,21,47.0,21,0,16,3,69.36,1475.74,446.81,0.0,19,1186,16.98,2.48,HIGH RISK OUTLIER
+Ryder System,Ryder Location 2266,OH,811310,maintniance shop,1,3.0,1,0,1,0,4.42,1473.33,333.33,0.0,1,142,3.45,0.06,NORMAL RISK
+United Cerebral Palsy of Georgia,United Cerebral Palsy of Georgia-Oswood,GA,624120,"Activity centers for disabled persons, the elderly, and persons diagnosed with intellectual and developmental disabilities",1,3.0,1,0,1,0,4.41,1470.0,333.33,0.0,1,141,5.72,-0.1,NORMAL RISK
+Mohave County,Mohave County Fairgrounds,AZ,711310,"Fair managers with facilities, agricultural",1,5.0,2,0,2,0,7.34,1468.0,400.0,0.0,2,134,10.83,-0.18,NORMAL RISK
+BEECAN HEALTH,ROYAL GARDENS HEALTHCARE,CA,623110,Skilled nursing facilities,21,6.0,7,0,0,1,8.8,1466.67,1166.67,0.0,1,30,13.46,-0.27,NORMAL RISK
+R &K Development,R &K Development,NV,236118,"Home improvement (e.g., adding on, remodeling, renovating), single-family housing, general contractors",1,5.0,1,0,1,1,7.31,1462.0,200.0,0.0,2,281,5.93,0.13,NORMAL RISK
+The Container Store,097/Palm Beach Gardens,FL,442299,All Other Home Furnishings Stores,21,6.0,3,0,0,3,8.77,1461.67,500.0,0.0,3,127,4.58,0.3,NORMAL RISK
+US Postal Service,GROVE HALL_1365780,MA,491110,Mail and Parcel Delivery,21,25.0,13,0,10,0,36.52,1460.8,520.0,0.0,10,352,9.91,1.74,ABOVE AVERAGE RISK
+Weigand Omega Management,21 Rock Apartments,KS,531311,Residential property managing,1,2.0,1,0,0,1,2.92,1460.0,500.0,0.0,1,42,1.79,0.14,NORMAL RISK
+Curtin Co,Curtin Co Trucking Divison,VA,484110,"General freight trucking, local",1,6.0,3,0,1,2,8.75,1458.33,500.0,0.0,3,75,7.49,0.11,NORMAL RISK
+E0073-Tidal Wave Auto Spa of Belleview NE,E0073-Tidal Wave Auto Spa of Belleview NE,NE,811192,Car washes,1,6.0,3,0,2,1,8.74,1456.67,500.0,0.0,3,24,1.98,1.72,ABOVE AVERAGE RISK
+Foster Fuels,Dallas,TX,424720,Petroleum and Petroleum Products Merchant Wholesalers except Bulk Stations and Terminals,1,3.0,2,0,0,1,4.37,1456.67,666.67,0.0,1,87,2.9,0.27,NORMAL RISK
+SSA Atlantic,"Savannah, GA 542",GA,488320,Stevedoring services,1,4.0,2,0,1,0,5.8,1450.0,500.0,0.0,1,180,16.98,-0.4,NORMAL RISK
+"Walker's Furniture, Inc.","Walker's Furniture, Inc-#12",OR,442110,"Furniture and appliance stores (i.e., primarily retailing furniture)",1,3.0,1,0,1,0,4.35,1450.0,333.33,0.0,1,135,3.67,0.06,NORMAL RISK
+Posner Industries,Posner Industries - Chantilly,VA,423450,"Appliances, surgical, merchant wholesalers",1,4.0,2,0,1,1,5.8,1450.0,500.0,0.0,2,30,5.13,0.05,NORMAL RISK
+"Upstate NY Bottle & Can Retrieval Center, LLC",Griffs - RT 37,NY,423930,"Recyclable materials (e.g., glass, metal, paper) merchant wholesalers",1,4.0,2,0,1,0,5.8,1450.0,500.0,0.0,1,180,3.77,0.29,NORMAL RISK
+ROLLING FRITO LAY SALES,CARROLL,IA,424450,Confectionery Merchant Wholesalers,1,4.0,2,0,1,0,5.8,1450.0,500.0,0.0,1,180,5.29,0.01,NORMAL RISK
+"MEDIEVAL KNIGHTS, LLC",NJ-MKLLC-NEW JERSEY,NJ,711110,DINNER AND THEATRE,22,50.0,28,0,5,18,72.37,1447.4,560.0,0.0,23,737,15.53,1.97,ABOVE AVERAGE RISK
+Warsaw Meadows Care Center,Warsaw Meadows Care center,IN,623110,Skilled nursing facilities,21,5.0,4,0,0,2,7.21,1442.0,800.0,0.0,2,21,13.46,-0.36,NORMAL RISK
+MD OMG EMP LLC,Holly Hill Healthcare Center,MD,623110,Nursing Care Facilities,21,52.0,14,0,26,4,74.96,1441.54,269.23,0.0,30,296,13.46,3.53,CRITICAL OUTLIER
+Priority Signs,Priority-Franksville,WI,339950,Electrical signs manufacturing,1,4.0,2,0,1,1,5.76,1440.0,500.0,0.0,2,26,4.07,0.25,NORMAL RISK
+Lombard Investment Company,Lombard Architectural Precast Products Company,IL,327390,"Precast concrete products (except brick, block, pipe) manufacturing",21,34.0,17,0,5,6,48.9,1438.24,500.0,0.0,11,1290,7.34,3.84,CRITICAL OUTLIER
+"Hugoson Pork, Inc","Hugoson Pork, Inc. - Wean to Finish",MN,112210,Farrow-to-finish operations,1,9.0,7,0,0,3,12.92,1435.56,777.78,0.0,3,142,7.12,0.21,NORMAL RISK
+US Postal Service,MANAYUNK_1371599,PA,491110,Mail and Parcel Delivery,1,10.0,4,0,4,1,14.34,1434.0,400.0,0.0,5,84,9.91,0.29,NORMAL RISK
+Clean Harbors,Clean Harbors Environmental Services Inc 10MPM,AR,811111,,1,3.0,1,0,0,1,4.3,1433.33,333.33,0.0,1,180,3.0,0.14,NORMAL RISK
+US Postal Service,LITCHFIELD_1370606,ME,491110,Mail and Parcel Delivery,1,6.0,2,1,0,1,8.6,1433.33,333.33,166.67,6,10,9.91,-0.09,NORMAL RISK
+Dayton Freight Lines Inc.,642-LKNLH,MN,484122,Transportation,1,3.0,1,0,0,1,4.3,1433.33,333.33,0.0,1,180,10.61,-0.39,NORMAL RISK
+"Scelzi Enterprises, Inc","Scelzi Enterprises, Inc",CA,336211,Truck bodies and cabs manufacturing,21,60.0,49,0,6,13,85.88,1431.33,816.67,0.0,19,538,16.62,2.65,HIGH RISK OUTLIER
+CBRE Inc,CBRE-S12-FPS-Charlottesville-1500 State Farm Blvd,VA,561210,Activities related to Real Estate and Facilities Support Services,1,3.0,1,0,1,0,4.29,1430.0,333.33,0.0,1,129,1.67,0.19,NORMAL RISK
+US Postal Service,SOUTH DEKALB_1382140,GA,491110,Mail and Parcel Delivery,1,2.0,1,0,0,1,2.86,1430.0,500.0,0.0,1,36,9.91,-0.46,NORMAL RISK
+US Postal Service,KENNER_1368861,LA,491110,Mail and Parcel Delivery,21,25.0,11,0,8,1,35.7,1428.0,440.0,0.0,9,720,9.91,1.69,ABOVE AVERAGE RISK
+The Yerba Mate Co.,YMCO South San Francisco,CA,424990,"General merchandise, nondurable goods, merchant wholesalers",1,9.0,4,0,4,0,12.83,1425.56,444.44,0.0,4,83,2.99,1.28,ABOVE AVERAGE RISK
+Arnott Industries,Arnott Industries,FL,332613,"Automobile suspension springs, heavy gauge metal, manufacturing",3,15.0,13,0,4,0,21.35,1423.33,866.67,0.0,4,35,8.57,0.8,NORMAL RISK
+Loudoun County Government,Loudoun County Fire and Rescue Station 11 and 15,VA,922160,"Fire departments (e.g., government, volunteer (except private))",1,18.0,6,1,5,0,25.53,1418.33,333.33,55.56,10,453,19.65,0.09,NORMAL RISK
+County Of Peoria,048 Juvenile Detention Center,IL,922140,Detention centers,21,53.0,28,0,14,8,75.13,1417.55,528.3,0.0,22,713,60.23,0.14,NORMAL RISK
+"May Institute, Inc.",Wilmington School - School,MA,623220,"Alcoholism rehabilitation facilities (except licensed hospitals), residential",21,50.0,32,0,14,5,70.76,1415.2,640.0,0.0,19,326,8.34,3.14,CRITICAL OUTLIER
+Leslie's Poolmart Inc,Store 1062,CA,453998,Swimming pool supply stores,1,2.0,1,0,0,1,2.83,1415.0,500.0,0.0,1,33,1.11,0.77,NORMAL RISK
+Related Management Company LP,Related Management Company LP Luminaira,CA,531110,,1,3.0,1,0,1,0,4.24,1413.33,333.33,0.0,1,124,2.34,0.23,NORMAL RISK
+TenFour Logistics LLC,TenFour Logistics LLC,OH,484110,"General freight trucking, local",21,45.0,24,0,18,0,63.53,1411.78,533.33,0.0,18,353,7.49,4.75,CRITICAL OUTLIER
+SG HOMECARE INC,Glendale,CA,423450,Medical supplies merchant wholesalers,1,2.0,1,0,0,1,2.82,1410.0,500.0,0.0,1,32,5.13,-0.16,NORMAL RISK
+Utz Quality Foods LLC,Decatur AL,AL,424410,General Line Grocery Merchant Wholesalers,1,2.0,1,0,0,1,2.82,1410.0,500.0,0.0,1,32,34.97,-0.61,NORMAL RISK
+Rivanna Water and Sewer Authority,Moores Creek Wastewater Plant,VA,221320,Sewage treatment plants or facilities,1,4.0,3,0,1,0,5.63,1407.5,750.0,0.0,1,63,5.32,0.02,NORMAL RISK
+Villa Esperanza Services,Allen,CA,623210,"Group homes, intellectual and developmental disability",1,3.0,1,0,1,0,4.22,1406.67,333.33,0.0,1,122,5.7,-0.07,NORMAL RISK
+US Postal Service,NASHWAUK_1374438,MN,491110,Mail and Parcel Delivery,1,3.0,1,0,1,0,4.22,1406.67,333.33,0.0,1,122,9.91,-0.37,NORMAL RISK
+Board of Commissioners of the County of Allen IN,Institutional Power Plant,IN,238910,Site Preparation Contractors,1,3.0,2,0,0,1,4.22,1406.67,666.67,0.0,1,72,3.32,0.16,NORMAL RISK
+VAMAC Inc.,VAMAC Chesterfield,VA,423720,Plumbing supplies merchant wholesalers,1,4.0,2,0,1,1,5.62,1405.0,500.0,0.0,2,12,3.09,0.42,NORMAL RISK
+Glass House Brands,"MGF Management, LLC",CA,111422,Flower growing,21,4.0,4,0,0,1,5.62,1405.0,1000.0,0.0,1,12,8.83,-0.14,NORMAL RISK
+Mini Pet Mart,Mini Pet Mart #19,OR,453910,"Feed stores, pet",1,4.0,2,0,1,1,5.62,1405.0,500.0,0.0,2,12,1.87,0.79,NORMAL RISK
+United Cerebral Palsy of Georgia,United Cerebral Palsy of Georgia-Noonday,GA,624120,"Activity centers for disabled persons, the elderly, and persons diagnosed with intellectual and developmental disabilities",1,3.0,1,0,1,0,4.21,1403.33,333.33,0.0,1,121,5.72,-0.11,NORMAL RISK
+Indiana Oxygen Company,Marion,IN,325120,Industrial gases manufacturing,1,7.0,3,0,2,1,9.82,1402.86,428.57,0.0,3,132,1.51,2.4,HIGH RISK OUTLIER
+Woodland care center,Woodland care center,CA,623110,Skilled nursing facilities,2,7.0,6,0,1,0,9.8,1400.0,857.14,0.0,1,180,13.46,-0.21,NORMAL RISK
+US Postal Service,COTTONWOOD_1359387,NM,491110,Mail and Parcel Delivery,1,2.0,1,0,0,1,2.79,1395.0,500.0,0.0,1,29,9.91,-0.47,NORMAL RISK
+Leslie's Poolmart Inc,Store 0810,NV,453998,Swimming pool supply stores,1,3.0,2,0,1,0,4.18,1393.33,666.67,0.0,1,18,1.11,1.37,ABOVE AVERAGE RISK
+"Opus Inspection, Inc.",35025 - Kent - Ohio E-Check,OH,811198,"Emissions testing without repair, automotive",1,5.0,2,0,2,0,6.96,1392.0,400.0,0.0,2,96,3.16,0.52,NORMAL RISK
+"BEECAN HEALTH, LLC",LONG BEACH HEALTHCARE CENTER,CA,623110,Nursing homes,22,12.0,10,0,0,3,16.7,1391.67,833.33,0.0,3,220,13.46,0.19,NORMAL RISK
+Leslie's Poolmart Inc,Store 0551,LA,453998,Swimming pool supply stores,1,3.0,1,0,1,0,4.17,1390.0,333.33,0.0,1,117,1.11,1.37,ABOVE AVERAGE RISK
+Grady Management Inc.,Lee Overlook,VA,531110,Apartment rental or leasing,1,4.0,2,0,1,1,5.56,1390.0,500.0,0.0,2,6,2.34,0.4,NORMAL RISK
+MAJCO LLC,2008,CO,441320,Tire Dealers,1,6.0,2,0,2,0,8.33,1388.33,333.33,0.0,2,233,3.36,1.08,ABOVE AVERAGE RISK
+The Container Store,034/San Jose,CA,442299,All Other Home Furnishings Stores,21,5.0,2,0,2,0,6.94,1388.0,400.0,0.0,2,94,4.58,0.17,NORMAL RISK
+E C Barton & Company,5880,MS,444110,"Home centers, building materials",1,6.0,2,0,2,0,8.32,1386.67,333.33,0.0,2,232,9.57,-0.16,NORMAL RISK
+Superior Ambulance Services,SUPERIOR AMBULANCE MICHIGAN,MI,621910,,1,51.0,25,0,4,19,70.64,1385.1,490.2,0.0,23,914,9.95,2.67,HIGH RISK OUTLIER
+"""Veolia Municipal Water ConOps,Inc.""","""ConOps - NE - New England - Charlton,MA""",MA,221320,Wastewater,1,4.0,2,0,0,2,5.54,1385.0,500.0,0.0,2,54,5.32,0.01,NORMAL RISK
+"Universal Services, Inc.","USI (Rogers, MN)",MN,238210,Low voltage electrical work,2,4.0,2,0,1,1,5.54,1385.0,500.0,0.0,2,4,4.16,0.14,NORMAL RISK
+US Postal Service,PORTSIDE_1378179,VA,491110,Mail and Parcel Delivery,1,2.0,1,0,0,1,2.77,1385.0,500.0,0.0,1,27,9.91,-0.47,NORMAL RISK
+Bumblebee Logistics LLC,Bumblebee Logistics LLC,TX,492110,,21,61.0,31,0,25,0,84.47,1384.75,508.2,0.0,25,347,32.44,0.75,NORMAL RISK
+South Bayside Industries - Nelson Connects,Nelson Connects - SBI,CA,561320,Temporary staffing services,21,29.0,15,0,8,2,40.13,1383.79,517.24,0.0,10,613,6.99,1.32,ABOVE AVERAGE RISK
+Prolink Staffing Services LLC,Chicago Operations,IL,561311,,1,3.0,1,0,1,0,4.15,1383.33,333.33,0.0,1,115,10.1,-0.18,NORMAL RISK
+Tire Rack,TRH012,CA,454110,Electronic Shopping and Mail-Order Houses,21,23.0,10,0,4,5,31.8,1382.61,434.78,0.0,9,630,7.98,1.58,ABOVE AVERAGE RISK
+AWI Supply,Branch 57 - Pine Bluff,AR,424690,Welding gases merchant wholesalers,1,9.0,4,0,2,2,12.4,1377.78,444.44,0.0,4,140,1.72,2.82,HIGH RISK OUTLIER
+Harbor Freight Tools,ALMA MI 3627,MI,444130,Retail Hardware Stores,1,2.0,1,0,0,1,2.75,1375.0,500.0,0.0,1,25,1.94,0.22,NORMAL RISK
+Ricoh USA Inc,506 - City Of Fort Co,CO,423420,Office Equipment,1,2.0,1,0,0,1,2.75,1375.0,500.0,0.0,1,25,0.26,2.16,HIGH RISK OUTLIER
+Leeds West Groups,Leeds West Groups - KS Midas Wichita Central - 5856,KS,811111,Automotive Repair,1,5.0,1,0,1,0,6.86,1372.0,200.0,0.0,1,386,3.0,0.4,NORMAL RISK
+General Floor BEL,General Floor BEL,NJ,423310,Home furnishing merchant wholesalers,1,6.0,3,0,1,2,8.23,1371.67,500.0,0.0,3,23,3.53,0.73,NORMAL RISK
+US Postal Service,RIALTO_1379183,CA,491110,Mail and Parcel Delivery,1,7.0,3,0,2,1,9.6,1371.43,428.57,0.0,3,110,9.91,-0.02,NORMAL RISK
+US Postal Service,WASHINGTON MAIN OFFICE_1386523,DC,491110,Mail and Parcel Delivery,1,5.0,2,0,2,0,6.85,1370.0,400.0,0.0,2,85,9.91,-0.2,NORMAL RISK
+Rosemont Hockey Partners,Rosemont Hockey Partners (game operations),IL,711210,,2,23.0,13,0,9,0,31.44,1366.96,565.22,0.0,9,44,15.72,0.71,NORMAL RISK
+Grandma's House of Hope,Grandma's House of Hope - Harmony Place,CA,624221,Homeless shelters,2,3.0,0,0,2,0,4.1,1366.67,0.0,0.0,2,10,12.5,-0.3,NORMAL RISK
+ArcBest - Risk Management,ABF Freight 043,CT,484122,Transportation,22,22.0,11,0,8,0,30.06,1366.36,500.0,0.0,8,306,10.61,1.2,ABOVE AVERAGE RISK
+"South Kern Dairy, LLC","South Kern Dairy, LLC",CA,112120,Dairy cattle farming,1,6.0,2,0,3,0,8.18,1363.33,333.33,0.0,3,18,7.77,0.04,NORMAL RISK
+Pioneer Masonry Supply,Pioneer Masonry Supply,OH,423320,Mason's materials merchant wholesalers,1,7.0,4,0,2,1,9.53,1361.43,571.43,0.0,3,3,3.2,0.92,NORMAL RISK
+Telecare Corporation,Sutter Yuba Shine,CA,622210,Mental health hospitals,1,5.0,3,0,1,0,6.8,1360.0,600.0,0.0,1,180,26.75,-0.24,NORMAL RISK
+CareVet TMS LLC,Columbia Animal Hospital,MO,541940,Veterinary Services,1,7.0,6,0,1,1,9.52,1360.0,857.14,0.0,2,2,5.69,0.24,NORMAL RISK
+Sutter Yuba Shine,392,CA,622210,Mental health hospitals,1,5.0,3,0,1,0,6.8,1360.0,600.0,0.0,1,180,26.75,-0.24,NORMAL RISK
+"Matthews Senior Housing, LLC",Sussex Assisted Living,WI,623312,Assisted Living Facilities for the Elderly,21,3.0,1,0,1,0,4.08,1360.0,333.33,0.0,1,108,6.93,-0.31,NORMAL RISK
+Telecare Corporation,392 Sutter Yuba Shine,CA,622210,Mental health hospitals,1,5.0,3,0,1,0,6.8,1360.0,600.0,0.0,1,180,26.75,-0.24,NORMAL RISK
+Glass House Brands,"G&H Supply Co, LLC",CA,111422,Flower growing,21,5.0,5,0,0,1,6.79,1358.0,1000.0,0.0,1,29,8.83,-0.09,NORMAL RISK
+CAMDEN DEVELOPMENT INC,CAMDEN PLANTATION,FL,531110,Lessors Residential Bldgs Dwellings,1,9.0,4,0,1,3,12.22,1357.78,444.44,0.0,4,172,2.34,1.22,ABOVE AVERAGE RISK
+GOODWILL IND NW NC INC,5505A GNWNC ADC ASHEV HENDERSONV RD,NC,624310,NOT FOR PROFIT HUMAN SERVICES VOCATIONAL EDUCATION AND TRAINING FUNDED BY THE DONATIONS SOLD IN RETAIL,1,4.0,1,0,2,0,5.43,1357.5,250.0,0.0,2,43,3.52,0.21,NORMAL RISK
+Cogir Senior Living,Cadence at Broomfield,CO,623311,Continuing care retirement communities,1,2.0,1,0,0,1,2.71,1355.0,500.0,0.0,1,21,11.23,-0.43,NORMAL RISK
+"Johnson County, Iowa",Emergency Management,IA,922190,"Emergency planning and management offices, government",1,2.0,1,0,0,1,2.71,1355.0,500.0,0.0,1,21,25.73,-0.16,NORMAL RISK
+US Postal Service,VILLA RICA_1385974,GA,491110,Mail and Parcel Delivery,1,3.0,2,0,1,0,4.06,1353.33,666.67,0.0,1,6,9.91,-0.38,NORMAL RISK
+US Postal Service,MARLTON_1371932,NJ,491110,Mail and Parcel Delivery,1,3.0,2,0,1,0,4.06,1353.33,666.67,0.0,1,6,9.91,-0.38,NORMAL RISK
+Full Spectrum Solar,Next Energy LLC - Waukesha,WI,238210,Installation of photovoltaic panels,1,6.0,3,0,1,2,8.1,1350.0,500.0,0.0,3,10,4.16,0.41,NORMAL RISK
