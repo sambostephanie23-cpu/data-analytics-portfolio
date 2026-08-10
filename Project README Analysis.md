@@ -40,8 +40,8 @@ Analyzes 253K+ aviation records to examine passenger traffic, airline market sha
 
 **ESG • Environmental Analytics • Oil & Gas**
 
-**SQL + BigQuery**
-
+**SQL + BigQuery + PowerBI**
+ 
 Analyzes Nigerian oil spill incidents to examine spill volumes, recovery, companies, locations, and environmental impact patterns.
 
 [View Project](./NOSDRA-Analysis/)
