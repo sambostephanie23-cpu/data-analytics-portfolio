@@ -1,0 +1,35 @@
+CREATE OR REPLACE TABLE
+`nigerian-oil-spill.Airport_Analysis.us_airline_airport_traffic_2025_cleaned` AS
+
+SELECT
+    YEAR,
+    QUARTER,
+    MONTH,
+
+    UNIQUE_CARRIER,
+    UNIQUE_CARRIER_NAME,
+    AIRLINE_ID,
+
+    ORIGIN_AIRPORT_ID,
+    ORIGIN,
+    ORIGIN_CITY_NAME,
+    ORIGIN_STATE_ABR,
+    ORIGIN_STATE_NM,
+
+    DEST_AIRPORT_ID,
+    DEST,
+    DEST_CITY_NAME,
+    DEST_STATE_ABR,
+    DEST_STATE_NM,
+
+    PASSENGERS,
+    COALESCE(FREIGHT, 0) AS FREIGHT,
+    MAIL,
+    DISTANCE,
+
+    CONCAT(ORIGIN, ' → ', DEST) AS ROUTE
+
+FROM
+`nigerian-oil-spill.Airport_Analysis.US airline and airport traffic performance in 2025`
+
+WHERE YEAR = 2025;
