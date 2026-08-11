@@ -1,91 +1,62 @@
-# Stephanie Sambo — Data Analytics Portfolio
+## 📂 Featured Projects
 
-Data Analyst focused on **Industrial & Operations Analytics, ESG, Energy, Workplace Safety, and Supply Chain Analytics**.
+### ✈️ U.S. Airline & Airport Analysis
+**SQL • Power BI**
 
-I use data to investigate operational and environmental problems, identify patterns, and turn analysis into practical business insights.
+Analyzed U.S. airline and airport traffic performance to identify patterns in routes, airlines, and airport activity.
 
-## Focus Areas
-
-- Industrial & Operations Analytics
-- ESG & Environmental Analytics
-- Energy & Oil & Gas Analytics
-- Workplace Safety & Risk Analytics
-- Supply Chain Analytics
-- Business Intelligence
-- Analytics Engineering
-
-## Technical Skills
-
-- **Data Analysis:** Excel, SQL, Python
-- **Data Platforms:** BigQuery, Google Cloud
-- **Visualization & BI:** Power BI
-- **Analytics Engineering:** dbt, data transformation, Git
-- **Version Control:** Git & GitHub
-
-## Projects
-
-### ✈️ U.S. Airline & Airport Traffic Performance — 2025
-
-**Transportation Analytics • Operations Analytics • Business Intelligence**
-
-**SQL + BigQuery + Power BI + DAX**
-
-Analyzes 253K+ aviation records to examine passenger traffic, airline market share, freight activity, airports, routes, and monthly traffic patterns across the U.S. aviation network.
-
-[View Project](./U.S-Airline-Analysis/)
+🔗 [View Project](./U.S-Airline-Analysis)
 
 ---
 
-### 🛢️ NOSDRA Oil Spill Analysis
+### 👥 Workforce Retention & Attrition Analysis
+**SQL • Google BigQuery • Power BI • DAX**
 
-**ESG • Environmental Analytics • Oil & Gas**
+Analyzed workforce data to identify employee attrition patterns across industries, job levels, tenure, and employee characteristics.
 
-**SQL + BigQuery + PowerBI**
- 
-Analyzes Nigerian oil spill incidents to examine spill volumes, recovery, companies, locations, and environmental impact patterns.
-
-[View Project](./NOSDRA-Analysis/)
+🔗 [View Project](./Workforce-Retention-Attrition-Analysis)
 
 ---
 
-### 🔥 Nigeria Gas Flare Analysis
+### 🛢️ Oil Spill Analysis
+**SQL • BigQuery • Power BI**
 
-**ESG • Energy • Environmental Analytics**
+Analyzed oil spill incidents to examine spill volumes, affected locations, companies, and recovery patterns.
 
-**SQL + BigQuery + Power BI**
-
-Analyzes gas flaring activity in Nigeria to identify trends, operational patterns, and environmental implications.
-
-[View Project](./Nigeria-Gas-Flare/)
+🔗 [View Project](./...)
 
 ---
 
-### 🦺 OSHA Workplace Safety Risk Analysis
+### ⚡ Energy & Utilities Analysis
+**SQL • BigQuery • Power BI**
 
-**Workplace Safety • Risk Analytics • Statistical Analysis**
+Analyzed energy and utility data to identify operational patterns and performance trends.
 
-**SQL + BigQuery**
-
-Analyzes workplace safety data to identify incident patterns, risk factors, and areas that may require stronger safety controls.
-
-[View Project](./Osha-Workplace-Safety-Risk-Analysis/)
+🔗 [View Project](./...)
 
 ---
 
-### ⚙️ Industrial Predictive Maintenance
+### 🏭 Predictive Maintenance Analysis
+**SQL • Power BI**
 
-**Industrial Operations • Reliability Analytics • Predictive Maintenance**
+Analyzed maintenance and equipment data to identify patterns associated with equipment failure and maintenance requirements.
 
-**SQL + BigQuery**
-
-Explores equipment and operational data to identify patterns associated with equipment failure and support maintenance decision-making.
-
-[View Project](./Industrial-Predictive-Maintenance/)
+🔗 [View Project](./...)
 
 ---
 
-## Portfolio Direction
+### 🌍 Gas Flare Analysis
+**SQL • BigQuery • Power BI**
 
-My portfolio is built around applying analytics to **real-world industrial, environmental, operational, and business problems**, with a growing focus on analytics engineering and data engineering.
+Explored global gas flaring data to identify trends and environmental patterns.
 
-More projects and deeper analyses will be added as the portfolio develops.
+🔗 [View Project](./...)
+
+---
+
+### 🏥 Workplace Safety Analysis
+**SQL • Power BI**
+
+Analyzed workplace safety data to identify incident patterns and occupational risk trends.
+
+🔗 [View Project](./...)
