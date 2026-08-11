@@ -1,0 +1,29 @@
+CREATE OR REPLACE VIEW
+`upbeat-button-484609-e9.Workforce_Retention_Attrition_Analysis.workforce_overview`
+AS
+
+SELECT
+  COUNT(*) AS total_employees,
+
+  COUNTIF(Attrition = 'Left') AS employees_left,
+
+  COUNTIF(Attrition = 'Stayed') AS employees_stayed,
+
+  ROUND(
+    SAFE_DIVIDE(
+      COUNTIF(Attrition = 'Left'),
+      COUNT(*)
+    ) * 100,
+    2
+  ) AS attrition_rate,
+
+  ROUND(AVG(Age), 1) AS average_age,
+
+  ROUND(AVG(`Monthly Income`), 2) AS average_monthly_income,
+
+  ROUND(AVG(`Years at Company`), 1) AS average_years_at_company,
+
+  COUNT(DISTINCT `Job Role`) AS total_job_roles
+
+FROM
+`upbeat-button-484609-e9.Workforce_Retention_Attrition_Analysis.Workforce_Analysis_Cleaned`;
