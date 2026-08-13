@@ -1,62 +1,92 @@
+# Data Analytics Portfolio
+### Sambo Stephanie
+
+Welcome to my Data Analytics Portfolio.  
+I specialize in turning raw data into clear, actionable insights using **SQL**, **Google BigQuery**, **Power BI**, and **Excel**.
+
+This portfolio showcases end-to-end analytics projects focused on business problems in aviation, workforce retention, energy & environment, customer churn, and workplace safety.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Data Analysis & Querying**  
+SQL • Google BigQuery • Excel (Advanced)
+
+**Visualization & BI**  
+Power BI • DAX • PivotTables / PivotCharts
+
+**Other**  
+Data Cleaning • Data Modeling • Dashboard Design • Business Insight Generation
+
+**Certifications**  
+- Google Data Analytics Professional Certificate  
+- Google AI (Coursera)
+
+---
+
 ## 📂 Featured Projects
 
 ### ✈️ U.S. Airline & Airport Analysis
-**SQL • Power BI**
+**SQL • BigQuery • Power BI • DAX**  
+Analyzed 2025 U.S. aviation traffic data (844M+ passengers) to uncover airline market share, top routes, seasonal patterns, and cargo performance.
 
-Analyzed U.S. airline and airport traffic performance to identify patterns in routes, airlines, and airport activity.
-
-🔗 [View Project](./U.S-Airline-Analysis)
+→ [View Project](./U.S-Airline-Analysis)
 
 ---
 
 ### 👥 Workforce Retention & Attrition Analysis
-**SQL • Google BigQuery • Power BI • DAX**
+**SQL • BigQuery • Power BI • DAX**  
+Analyzed employee data to identify attrition patterns across industries, job levels, tenure, income, and other workforce characteristics.
 
-Analyzed workforce data to identify employee attrition patterns across industries, job levels, tenure, and employee characteristics.
-
-🔗 [View Project](./Workforce-Retention-Attrition-Analysis)
-
----
-
-### 🛢️ Oil Spill Analysis
-**SQL • BigQuery • Power BI**
-
-Analyzed oil spill incidents to examine spill volumes, affected locations, companies, and recovery patterns.
-
-🔗 [View Project](./...)
+→ [View Project](./Workplace-Attrition-Analysis)
 
 ---
 
-### ⚡ Energy & Utilities Analysis
-**SQL • BigQuery • Power BI**
+### 🛢️ NOSDRA Oil Spill Analysis
+**SQL • BigQuery • Power BI**  
+Examined oil spill incidents in Nigeria to identify trends by state, spill volumes, recovery rates, and major causes.
 
-Analyzed energy and utility data to identify operational patterns and performance trends.
-
-🔗 [View Project](./...)
-
----
-
-### 🏭 Predictive Maintenance Analysis
-**SQL • Power BI**
-
-Analyzed maintenance and equipment data to identify patterns associated with equipment failure and maintenance requirements.
-
-🔗 [View Project](./...)
+→ [View Project](./NOSDRA-Oil-Spill-Analysis)
 
 ---
 
-### 🌍 Gas Flare Analysis
-**SQL • BigQuery • Power BI**
+### 🔥 Nigeria Gas Flare Analysis
+**SQL • BigQuery • Power BI**  
+Explored gas flaring data to identify environmental and operational patterns across Nigeria.
 
-Explored global gas flaring data to identify trends and environmental patterns.
-
-🔗 [View Project](./...)
+→ [View Project](./Nigeria-Gas-Flare)
 
 ---
 
-### 🏥 Workplace Safety Analysis
-**SQL • Power BI**
+### 🏥 OSHA Workplace Safety Risk Analysis
+**SQL • BigQuery**  
+Built a multi-stage risk scoring model to identify high-risk establishments and industries based on injury, fatality, and severity metrics.
 
-Analyzed workplace safety data to identify incident patterns and occupational risk trends.
+→ [View Project](./Osha-Workplace-Safety-Risk-Analysis)
 
-🔗 [View Project](./...)
+---
+
+### 📱 MTN Customer Churn & Analytics
+**Excel • Power BI**  
+Analyzed MTN customer data to understand revenue drivers, churn rates by state, subscription performance, and customer satisfaction.
+
+→ [View Project](./MTN-Data-Churn-Analysis)
+
+---
+
+## 📄 Resume / CV
+[View my CV](./Sambo-Stephanie-CV/Sambo_Stephanie_CV.pdf)
+
+---
+
+## 📬 Contact
+Feel free to reach out for opportunities or collaborations!
+
+- LinkedIn: [www.linkedin.com/in/stephanie-sambo-64a889403]
+- Email: [sambostephanie23@gmail.com]
+- GitHub: [sambostephanie23-cpu](https://github.com/sambostephanie23-cpu)
+
+---
+
+*Thank you for visiting my portfolio!*
