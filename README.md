@@ -39,7 +39,7 @@ Analyzed 2025 U.S. aviation traffic data (844M+ passengers) to uncover airline m
 **SQL • BigQuery • Power BI • DAX**  
 Analyzed employee data to identify attrition patterns across industries, job levels, tenure, income, and other workforce characteristics.
 
-→ [View Project](./Workplace-Attrition-Analysis)
+→ [View Project](./Workforce-Retention-Attrition-Analysis)
 
 ---
 
@@ -55,7 +55,7 @@ Examined oil spill incidents in Nigeria to identify trends by state, spill volum
 **SQL • BigQuery • Power BI**  
 Explored gas flaring data to identify environmental and operational patterns across Nigeria.
 
-→ [View Project](./Nigeria-Gas-Flare)
+→ [View Project](./Nigeria-Gas-Flare-Analysis)
 
 ---
 
